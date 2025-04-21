@@ -1,12 +1,12 @@
 [project]
 name = "comfyui_prompt_widget" 
 description = "This is a prompt widget for ComfyUI, which can perform functions such as translation, expansion, preset settings, and history records."
-version = "1.0.0" 
+version = "1.0.1" 
 license = { file = "LICENSE.txt" }
 dependencies  = [] # Filled in from requirements.txt
 
 [project.urls]
-Repository = "https://github.com/..."
+Repository = "https://github.com/yawiii/comfyui_prompt_widget"
 
 [tool.comfy]
 PublisherId = "yawiii" 

@@ -1,0 +1,1268 @@
+/**
+ * ClipText Translate UI 样式表
+ * 包含所有组件样式和动画定义
+ */
+
+/* ======== 动画效果定义 ======== */
+
+/* 从下向上淡入动画 */
+@keyframes clipFadeInUp {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* 从上向下淡入动画 */
+@keyframes clipFadeInDown {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* 从下向上淡出动画 */
+@keyframes clipFadeOutUp {
+    from { opacity: 1; transform: translateY(0); }
+    to { opacity: 0; transform: translateY(10px); }
+}
+
+/* 从上向下淡出动画 */
+@keyframes clipFadeOutDown {
+    from { opacity: 1; transform: translateY(0); }
+    to { opacity: 0; transform: translateY(-10px); }
+}
+
+/* 淡入动画 */
+@keyframes clipFadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* 按钮加载动画 */
+@keyframes clipButtonLoading {
+    0% { opacity: 0.5; transform: scale(0.95); }
+    50% { opacity: 1; transform: scale(1.05); }
+    100% { opacity: 0.5; transform: scale(0.95); }
+}
+
+/* 文本更新效果 */
+@keyframes clipTextPulse {
+    0% { background-color: transparent; }
+    50% { background-color: rgba(255, 255, 100, 0.2); }
+    100% { background-color: transparent; }
+}
+
+/* 状态提示浮动效果 - 向上淡出 */
+@keyframes clipFloatUp {
+    0% { opacity: 1; }
+    100% { transform: translateY(-50px); opacity: 0; }
+}
+
+/* 抖动效果 */
+@keyframes clipShake {
+    0% { transform: translateX(0); }
+    20% { transform: translateX(-2px); }
+    40% { transform: translateX(2px); }
+    60% { transform: translateX(-2px); }
+    80% { transform: translateX(2px); }
+    100% { transform: translateX(0); }
+}
+
+/* ======== 组件样式 ======== */
+
+/* 游戏风格数值飘动效果 */
+.prompt_widget_status {
+    text-shadow: 0 2px 4px rgba(0,0,0,0.8);
+    animation: clipFadeIn 0.2s ease-in-out;
+    transform-origin: center bottom;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    position: absolute; /* 使用absolute代替fixed */
+    padding: 4px 8px;
+    border-radius: 8px;
+    font-size: 14px;
+    z-index: 10000;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    pointer-events: none; /* 确保提示不会阻挡交互 */
+    backdrop-filter: blur(8px);
+    white-space: nowrap; /* 防止文本换行 */
+}
+
+/* 状态提示出场动画 */
+.prompt_widget_status.float_out {
+    transition: transform 0.8s ease-out, opacity 0.8s ease-out;
+}
+
+/* 不同状态的颜色效果 */
+.prompt_widget_status.success {
+    color: rgba(120, 255, 120, 1) !important;
+    /* text-shadow: 0 0 5px rgba(0, 255, 0, 0.5); */
+    background-color: rgba(20, 50, 20, 0.7);
+}
+
+.prompt_widget_status.error {
+    color: rgba(255, 120, 120, 1) !important;
+    /* text-shadow: 0 0 5px rgba(255, 0, 0, 0.5); */
+    background-color: rgba(50, 20, 20, 0.7);
+}
+
+.prompt_widget_status.restore {
+    color: rgba(120, 180, 255, 1) !important;
+    /* text-shadow: 0 0 5px rgba(0, 100, 255, 0.5); */
+    background-color: rgba(20, 20, 50, 0.7);
+}
+
+.prompt_widget_status.loading {
+    color: rgba(255, 255, 180, 1) !important;
+    /* text-shadow: 0 0 5px rgba(255, 255, 0, 0.5); */
+    background-color: rgba(20, 20, 20, 0.7);
+}
+
+.prompt_widget_status.info {
+    color: rgba(180, 180, 255, 1) !important;
+    /* text-shadow: 0 0 5px rgba(100, 100, 255, 0.5); */
+    background-color: rgba(30, 30, 60, 0.7);
+}
+
+/* 按钮状态 */
+.widget_button_active { 
+    opacity: 1 !important; 
+    transform: scale(1.1) !important; 
+}
+
+.widget_button_disabled { 
+    opacity: 0.3 !important; 
+    cursor: default !important; 
+    pointer-events: none; 
+}
+
+.widget_button_loading { 
+    animation: clipButtonLoading 1.5s infinite ease-in-out; 
+}
+
+/* 图标按钮样式 */
+.widget_icon_button {
+    /* display: inline-block; */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    /* margin-left: 4px; */
+    border: none;
+    padding: 0;
+    background-color: transparent;
+    transition: transform 0.15s, opacity 0.2s, background-color 0.2s;
+    flex-shrink: 0; /* 防止按钮被压缩 */
+    border-radius: 3px; /* 添加圆角，使高亮效果更美观 */
+}
+
+.widget_icon_button:hover {
+    opacity: 1;
+    transform: scale(1.1);
+    background-color: rgba(255, 255, 255, 0.1); /* 添加背景高亮 */
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.2); /* 添加轻微阴影 */
+}
+
+/* 添加按钮激活状态样式 */
+.widget_icon_button:active {
+    transform: scale(0.95);
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+/* 小部件显示和隐藏动画类 */
+.widget_show {
+    display: flex !important;
+    animation: clipFadeInDown 0.2s ease-in-out forwards;
+}
+
+.widget_hide {
+    display: flex !important; /* 确保元素在动画过程中保持可见 */
+    animation: clipFadeOutUp 0.3s ease-in-out forwards !important;
+    pointer-events: none; /* 在隐藏动画过程中防止点击 */
+}
+
+/* 小部件容器 */
+.prompt_widget_box {
+    position: absolute;
+    pointer-events: all;
+    display: none; /* 默认隐藏 */
+    align-items: center;
+    justify-content: flex-end;
+    gap: 4px; /* 增加按钮间距 */
+    padding: 4px 0px 4px 4px;
+    background-color: rgba(30, 30, 30, 0.8);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 4px;
+    z-index: 9999;
+    opacity: 0.9;
+    transition: opacity 0.3s, transform 0.2s;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    transform-origin: bottom right;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+
+}
+
+/* 相对定位的小部件样式 */
+.multiline-input > .prompt_widget_box {
+    position: absolute;
+    right: 12px;
+    bottom: 8px;
+}
+
+.prompt_widget_box:hover { 
+    opacity: 1 !important; 
+    transform: scale(1.05);
+}
+
+/* 分隔线 */
+.widget_divider {
+    width: 1px;
+    min-width: 1px;
+    height: 14px;
+    background-color: rgba(255,255,255,0.2);
+    /* margin: 0 2px; */
+    flex-shrink: 0;
+    align-self: center;
+}
+
+/* 文本更新动画 */
+.prompt_text_updated { 
+    animation: clipTextPulse 0.3s ease-in-out; 
+}
+
+/* 通用弹窗样式 */
+.prompt_popup_base {
+    position: absolute;
+    z-index: 10000;
+    background-color: rgba(30, 30, 30, 0.95);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(8px);
+    animation: clipFadeIn 0.2s ease-in-out;
+}
+
+/* 历史记录弹窗 */
+.prompt_history_popup { 
+    position: absolute;
+    z-index: 10000;
+    background-color: rgba(30, 30, 30, 0.95);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    max-width: 360px;
+    max-height: 400px;
+    overflow-y: auto;
+    backdrop-filter: blur(8px);
+    padding: 4px 0;
+}
+
+/* 向上弹出的历史记录弹窗 */
+.prompt_history_popup.popup_up { 
+    animation: clipFadeInUp 0.2s ease-in-out;
+}
+
+/* 向下弹出的历史记录弹窗 */
+.prompt_history_popup.popup_down { 
+    animation: clipFadeInDown 0.2s ease-in-out;
+}
+
+/* 历史记录弹窗关闭动画 */
+.prompt_history_popup.closing-up {
+    animation: clipFadeOutUp 0.2s ease-in-out forwards;
+    pointer-events: none;
+}
+
+.prompt_history_popup.closing-down {
+    animation: clipFadeOutDown 0.2s ease-in-out forwards;
+    pointer-events: none;
+}
+
+/* 历史标题栏 */
+.prompt_history_title_bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    margin-bottom: 4px;
+}
+
+.prompt_history_title {
+    font-size: 12px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.prompt_history_actions {
+    display: flex;
+    gap: 8px;
+}
+
+/* 历史清空按钮 */
+.prompt_history_clear {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 11px;
+    cursor: pointer;
+    padding: 2px 4px;
+    border-radius: 2px;
+    transition: all 0.2s;
+}
+
+.prompt_history_clear:hover {
+    background-color: rgba(255, 100, 100, 0.2);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* 历史关闭按钮 */
+.prompt_history_close {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    cursor: pointer;
+    padding: 0 4px;
+    line-height: 1;
+    transition: all 0.2s;
+}
+
+.prompt_history_close:hover {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* 历史列表 */
+.prompt_history_list {
+    max-height: 350px;
+    overflow-y: auto;
+}
+
+/* 历史项 */
+.prompt_history_item {
+    padding: 6px 10px;
+    font-size: 12px;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.7);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: background-color 0.2s;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    background-color: rgba(30, 30, 30, 0.95); /* 统一背景色 */
+    position: relative; /* 添加相对定位，方便左侧标识定位 */
+}
+
+.prompt_history_item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.prompt_history_item.current {
+    font-weight: bold; 
+    color: rgba(255, 255, 255, 0.9); 
+    background-color: rgba(100, 100, 255, 0.025); /* 菜单首项颜色 */
+}
+
+.prompt_history_item:active { 
+    background-color: rgba(255, 255, 255, 0.2) !important; 
+}
+
+/* 当前节点（置顶项）的左侧标识 */
+.prompt_history_item.current_node::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background-color: rgba(60, 255, 161, 0.9); /* 置顶标识颜色 */
+}
+
+/* 节点ID颜色类 */
+.prompt_history_node_id {
+    font-weight: bold;
+    margin-right: 4px;
+    font-size: 0.9em;
+}
+
+/* 节点ID颜色方案 - 每个模数对应一种颜色 */
+.node_color_0 { color: rgba(255, 100, 100, 0.9); }  /* 红色 */
+.node_color_1 { color: rgba(100, 255, 100, 0.9); }  /* 绿色 */
+.node_color_2 { color: rgba(100, 100, 255, 0.9); }  /* 蓝色 */
+.node_color_3 { color: rgba(255, 255, 100, 0.9); }  /* 黄色 */
+.node_color_4 { color: rgba(255, 100, 255, 0.9); }  /* 紫红色 */
+.node_color_5 { color: rgba(100, 255, 255, 0.9); }  /* 青色 */
+.node_color_6 { color: rgba(255, 150, 50, 0.9); }   /* 橙色 */
+.node_color_7 { color: rgba(180, 120, 255, 0.9); }  /* 浅紫色 */
+.node_color_8 { color: rgba(120, 200, 80, 0.9); }   /* 浅绿色 */
+.node_color_9 { color: rgba(250, 150, 150, 0.9); }  /* 浅红色 */
+
+/* 当前节点的历史记录颜色 - 更亮更突出 */
+.node_color_current { color: rgba(255, 200, 0, 1.0); font-weight: bold; }
+
+/* 状态提示出场动画 */
+.prompt_widget_status.float_out {
+    transition: transform 0.8s ease-out, opacity 0.8s ease-out;
+}
+
+/* 添加预设类型标签的样式 */
+.prompt_preset_type {
+    font-size: 11px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+/* 预设类型的基础样式 - 任何未知的类型将使用此样式 */
+.preset_type_default {
+    background-color: rgba(128, 128, 128, 0.2);
+    color: rgb(200, 200, 200);
+    border: 1px solid rgba(128, 128, 128, 0.3);
+}
+
+/* 预设颜色样式 */
+.preset_type_blue {
+    background-color: rgba(65, 105, 225, 0.2);
+    color: rgb(135, 165, 255);
+    border: 1px solid rgba(65, 105, 225, 0.3);
+}
+
+.preset_type_green {
+    background-color: rgba(50, 205, 50, 0.2);
+    color: rgb(120, 255, 120);
+    border: 1px solid rgba(50, 205, 50, 0.3);
+}
+
+.preset_type_red {
+    background-color: rgba(220, 20, 60, 0.2);
+    color: rgb(255, 120, 120);
+    border: 1px solid rgba(220, 20, 60, 0.3);
+}
+
+.preset_type_orange {
+    background-color: rgba(255, 165, 0, 0.2);
+    color: rgb(255, 200, 100);
+    border: 1px solid rgba(255, 165, 0, 0.3);
+}
+
+.preset_type_cyan {
+    background-color: rgba(0, 128, 128, 0.2);
+    color: rgb(100, 220, 220);
+    border: 1px solid rgba(0, 128, 128, 0.3);
+}
+
+.preset_type_purple {
+    background-color: rgba(186, 85, 211, 0.2);
+    color: rgb(210, 150, 240);
+    border: 1px solid rgba(186, 85, 211, 0.3);
+}
+
+.preset_type_yellow {
+    background-color: rgba(255, 215, 0, 0.2);
+    color: rgb(255, 230, 150);
+    border: 1px solid rgba(255, 215, 0, 0.3);
+}
+
+.preset_type_lightblue {
+    background-color: rgba(100, 149, 237, 0.2);
+    color: rgb(160, 200, 255);
+    border: 1px solid rgba(100, 149, 237, 0.3);
+}
+
+.preset_type_pink {
+    background-color: rgba(221, 160, 221, 0.2);
+    color: rgb(240, 180, 240);
+    border: 1px solid rgba(221, 160, 221, 0.3);
+}
+
+.preset_type_lime {
+    background-color: rgba(34, 139, 34, 0.2);
+    color: rgb(140, 220, 140);
+    border: 1px solid rgba(34, 139, 34, 0.3);
+}
+
+.preset_type_coral {
+    background-color: rgba(178, 34, 34, 0.2);
+    color: rgb(240, 140, 140);
+    border: 1px solid rgba(178, 34, 34, 0.3);
+}
+
+.preset_type_indigo {
+    background-color: rgba(70, 130, 180, 0.2);
+    color: rgb(140, 190, 230);
+    border: 1px solid rgba(70, 130, 180, 0.3);
+}
+
+.prompt_preset_note {
+    font-size: 11px;
+    color: rgba(200, 200, 200, 0.7);
+    font-style: italic;
+}
+
+.prompt_preset_content {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.9);
+    word-break: break-all;
+    white-space: normal;
+    line-height: 1.4;
+}
+
+/* ======== 预设管理对话框样式 ======== */
+.prompt-preset-manager-dialog {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+}
+
+.prompt-preset-manager-content {
+    background-color: #1a1a1a;
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 15px;
+    width: 90%;
+    max-width: 1000px;
+    max-height: 70vh;
+    overflow-y: auto;
+    box-shadow: 0 4px 23px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.preset-close-button {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 24px;
+    height: 24px;
+    border-radius: 12px;
+    background-color: rgba(60, 60, 60, 0.5);
+    color: #ccc;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    z-index: 1;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.preset-close-button:hover {
+    background-color: rgba(100, 100, 100, 0.7);
+    color: white;
+}
+
+/* 调整标题右侧间距，避免与关闭按钮重叠 */
+.prompt-preset-title {
+    margin: 0 30px 8px 0;  /* 增加右侧margin */
+    padding: 0 15px 10px 15px;
+    margin-left: -15px;
+    margin-right: -15px;
+    border-bottom: 1px solid #444;
+    font-size: 1.5em;
+    position: relative;  /* 添加相对定位 */
+}
+
+.preset-table-container {
+    max-height: 400px;
+    overflow-y: auto;
+    margin: 10px 0;
+    border: 0px solid #333;
+    border-radius: 4px;
+    background-color: rgba(40, 40, 40, 0.2)
+    
+
+}
+
+.preset-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+/* 表头 */
+.preset-table th {
+    padding: 10px 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: left;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+    background-color: rgba(40, 40, 40, 0.5);
+    backdrop-filter: blur(8px);
+    z-index: 1;
+}
+
+.preset-table td {
+    padding: 8px;
+    border-bottom: none;
+}
+
+.preset-table tr:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.preset-loading-indicator {
+    text-align: center;
+    padding: 20px;
+    color: #aaa;
+}
+
+.preset-manager-buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+.preset-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+}
+
+/* ======== 预设管理表格样式 ======== */
+.preset-type-select {
+    width: 100px;
+    min-width: 100px;
+    max-width: 100px;
+    padding: 4px;
+    border: 1px solid #444;
+    background-color: #2a2a2a;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.preset-color-select {
+    width: 36px !important;
+    min-width: 36px !important;
+    max-width: 36px !important;
+    padding: 2px;
+    border: 1px solid #444;
+    background-color: #2a2a2a;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 16px;
+}
+
+.preset-color-select option {
+    padding: 4px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.preset-color-select:focus {
+    border-color: #666;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(100, 100, 255, 0.2);
+}
+
+/* 更新表头样式以适应新的颜色列 */
+.preset-table th:first-child {
+    width: 36px;
+    min-width: 36px;
+    max-width: 36px;
+    padding: 4px;
+    text-align: center;
+    
+}
+
+/* 修改类型列的宽度 */
+.preset-table th:nth-child(2) {
+    width: 100px;
+    min-width: 100px;
+    max-width: 100px;
+    padding: 4px;
+    text-align: left;
+}
+
+/* 修改内容列的宽度 */
+.preset-table th:nth-child(3) {
+    width: auto;
+    min-width: 300px;
+    padding: 4px;
+    text-align: left;
+}
+
+/* 修改说明列的宽度 */
+.preset-table th:nth-child(4) {
+    width: 120px;
+    min-width: 120px;
+    max-width: 120px;
+    padding: 4px;
+    text-align: left;
+}
+
+/* 修改操作列的宽度 */
+.preset-table th:last-child {
+    width: 100px;
+    min-width: 100px;
+    max-width: 100px;
+    padding: 4px;
+    text-align: center;
+}
+
+/* 调整输入框的宽度 */
+.preset-content-input {
+    width: 100%;
+    min-width: 300px;
+    padding: 4px 8px;
+    border: 1px solid #444;
+    background-color: #2a2a2a;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.preset-note-input {
+    width: 100%;
+    min-width: 100px;
+    max-width: 120px;
+    padding: 4px 8px;
+    border: 1px solid #444;
+    background-color: #2a2a2a;
+    color: #fff;
+    border-radius: 4px;
+}
+
+/* 输入框焦点样式 */
+.preset-content-input:focus,
+.preset-note-input:focus,
+.preset-type-select:focus {
+    border-color: #666;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(100, 100, 255, 0.2);
+}
+
+.preset-action-buttons {
+    display: flex;
+    gap: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 预设操作按钮样式 */
+.preset-action-button {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    background-size: 14px 14px;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    margin-left: 4px;
+    border: none;
+    padding: 0;
+    background-color: transparent;
+    transition: transform 0.15s, opacity 0.2s, background-color 0.2s;
+    flex-shrink: 0;
+    border-radius: 3px;
+}
+
+/* 上移按钮样式 */
+.preset-action-button.up-button {
+    background-image: url('./assets/icon-moveup.svg');
+}
+
+/* 下移按钮样式 */
+.preset-action-button.down-button {
+    background-image: url('./assets/icon-movedown.svg');
+}
+
+/* 删除按钮样式 */
+.preset-action-button.delete-button {
+    background-image: url('./assets/icon-remove.svg');
+    background-size: 16px 16px;
+}
+
+/* 清除按钮样式 */
+.preset-action-button.erase-button {
+    background-image: url('./assets/icon-erase.svg');
+    background-size: 16px 16px;
+}
+
+/* 移至顶部按钮样式 */
+.preset-action-button.move-top-button {
+    background-image: url('./assets/icon-movetop.svg');
+    background-size: 16px 16px;
+}
+
+.preset-action-button:hover {
+    opacity: 1;
+    transform: scale(1.1);
+    background-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+}
+
+.preset-action-button:active {
+    transform: scale(0.95);
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.preset-action-button:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+/* 删除按钮特殊样式 */
+.preset-action-button.delete-button:hover {
+    background-color: rgba(255, 100, 100, 0.2);
+}
+
+/* 移至顶部按钮特殊样式 */
+.preset-action-button.move-top-button:hover {
+    background-color: rgba(100, 100, 255, 0.2);
+}
+
+.preset-add-row {
+    background-color: rgba(50, 50, 50, 0.3);
+}
+
+.preset-add-button {
+    padding: 4px 12px;
+    border: none;
+    border-radius: 4px;
+    background-color: var(--primary-bg);
+    color: var(--primary-fg);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.preset-add-button:hover {
+    background-color: var(--primary-hover-bg);
+    color: var(--primary-hover-fg);
+}
+
+/* 预设管理对话框底部按钮 */
+.preset-manager-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 15px;
+    padding-top: 12px;
+    border-top: 1px solid #444;
+}
+
+.preset-manager-footer button {
+    padding: 6px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.preset-save-button {
+    background-color: var(--primary-bg);
+    color: var(--primary-fg);
+}
+
+.preset-save-button:hover {
+    background-color: var(--primary-hover-bg);
+    color: var(--primary-hover-fg);
+}
+
+.preset-cancel-button {
+    background-color: #444;
+    color: #ccc;
+}
+
+.preset-cancel-button:hover {
+    background-color: #555;
+    color: #fff;
+}
+
+/* 添加操作按钮分割线 */
+.preset-action-divider {
+    width: 1px;
+    min-width: 1px;
+    height: 14px;
+    background-color: rgba(255,255,255,0.2);
+    margin: 0 2px;
+    flex-shrink: 0;
+    align-self: center;
+}
+
+/* 自定义弹窗样式 */
+.custom-dialog-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10001;
+}
+
+.custom-dialog {
+    background-color: #1a1a1a;
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 20px;
+    min-width: 300px;
+    max-width: 500px;
+    box-shadow: 0 4px 23px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    animation: clipFadeInUp 0.2s ease-in-out;
+}
+
+.custom-dialog-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.custom-dialog-content {
+    margin-bottom: 20px;
+    color: #ddd;
+}
+
+.custom-dialog-input {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    background-color: #2a2a2a;
+    border: 1px solid #444;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.custom-dialog-input:focus {
+    border-color: #666;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(100, 100, 255, 0.2);
+}
+
+.custom-dialog-buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.custom-dialog-button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+}
+
+.custom-dialog-button.primary {
+    background-color: var(--primary-bg);
+    color: var(--primary-fg);
+}
+
+.custom-dialog-button.primary:hover {
+    background-color: var(--primary-hover-bg);
+    color: var(--primary-hover-fg);
+}
+
+.custom-dialog-button.secondary {
+    background-color: #444;
+    color: #ccc;
+}
+
+.custom-dialog-button.secondary:hover {
+    background-color: #555;
+    color: #fff;
+}
+
+/* 成功提示弹窗样式 */
+.success-toast {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: rgba(40, 170, 85, 0.9);
+    color: white;
+    padding: 12px 24px;
+    border-radius: 4px;
+    z-index: 10002;
+    animation: toastSlideIn 0.3s ease-in-out;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes toastSlideIn {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes toastSlideOut {
+    from {
+        transform: translateX(0);
+        opacity: 1;
+    }
+    to {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+}
+
+/* 预设管理按钮样式 */
+.preset-manager-button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+    background-color: var(--primary-bg);
+    color: var(--primary-fg);
+    font-weight: normal;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.preset-manager-button:hover {
+    background-color: var(--primary-hover-bg);
+    color: var(--primary-hover-fg);
+    transform: scale(1.02);
+}
+
+.preset-manager-button:active {
+    transform: scale(0.98);
+}
+
+/* 预设管理按钮样式 */
+.promptwidget-settings-row button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+    background-color: var(--primary-bg);
+    color: var(--primary-fg);
+    font-weight: normal;
+    width: 100%;
+}
+
+.promptwidget-settings-row button:hover {
+    background-color: var(--primary-hover-bg);
+    color: var(--primary-hover-fg);
+    transform: scale(1.02);
+}
+
+.promptwidget-settings-row button:active {
+    transform: scale(0.98);
+}
+
+/* API配置弹窗样式 */
+.api-config-container {
+    padding: 0;  /* 移除容器的内边距 */
+}
+
+.api-config-section {
+    margin-bottom: 15px;
+    background: rgba(40, 40, 40, 0.3);
+    border: 0px solid #444;
+    border-radius: 6px;
+    padding: 15px;
+}
+
+.api-config-section h3 {
+    font-size: 15px;
+    color: #fff;
+    margin: -15px -15px 12px -15px;  /* 负margin使标题延伸到边缘 */
+    padding: 12px 15px;
+    border-bottom: 1px solid #444;
+    background: rgba(40, 40, 40, 0.3);
+    border-radius: 5px 5px 0 0;
+}
+
+/* 调整说明文字的样式 */
+.prompt-preset-manager-content > p {
+    margin: 0;
+    padding: 0 0 15px 0;
+    font-size: 13px;
+    color: #aaa;
+    line-height: 1.3;
+}
+
+.api-config-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* 添加行容器样式 */
+.api-config-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.api-config-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    flex: 1;
+    min-width: 120px;
+}
+
+/* 特殊宽度的输入组 */
+.api-config-group.half-width {
+    flex: 0 0 calc(50% - 6px);
+}
+
+.api-config-group.third-width {
+    flex: 0 0 calc(33.33% - 8px);
+}
+
+/* 添加四分之一宽度类 */
+.api-config-group.quarter-width {
+    flex: 0 0 calc(25% - 9px);
+}
+
+/* 添加40%宽度类 */
+.api-config-group.model-width {
+    flex: 0 0 calc(50% - 8px);
+}
+
+.api-config-group.full-width {
+    flex: 0 0 100%;
+}
+
+.api-config-group label {
+    font-size: 13px;
+    color: #ddd;
+    white-space: nowrap;  /* 防止标签换行 */
+}
+
+.api-config-input,
+.api-config-textarea {
+    width: 100%;
+    padding: 6px 8px;
+    background-color: #2a2a2a;
+    border: 1px solid #444;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 13px;
+    transition: all 0.2s;
+}
+
+.api-config-input:focus,
+.api-config-textarea:focus {
+    border-color: #666;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(100, 100, 255, 0.2);
+}
+
+.api-config-textarea {
+    resize: vertical;
+    min-height: 60px;
+    max-height: 120px;
+}
+
+/* 调整数字输入框的宽度 */
+.api-config-input[type="number"] {
+    width: 100%;
+    text-align: left;  /* 左对齐数字 */
+    -moz-appearance: textfield;  /* 移除Firefox的上下箭头 */
+}
+
+/* 移除Webkit浏览器的上下箭头 */
+.api-config-input[type="number"]::-webkit-inner-spin-button,
+.api-config-input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* 添加输入框禁用状态样式 */
+.api-config-input:disabled,
+.api-config-textarea:disabled {
+    background-color: #222;
+    color: #666;
+    cursor: not-allowed;
+}
+
+/* 添加必填项标记 */
+.api-config-group.required label::after {
+    content: "*";
+    color: #ff4444;
+    margin-left: 4px;
+}
+
+/* 添加输入框错误状态样式 */
+.api-config-input.error,
+.api-config-textarea.error {
+    border-color: #ff4444;
+    background-color: rgba(255, 68, 68, 0.1);
+}
+
+/* 添加错误提示文本样式 */
+.api-config-error {
+    color: #ff4444;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+/* API配置表单底部按钮容器 */
+.api-config-footer {
+    margin-top: 15px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+    border-top: 1px solid #444;  /* 添加上边框 */
+}
+
+/* API配置表单保存按钮 */
+.api-config-save {
+    padding: 8px 20px;
+    background-color: #2a6ba3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.api-config-save:hover {
+    background-color: #3580c0;
+    transform: translateY(-1px);
+}
+
+.api-config-save:active {
+    transform: translateY(0);
+}
+
+/* 移除preset-manager-footer的边框，因为我们使用了新的api-config-footer */
+.api-config-container + .preset-manager-footer {
+    border-top: none;
+    margin-top: 0;
+    padding-top: 0;
+}
+

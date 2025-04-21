@@ -1,0 +1,94 @@
+{
+  "presets": [
+    {
+      "color_type": "blue",
+      "type": "质量指示词",
+      "content": "(masterpiece:1.2), best quality, perfect lighting, insanely detailed, ultra-detailed, highly detailed, HD Quality, UHD, sharp focus, 8k wallpaper",
+      "note": "通用质量提示词"
+    },
+    {
+      "color_type": "red",
+      "type": "负面提示词",
+      "content": "lowres, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry",
+      "note": "通用负面提示词"
+    },
+    {
+      "color_type": "red",
+      "type": "负面提示词",
+      "content": "bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits",
+      "note": "人物类"
+    },
+    {
+      "color_type": "green",
+      "type": "风格提示词",
+      "content": "photograph, photorealistic, realistic, Ultra realistic illustration",
+      "note": "渲染人物 / 真实系"
+    },
+    {
+      "color_type": "green",
+      "type": "风格提示词",
+      "content": "anime style, digital art, artstation, fantasy art",
+      "note": "动漫风格"
+    },
+    {
+      "color_type": "green",
+      "type": "风格提示词",
+      "content": "3D, C4D render, unreal engine, octane render",
+      "note": "三维场景类型"
+    },
+    {
+      "color_type": "green",
+      "type": "风格提示词",
+      "content": "8bit pixel",
+      "note": "像素风"
+    },
+    {
+      "color_type": "green",
+      "type": "风格提示词",
+      "content": "illustration, painting, paintbrush",
+      "note": "插画风类型"
+    },
+    {
+      "color_type": "green",
+      "type": "风格提示词",
+      "content": "realistic, photorealistic, photograph, highly detailed, natural lighting",
+      "note": "写实风格"
+    },
+    {
+      "color_type": "yellow",
+      "type": "光照效果",
+      "content": "cinematic lighting, dramatic shadows, rim light, backlight",
+      "note": "强化光影"
+    },
+    {
+      "color_type": "orange",
+      "type": "光照效果",
+      "content": "studio lighting, professional lighting, photon mapping, radiosity, physically - based rendering",
+      "note": "工作室光影"
+    },
+    {
+      "color_type": "orange",
+      "type": "光照效果",
+      "content": "ambient lighting, ring lighting, sun lighting, soft lighting",
+      "note": "自然光"
+    },
+    {
+      "color_type": "orange",
+      "type": "人物描述",
+      "content": "perfect face, beautiful detailed eyes, beautiful detailed lips, extremely detailed eyes and face, detailed skin texture, detailed hair strands",
+      "note": "人物细节"
+    },
+    {
+      "color_type": "lime",
+      "type": "构图提示",
+      "content": "rule of thirds, golden ratio, cinematic composition",
+      "note": "构图相关提示词"
+    },
+    {
+      "color_type": "cyan",
+      "type": "场景描述",
+      "content": "beautiful scenery, detailed background, volumetric lighting",
+      "note": "场景描述词"
+    }
+  ]
+}

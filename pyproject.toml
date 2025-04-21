@@ -10,5 +10,5 @@ Repository = "https://github.com/yawiii/comfyui_prompt_widget"
 
 [tool.comfy]
 PublisherId = "yawiii" 
-DisplayName = "comfyUI_Prompt_Widget" 
+DisplayName = "ComfyUI_Prompt_Widget" 
 Icon = "" 

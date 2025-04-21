@@ -1,7 +1,7 @@
 [project]
-name = "comfyui_prompt_widget" # Unique identifier for your node. Immutable after creation.
+name = "comfyui_prompt_widget" 
 description = "This is a prompt widget for ComfyUI, which can perform functions such as translation, expansion, preset settings, and history records."
-version = "1.0.0" # Custom Node version. Must be semantically versioned.
+version = "1.0.0" 
 license = { file = "LICENSE.txt" }
 dependencies  = [] # Filled in from requirements.txt
 
@@ -9,6 +9,6 @@ dependencies  = [] # Filled in from requirements.txt
 Repository = "https://github.com/..."
 
 [tool.comfy]
-PublisherId = "yawiii" # TODO (fill in Publisher ID from Comfy Registry Website).
-DisplayName = "comfyUI_Prompt_Widget" # Display name for the Custom Node. Can be changed later.
-Icon = "" # SVG, PNG, JPG or GIF (MAX. 800x400px)
+PublisherId = "yawiii" 
+DisplayName = "comfyUI_Prompt_Widget" 
+Icon = "" 

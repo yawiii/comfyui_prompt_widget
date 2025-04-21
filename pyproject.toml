@@ -1,7 +1,7 @@
 [project]
 name = "comfyui_prompt_widget" 
-description = "This is a prompt widget for ComfyUI, which can perform functions such as translation, expansion, preset settings, and history records."
-version = "1.0.1" 
+description = "一个可以在任意多行输入框实现翻译、扩写、预设、历史等功能的提示词小部件。"
+version = "1.0.0" 
 license = { file = "LICENSE.txt" }
 dependencies  = [] # Filled in from requirements.txt
 

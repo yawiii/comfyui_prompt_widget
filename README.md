@@ -5,18 +5,22 @@
 ## ✨ 功能介绍
 
 - 🌐 翻译  
- ![翻译](https://github.com/user-attachments/assets/8f99424f-25b8-4a81-bad8-17e802e9906a)
+
+![翻译](https://github.com/user-attachments/assets/25767da7-42bf-47a4-aba0-95db9285a4bf)  
 
   
 - 💫 提示词扩写和润色  
- ![扩写](https://github.com/user-attachments/assets/e2628c31-c603-46a3-b717-d5977919a3f8)
+
+![扩写2](https://github.com/user-attachments/assets/beccb616-e89e-403a-8a00-af3c93a83d46)  
 
   
 - 📒 提示词预设  
-  ![预设](https://github.com/user-attachments/assets/fee0098b-3b0c-4a1f-b582-5b6d30f2d418)
+
+![预设](https://github.com/user-attachments/assets/65becfc3-ddc7-4ab5-946f-12a47cafa4b6)  
 
 - 🕐 历史记录  
- ![历史2](https://github.com/user-attachments/assets/99e74de4-a517-4da7-ac89-86a52ccf161e)
+
+![历史2](https://github.com/user-attachments/assets/3d02baa0-27ac-439a-b3cf-db4a95a95d0d)  
 
 
 ## 📦 安装方法

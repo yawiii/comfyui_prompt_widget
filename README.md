@@ -4,17 +4,27 @@
 
 ## ✨ 功能介绍
 
-- 🌐 翻译
-- 💫 提示词扩写和润色
-- 📒 提示词预设
-- 🕐 历史记录
+- 🌐 翻译  
+ ![翻译](https://github.com/user-attachments/assets/8f99424f-25b8-4a81-bad8-17e802e9906a)
+
+  
+- 💫 提示词扩写和润色  
+ ![扩写](https://github.com/user-attachments/assets/e2628c31-c603-46a3-b717-d5977919a3f8)
+
+  
+- 📒 提示词预设  
+  ![预设](https://github.com/user-attachments/assets/fee0098b-3b0c-4a1f-b582-5b6d30f2d418)
+
+- 🕐 历史记录  
+ ![历史2](https://github.com/user-attachments/assets/99e74de4-a517-4da7-ac89-86a52ccf161e)
 
 
 ## 📦 安装方法
 
 #### 从ComfyUI Manager中安装
 在Manager中输入“Prompt widget”或“comfyui_prompt_widget”，点击Install，选择最新版本安装。
-![从ComfyUI Manager中安装](https://github.com/user-attachments/assets/9bd82264-c18a-482e-8c1b-fbeda5c730ff)
+![从Manager中安装](https://github.com/user-attachments/assets/2c357c5a-ecf2-45ea-8eb0-f76ee975ea6c)
+
 
 
 #### 手动安装

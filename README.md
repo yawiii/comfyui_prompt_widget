@@ -1,4 +1,5 @@
-# ComfyUI Prompt Widget
+# ComfyUI Prompt Widget✨提示词小部件
+
 
 一个可以在任意多行输入框实现翻译、扩写、预设、历史等功能的提示词小部件。
 
@@ -11,7 +12,8 @@
   
 - 💫 提示词扩写和润色  
 
-![扩写2](https://github.com/user-attachments/assets/beccb616-e89e-403a-8a00-af3c93a83d46)  
+![扩写2](https://github.com/user-attachments/assets/942f3acc-8d4d-4e79-a7da-8e389f3d8437)
+
 
   
 - 📒 提示词预设  
@@ -20,7 +22,8 @@
 
 - 🕐 历史记录  
 
-![历史2](https://github.com/user-attachments/assets/3d02baa0-27ac-439a-b3cf-db4a95a95d0d)  
+![历史2](https://github.com/user-attachments/assets/e20b60a7-4756-4a54-b6a2-c6253c28bfa0)
+
 
 
 ## 📦 安装方法

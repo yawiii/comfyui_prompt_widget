@@ -52,8 +52,11 @@ git clone https://github.com/yawiii/comfyui_prompt_widget.git
 ## ⚙️ 配置说明
 
 ### 翻译功能API申请
-目前翻译使用的是百度，需要自己申请一个API，实名认证后每个月有100万免费字符，能够满足基本使用需求。 然后在开发者信息中查看自己得APP ID和密钥，复制填入设置界面中的对应输入框中并保存即可。
+目前翻译使用的是百度，需要自己申请一个API，实名认证后每个月有100万免费字符，能够满足基本使用需求。 然后在开发者信息中查看自己得APP ID和密钥，复制填入设置界面中的对应输入框中并保存即可。   
+
 百度翻译申请入口：[通用文本翻译API链接](https://fanyi-api.baidu.com/product/11)   
+
+
 ![百度](https://github.com/user-attachments/assets/f3fe2d2d-9507-4bff-887e-003f2e13a19c)
 
 

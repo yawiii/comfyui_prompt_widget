@@ -51,18 +51,32 @@
 
 /* 状态提示浮动效果 - 向上淡出 */
 @keyframes clipFloatUp {
-    0% { opacity: 1; }
-    100% { transform: translateY(-50px); opacity: 0; }
+    from {
+        /* 保持初始透明度和位置 */
+        opacity: 1;
+        transform: translate(-50%, -100%) translateY(-8px);
+    }
+    to {
+        /* 向上移动并淡出 */
+        opacity: 0;
+        transform: translate(-50%, -100%) translateY(-40px); /* -8px (initial) - 50px (move up) */
+    }
 }
 
-/* 抖动效果 */
-@keyframes clipShake {
-    0% { transform: translateX(0); }
-    20% { transform: translateX(-2px); }
-    40% { transform: translateX(2px); }
-    60% { transform: translateX(-2px); }
-    80% { transform: translateX(2px); }
-    100% { transform: translateX(0); }
+/* 新的缩放动画 */
+@keyframes tipScaleIn {
+    0% {
+        opacity: 0;
+        transform: translate(-50%, -100%) translateY(-8px) scale(0.8);
+    }
+    70% {
+        opacity: 1;
+        transform: translate(-50%, -100%) translateY(-8px) scale(1.05);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(-50%, -100%) translateY(-8px) scale(1);
+    }
 }
 
 /* ======== 组件样式 ======== */

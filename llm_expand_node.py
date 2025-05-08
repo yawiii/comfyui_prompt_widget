@@ -68,11 +68,6 @@ class LLMExpandNode:
         else:
             return "en"
     
-    def is_zhipu_api(self):
-        """判断是否为智谱API"""
-        api_base = self.config["llm_expand"]["api_base"]
-        return "bigmodel.cn" in api_base
-    
     def generate_zhipu_auth_header(self, api_key):
         """生成智谱API的认证头"""
         # 智谱API的认证方式
@@ -122,73 +117,40 @@ class LLMExpandNode:
         # 添加用户的实际问题
         messages.append({"role": "user", "content": text})
         
-        # 判断是否为智谱API
-        is_zhipu = self.is_zhipu_api()
+        # 构建请求头和数据
+        headers = {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "Authorization": f"Bearer {api_key}"
+        }
         
-        if is_zhipu:
-            # 智谱API调用
-            try:
-                headers = {
-                    "Content-Type": "application/json",
-                    "Accept": "application/json",
-                    "Authorization": f"Bearer {api_key}"
-                }
-                
-                # 构建请求数据
-                data = {
-                    "model": config["model"],
-                    "messages": messages,
-                    "temperature": config["temperature"],
-                    "max_tokens": config["max_tokens"]
-                }
-                
-                self.log(f"调用智谱API: {api_base}")
-                response = requests.post(
-                    api_base,
-                    headers=headers,
-                    json=data,
-                    timeout=30
-                )
-                response.raise_for_status()
-                result = response.json()
-                
-                # 智谱API的返回格式可能不同，需要适配
-                if "choices" in result and len(result["choices"]) > 0:
-                    return result["choices"][0]["message"]["content"]
-                else:
-                    raise Exception(f"智谱API返回格式异常: {result}")
-                    
-            except Exception as e:
-                raise Exception(f"智谱API调用失败: {str(e)}")
-        else:
-            # 原有API调用
-            headers = {
-                "Content-Type": "application/json",
-                "Authorization": f"Bearer {api_key}"
-            }
+        # 构建请求数据
+        data = {
+            "model": config["model"],
+            "messages": messages,
+            "temperature": config["temperature"],
+            "max_tokens": config["max_tokens"]
+        }
+        
+        try:
+            self.log(f"调用API: {api_base}")
+            response = requests.post(
+                api_base,
+                headers=headers,
+                json=data,
+                timeout=30
+            )
+            response.raise_for_status()
+            result = response.json()
             
-            # 构建请求数据
-            data = {
-                "model": config["model"],
-                "messages": messages,
-                "temperature": config["temperature"],
-                "max_tokens": config["max_tokens"]
-            }
-            
-            try:
-                response = requests.post(
-                    api_base.rstrip("/") + "/chat/completions",
-                    headers=headers,
-                    json=data,
-                    timeout=30
-                )
-                response.raise_for_status()
-                result = response.json()
-                
-                # 返回生成的文本
+            # 返回生成的文本
+            if "choices" in result and len(result["choices"]) > 0:
                 return result["choices"][0]["message"]["content"]
-            except requests.exceptions.RequestException as e:
-                raise Exception(f"API调用失败: {str(e)}")
+            else:
+                raise Exception(f"API返回格式异常: {result}")
+                
+        except Exception as e:
+            raise Exception(f"API调用失败: {str(e)}")
     
     def expand_text(self, text, _node_id=""):
         try:

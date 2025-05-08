@@ -1,14 +1,14 @@
 [project]
-name = "comfyui_prompt_widget" 
+name = "comfyui_prompt_widget"
 description = "ComfyUI Prompt Widget一个可以在任意多行输入框实现翻译、扩写、预设、历史等功能的提示词小部件。"
-version = "1.0.0" 
-license = { file = "LICENSE.txt" }
+version = "1.0.2"
+license = { file = "LICENSE" }
 dependencies  = [] # Filled in from requirements.txt
 
 [project.urls]
 Repository = "https://github.com/yawiii/comfyui_prompt_widget"
 
 [tool.comfy]
-PublisherId = "yawiii" 
-DisplayName = "ComfyUI_Prompt_Widget" 
-Icon = "" 
+PublisherId = "yawiii"
+DisplayName = "ComfyUI_Prompt_Widget"
+Icon = ""

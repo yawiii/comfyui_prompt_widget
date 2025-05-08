@@ -1,1 +1,5575 @@
-function _0x33cb(){const _0xc818c0=['TeoXf','kJvLB','prototype','iFlfI','\x20翻译和扩写','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','widget_show','has','contains','onclick','3203914CvEGiW','top','\x20包含\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','blur','✨提示词小部件','PromptWidget.Compatibility.Mode','presets','rgb(160,\x20200,\x20255)','AdjRD','lBlPL','onDrawBackground','size','max','/expand_text','promptwidget-settings-row','from','输入模型名称','fit-content','executeAction','\x20显示预设失败:','data-node-id','bRcQg','pop','prompt_widget_status\x20info','removeEventListener','preset-content-input','set','undo','redoOperation','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010000;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgba(30,\x2030,\x2030,\x200.95);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(255,\x20255,\x20255,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x204px\x2012px\x20rgba(0,\x200,\x200,\x200.5);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20backdrop-filter:\x20blur(10px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20','margin','get','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','JYJLn','移动预设时出错:','src','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20class=\x22custom-dialog-input\x22\x20value=\x22','enabled','preset-applied','api-config-form','widget_button_active','prompt_history_node_id','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20','updateEnabledState','xYMCJ','none','XdDqf','eMjcR','thead','expand','prompt_widget.js','没有要翻译的文本','vhUaH','tpFRy','配置百度翻译和LLM扩写功能的API参数。','getAttribute','传入的文本元素本身就是预设按钮','buttons','text_element','isExpanding','half-width','textContent','translate_direction','prompt-preset-manager-content','showStatusTip','159755fJgkzx','\x20个小部件需要隐藏','fetchApi','forEach','querySelector','multiline','target','minWidth','PromptWidget.Features.Expand','url','div','pxBhf','打开配置界面','head','data-widget-key','#appid','小部件清理间隔','历史功能已','[PromptWidget]🎉标准模式','quarter-width','尝试创建翻译小部件:\x20','RxUgI','当前无历史记录','zIndex','justifyContent','model-width','innerHTML','random','getBoundingClientRect','CZyCz','_originalNodeSelectionChange','csyNI','history','\x20出错:','hideNodeWidgets','apply','检查节点\x20','142401AivtGG','widget_button_disabled','_onNodeSelectionChange','stopPropagation','name','EXDkX','application/json','ioDrA','AbsPY','ZrJKT','GEyRt','JjFwM','firstChild','cleanupEmptyInstances','Failed\x20to\x20load\x20config:\x20','note','fWVEn','\x20输入\x20','warn','substring','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22custom-dialog-content\x22>','url(\x27','push','UDyGK','appid','McyBq','color_type','扩写功能已','addInstance','transform','</label>','调试选项','rgb(140,\x20190,\x20230)','button[title*=\x22预设\x22]','handleDocumentClick','click','inIPL','未找到预设内容','mZNpn','记录节点\x20','prompt_translate','keys','innerWidth','\x20的操作时出错:','hhKan','PZSwC','小部件功能已启用，恢复所有相关服务','负面提示词','onNodeMoved','yQbrd','FiSGe','qrOQw','areAllFeaturesDisabled','prompt_history_item','add','irGIf','IureW','jxzeD','hideTimeout','error','input,\x20select','QTGfX','vWHRs','BUTTON','isCurrentNode','remove','removeTimeoutId','没有可用的预设','rCPey','preset-save-button','10px','撤销节点\x20','HvuQp','在缓存中找到该文本，进行恢复操作','NObXf','default','span','2000','ARKdY','originalText','flex-end','加载预设数据失败:','点击了管理提示词预设按钮','left','加载预设失败:','360vMSgxc','24px','prompt_history_popup','flex','timer','扩写文本','\x20的历史记录时出错:','getInstance','&#215;','\x20创建翻译小部件','graphToPrompt','preset','gtQtu','okNBn','innerHeight','offsetHeight','rgb(240,\x20180,\x20240)','translate','DFkfE','button','gGIwU','shVEm','current','\x20个实例','传入的文本元素是历史按钮','初始化PromptWidget扩展','new','MKGYH','custom-dialog','preset-color-select','已恢复','确定要删除这个预设吗？','element','nodeId','llm_api_base','block','aIFVt','display','snYCw','.preset-type-select','khcCe','classList','使用扩写按钮作为参考元素','没有要扩写的文本','whiteSpace','MweeC','prompt_preset_note','BZKmF','eiPbQ','\x20个多行输入控件','api-config-input','FjIEb','处理配置更新事件失败:','PromptWidget.Cleanup.Interval','replace','backgroundColor','BjSHt','正在扩写...','canvas','prompt_history_current','rgb(210,\x20150,\x20240)','\x27)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-size:\x2016px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-position:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-repeat:\x20no-repeat\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20opacity\x200.2s;\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20.move-top-button:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x201;\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20.move-top-button:disabled\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.3;\x0a\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20not-allowed;\x0a\x20\x20\x20\x20}\x0a','bewCp','Temperature','selected','rgb(255,\x20120,\x20120)','XFxee','closePresetPopup','prompt-preset-manager-dialog','请输入预设内容','div.widget_divider','rgb(255,\x20230,\x20150)','assets/icon-movetop.svg','stringify','data-index','使用翻译按钮作为参考元素','content','KYykK','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20','removeChild','color','onDrawForeground','trim','options','preset_type_quality','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','SEBag','1077119NjnRPz','收到翻译更新:','nodeDelete','\x20\x20预设管理','rRomf','oXmDt','预设内容已存在','1px\x20solid\x20rgba(100,\x20255,\x20100,\x200.5)','\x20绘制前景时出错:','qMfPY','shift','isTranslating','animation','info','JhCFV','red','使用预设按钮作为参考元素','关闭后将完全禁用小部件功能','RBDcI','翻译请求失败:\x20','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','lastRequestTime','api-config-group\x20','prompt_translate_update','执行操作失败：参数不完整','rPDhd','\x20的\x20','htmlFor','translateText','uPViw','statusText','ROiAK','zkDBb','36903020OcAbUu','1367936aULyDw','updateTextValue','border','OWoGQ','rrpbU','yYzCQ','cssText','LQphF','entries','p-tag-container','mOiTo','string','\x20操作','addEventListener','multiline-input','button[title*=\x22翻译\x22]','gpt-3.5-turbo','#key','offset','\x20个空实例（不包含有历史记录的实例），当前剩余\x20','flexWrap','FjNYK','\x20的元素或按钮','NphGO','IyiJF','includes','closest','\x20的文本元素','preset-overlay','\x20个DOM元素','className','preset-action-divider','GbJqO','setAttribute','auto','input','0px','parentElement','isArray','json','TEXTAREA','safeRemoveElement','prompt_history_title','startsWith','EcXYm','llm_expand','model','match','onNodeCreated','offsetWidth','错误:\x20','parentNode','4|0|3|2|1','past','preset-note-input','initOrClearHistory','ozZmD','ComfyUI.PromptWidget','success','insertBefore','tZXCu','...','statusTips','SRTkm','bYDkw','PromptWidget.Features.Enabled','确认删除','width','icon-translate.svg','启用翻译功能','YnxIH','非中文','扩写中，请稍候...','reloadConfig','翻译错误:\x20','llLsZ','3849231eTXTLv','GHXwI','LDoEO','type','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','wwTYb','添加新类型','isHiding','翻译中，请稍候...','.prompt_history_popup','boolean','aFDQv','pointerEvents','LlirF','prompt_widget_config_update','timeoutId','SHqoQ','bvMKD','预设功能已','title','extra','144DfutgJ','ULdEw','tYMKI','LkgAV','from_cache','点击管理提示词预设按钮出错:','节点\x20','翻译失败','style',',\x20目标语言:\x20','清除当前','popup_up','aOUCf','removeElementsBySelectors','option','POST','createElement','.widget_icon_button','startPeriodicCleanup','udqhV','.prompt_widget_box','YvKAs','blurHandler','applyHistoryItem','settings','GTcsd','button.widget_icon_button','ywxUh','dpeVE','message','text','styleElement','执行节点\x20','KiRBA','min','ZHgtV','slice','splice','Otjmo','.down-button','使用缓存翻译','启用扩写功能','future','[title*=\x22历史\x22]','prompt_history_actions','rgb(135,\x20165,\x20255)','center','updatePresetItemState','qWEms','preset-action-button\x20down-button','multiplySelf','oIOmF','log','ybszE','onRemoved','zVEZA','隐藏节点\x20','后端调试模式已','restore','#ddd','20px','移除状态提示时出错:','CdLtm','2px','在小部件中找到预设按钮','传入的文本元素是扩写按钮','split','请求失败:\x20','graph','保存失败','kpatm','gSNtF','updatePosition','value','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','closing-up','edhXG','href','历史记录','aULOE','activeHistoryPopup','45yGHPQs','floor','更新节点\x20','recordHistory','qnKpN','okJmi','getNodeById','getElementById','ztxyq','callBaiduTranslateAPI','placeholder','SJzKa','mBRXo','delete','appendChild','输入系统提示词','清空全部','onchange','cleanup','API配置','输入百度翻译Key','\x20的实例','disabled','\x20个预设','WgkuX','通过widgetKey找到对应小部件和预设按钮','nowrap','isCurrent','stopPeriodicCleanup','prompt_history_item\x20','打开预设管理器出错:\x20','bottom','lkFOI','widget_button_loading','UMANy','KKXhp','qKLIf','BayHh','hasInstance','成功创建节点\x20','widget_hide','toString','收到配置更新:','成功为节点\x20',',\x20类型:\x20','index','\x20功能开关','NRjRx','nodes','reverse','1px\x20solid\x20rgba(100,\x20100,\x20255,\x200.5)','检测到语言:\x20','创建预设按钮失败:','ADmMP','gSVGw','fdsrM','opacity','正在打开API配置对话框...','https://github.com/yawiii/comfyui_prompt_widget','vERYd','prompt_history_clear','未找到节点的文本元素:','showEffect','nIoHn','socketInitialized','icon-preset.svg','成功加载\x20','\x20的输入框','yaics','未分类','status','总开关','disableAllButtons','fMxqJ','inputEl','QJQQx','data-element-id','SdrZL','JYiIo','transformOrigin','body','控制历史、撤销、重做功能','更新小部件位置时出错:','fontSize','selectionStart','所有功能已禁用，自动关闭小部件总开关','toastSlideOut\x200.3s\x20ease-in-out\x20forwards','activePresetPopup','ywjrp','扩展卸载时移除了\x20','popup_down','loading','__CLIP_TRANSLATE__','gap','mhDxj','label','翻译中\x20','Gprfh','保存失败:\x20','data-input-id','后端调试日志','控制文本扩写功能','closeHistoryPopup','gDygF','移除选择器\x20','redo','length','translationCache','shouldThrottle','btdsl','没有找到任何预设'];_0x33cb=function(){return _0xc818c0;};return _0x33cb();}function _0x25e2(_0x3a518d,_0x1af080){const _0x33cb46=_0x33cb();return _0x25e2=function(_0x25e21c,_0x41450c){_0x25e21c=_0x25e21c-0xd3;let _0xefe530=_0x33cb46[_0x25e21c];return _0xefe530;},_0x25e2(_0x3a518d,_0x1af080);}const _0x5c3cdc=_0x25e2;(function(_0x106f37,_0x3c9da7){const _0x28e8df=_0x25e2,_0x5c7cb0=_0x106f37();while(!![]){try{const _0x4b5e92=parseInt(_0x28e8df(0x27f))/0x1+parseInt(_0x28e8df(0x16c))/0x2+-parseInt(_0x28e8df(0x2ed))/0x3+parseInt(_0x28e8df(0x302))/0x4*(parseInt(_0x28e8df(0x1ae))/0x5)+-parseInt(_0x28e8df(0x228))/0x6*(-parseInt(_0x28e8df(0x1d3))/0x7)+parseInt(_0x28e8df(0x2a1))/0x8*(parseInt(_0x28e8df(0xf3))/0x9)+-parseInt(_0x28e8df(0x2a0))/0xa;if(_0x4b5e92===_0x3c9da7)break;else _0x5c7cb0['push'](_0x5c7cb0['shift']());}catch(_0x38aab4){_0x5c7cb0['push'](_0x5c7cb0['shift']());}}}(_0x33cb,0xe3691));import{app}from'../../../scripts/app.js';import{$el}from'../../../scripts/ui.js';import{api}from'../../../scripts/api.js';const EXTENSION_NAME=_0x5c3cdc(0x2da),EXTENSION_VERSION='1.0.0';let DEBUG=![];const FEATURES={'enabled':!![],'history':!![],'preset':!![],'expand':!![],'translate':!![],'areAllFeaturesDisabled'(){return!this['history']&&!this['preset']&&!this['expand']&&!this['translate'];},'updateEnabledState'(){const _0x18c038=_0x5c3cdc,_0x4b9926=this[_0x18c038(0x207)]();if(_0x4b9926&&this['enabled']){this[_0x18c038(0x192)]=![];const _0xe86a3a=app['ui'][_0x18c038(0x31a)]['getSettingValue']('PromptWidget.Features.Enabled');_0xe86a3a&&app['ui']['settings']['setSettingValue'](_0x18c038(0x2e2),![]),TranslateManager[_0x18c038(0x105)](),logger['log'](_0x18c038(0x148));}}},THROTTLE={'minInterval':0x3e8,'lastRequestTime':{},'lastRequestText':{},'shouldThrottle'(_0x1a9f4c,_0x4786c9){const _0x43cfab=_0x5c3cdc,_0x371550={'aJYbt':function(_0x2c7c3d,_0x950b88){return _0x2c7c3d===_0x950b88;}},_0x25a834=Date['now'](),_0x25a3a3=this['lastRequestTime'][_0x1a9f4c]||0x0,_0x365944=this['lastRequestText'][_0x1a9f4c]||'';if(_0x371550['aJYbt'](_0x4786c9,_0x365944)&&_0x25a834-_0x25a3a3<this['minInterval'])return logger['warn']('节点\x20'+_0x1a9f4c+'\x20请求过于频繁，已自动节流'),!![];return this[_0x43cfab(0x294)][_0x1a9f4c]=_0x25a834,this['lastRequestText'][_0x1a9f4c]=_0x4786c9,![];}},getAssetPath=_0x52e31e=>{return'./assets/'+_0x52e31e;},logger={'printedMessages':new Set(),'log':(..._0x52d490)=>{const _0x2eb3aa=_0x5c3cdc;if(!FEATURES[_0x2eb3aa(0x192)])return;const _0x266c26=_0x52d490['join']('\x20');DEBUG&&!logger['printedMessages'][_0x2eb3aa(0x169)](_0x266c26)&&(console[_0x2eb3aa(0xd6)]('[PromptWidget]',..._0x52d490),logger['printedMessages'][_0x2eb3aa(0x209)](_0x266c26));},'warn':(..._0x4efe39)=>{const _0x4b2a66=_0x5c3cdc;if(!FEATURES[_0x4b2a66(0x192)])return;console['warn']('[PromptWidget]',..._0x4efe39);},'error':(..._0x4d4e60)=>{if(!FEATURES['enabled'])return;console['error']('[PromptWidget]',..._0x4d4e60);},'info':(..._0x118cd4)=>{if(!FEATURES['enabled'])return;DEBUG&&console['info']('[PromptWidget]',..._0x118cd4);}},DOMUtils={'removeElement'(_0x24fedb){const _0x33dcf6=_0x5c3cdc,_0x23e40f={'uUfeY':'div'};if(!_0x24fedb)return![];try{while(_0x24fedb['firstChild']){_0x24fedb['removeChild'](_0x24fedb[_0x33dcf6(0x1df)]);}if(_0x24fedb[_0x33dcf6(0x2d4)])return _0x24fedb['parentNode']['removeChild'](_0x24fedb),!![];if(document['body'][_0x33dcf6(0x16a)](_0x24fedb))return document['body']['removeChild'](_0x24fedb),!![];const _0x5125f3=document['createElement'](_0x23e40f['uUfeY']);if(_0x24fedb[_0x33dcf6(0x2d4)])return _0x24fedb[_0x33dcf6(0x2d4)]['replaceChild'](_0x5125f3,_0x24fedb),_0x5125f3['remove'](),!![];}catch(_0x385656){logger[_0x33dcf6(0x20e)]('移除DOM元素出错:',_0x385656);}return![];},'removeElementsBySelector'(_0x19b7c5,_0x3b0398=null){const _0x53aa9b=_0x5c3cdc,_0x7a26ce={'PlYIR':function(_0x69a102,_0x1d70cc){return _0x69a102(_0x1d70cc);}};try{const _0x5df7e9=document['querySelectorAll'](_0x19b7c5);if(_0x5df7e9['length']===0x0)return 0x0;let _0x4ed850=0x0;return _0x5df7e9['forEach'](_0x47505c=>{(!_0x3b0398||_0x7a26ce['PlYIR'](_0x3b0398,_0x47505c))&&(this['removeElement'](_0x47505c)&&_0x4ed850++);}),_0x4ed850;}catch(_0x4592bc){return logger['error'](_0x53aa9b(0x15b)+_0x19b7c5+'\x20匹配的元素时出错:',_0x4592bc),0x0;}},'removeElementsBySelectors'(_0x55a966,_0x41f42b=null){const _0x27aa1c=_0x5c3cdc;if(!_0x55a966||!Array[_0x27aa1c(0x2c7)](_0x55a966))return 0x0;let _0x5b7839=0x0;return _0x55a966['forEach'](_0x397ea6=>{_0x5b7839+=this['removeElementsBySelector'](_0x397ea6,_0x41f42b);}),_0x5b7839;}},TranslateManager={'instances':new Map(),'history':new Map(),'activeHistoryPopup':null,'activePresetPopup':null,'translationCache':new Map(),'presets':null,'socket':null,'socketInitialized':![],'statusTips':null,'setupWebSocket'(){const _0x92c15b=_0x5c3cdc,_0x3b2344={'pGrip':_0x92c15b(0x296)};if(this['socketInitialized'])return;try{api['addEventListener'](_0x3b2344['pGrip'],_0x256462=>{this['handleTranslationUpdate'](_0x256462);}),api['addEventListener'](_0x92c15b(0x2fb),_0x3de58f=>{this['handleConfigUpdate'](_0x3de58f);}),this[_0x92c15b(0x133)]=!![],logger['info']('WebSocket监听已初始化');}catch(_0x11425e){logger[_0x92c15b(0x20e)]('WebSocket初始化失败:',_0x11425e);}},'handleTranslationUpdate'(_0x3fcec6){const _0x297d1a=_0x5c3cdc,_0x5b9e8b={'JdlYX':_0x297d1a(0x280),'kpatm':function(_0x2d0a69,_0x5c4e69){return _0x2d0a69===_0x5c4e69;},'nfjRI':_0x297d1a(0x14e),'Snctk':_0x297d1a(0x20e),'BZYGh':'prompt_text_updated','evRlo':_0x297d1a(0xdc),'ARKdY':_0x297d1a(0x246),'OQXRe':'success'};try{logger['info'](_0x5b9e8b['JdlYX'],_0x3fcec6);const {node_id:_0x3a25c7,status:_0x5c9f92,translated_text:_0x253389,original_text:_0x209c8f,message:_0x1b9eb6,progress:_0xdaa625,operation_type:_0x3e6ad2,operation_desc:_0x27e579,translate_direction:_0x5b6802}=_0x3fcec6;if(!_0x3a25c7)return;const _0x4b634d=this[_0x297d1a(0x22f)](_0x3a25c7);if(!_0x4b634d){logger[_0x297d1a(0x1e5)]('无法找到节点\x20'+_0x3a25c7+'\x20的实例');return;}const _0x10cdfc=_0x4b634d['buttons']?.[_0x297d1a(0x239)]||_0x4b634d['text_element'];if(_0x5b9e8b['kpatm'](_0x5c9f92,'translating')&&_0xdaa625){const {current:_0x47880e,total:_0x4d5b9c}=_0xdaa625;_0x4b634d[_0x297d1a(0x1a7)]&&this['showStatusTip'](_0x10cdfc,_0x5b9e8b['nfjRI'],_0x297d1a(0x153)+_0x47880e+'/'+_0x4d5b9c+_0x297d1a(0x2de));return;}if(_0x5b9e8b['kpatm'](_0x5c9f92,_0x297d1a(0x20e))&&_0x1b9eb6){logger[_0x297d1a(0x20e)](_0x297d1a(0x2eb)+_0x1b9eb6);_0x4b634d[_0x297d1a(0x1a7)]&&this['showStatusTip'](_0x10cdfc,_0x5b9e8b['Snctk'],_0x1b9eb6);_0x4b634d[_0x297d1a(0x1a6)]?.['translate']&&_0x4b634d['buttons']['translate']['classList']['remove']('widget_button_loading');return;}if(_0x5b9e8b[_0x297d1a(0xe8)](_0x5c9f92,'success')&&_0x253389&&_0x209c8f){this['translationCache']['set'](_0x209c8f,_0x253389),this['translationCache']['set'](_0x253389,_0x209c8f);if(_0x4b634d['text_element']){this['updateTextValue'](_0x4b634d['text_element'],_0x253389),this['recordHistory'](_0x3a25c7,_0x253389),this['showEffect'](_0x4b634d['text_element'],_0x5b9e8b['BZYGh']);if(_0x3e6ad2==='restore')this[_0x297d1a(0x1ad)](_0x10cdfc,_0x5b9e8b['evRlo'],_0x27e579||_0x5b9e8b[_0x297d1a(0x221)]),_0x27e579==='恢复原文'&&(_0x4b634d['originalText']=_0x253389);else{if(_0x5b6802){_0x4b634d['originalText']=_0x209c8f;const _0x49894e=_0x3fcec6['from_cache']?'(缓存)':'';this['showStatusTip'](_0x10cdfc,_0x5b9e8b['OQXRe'],_0x5b6802+'完成'+_0x49894e);}else _0x4b634d['originalText']=_0x209c8f,this['showStatusTip'](_0x10cdfc,_0x5b9e8b['OQXRe'],'翻译完成');}}_0x4b634d['buttons']?.['translate']&&_0x4b634d['buttons']['translate']['classList']['remove'](_0x297d1a(0x114));}}catch(_0x2f91e2){logger['error']('处理翻译更新事件失败:',_0x2f91e2);}},'handleConfigUpdate'(_0x1c226b){const _0xd73ff1=_0x5c3cdc;try{logger['info'](_0xd73ff1(0x11d),_0x1c226b);if(_0x1c226b['status']==='success')_0x1c226b['config']&&(this[_0xd73ff1(0x2ea)](),showSuccessToast('配置已更新'));else{}}catch(_0x5c52bc){logger['error'](_0xd73ff1(0x25c),_0x5c52bc);}},async 'callBaiduTranslateAPI'(_0x340bbe,_0x22f884,_0x23ad45='auto',_0x2627af='auto'){const _0x122f2c=_0x5c3cdc,_0x54693e={'DWTOC':'POST'};try{if(!_0x340bbe||!_0x340bbe[_0x122f2c(0x27a)]())return{'status':_0x122f2c(0x20e),'message':'翻译文本为空'};if(THROTTLE[_0x122f2c(0x15f)](_0x22f884,_0x340bbe))return{'status':'error','message':'请求过于频繁，请稍后再试'};DEBUG&&logger['info']('发送文本到API，长度:\x20'+_0x340bbe[_0x122f2c(0x15d)]+'字符,\x20节点ID:\x20'+_0x22f884);const _0x4db313=await api[_0x122f2c(0x1b0)]('/prompt_translate',{'method':_0x54693e['DWTOC'],'headers':{'Content-Type':_0x122f2c(0x1d9)},'body':JSON['stringify']({'text':_0x340bbe,'node_id':_0x22f884,'from_lang':_0x23ad45,'to_lang':_0x2627af})});if(!_0x4db313['ok'])throw new Error('HTTP\x20error!\x20status:\x20'+_0x4db313['status']);const _0x2db099=await _0x4db313['json']();if(DEBUG){const _0x367158=JSON[_0x122f2c(0x271)](_0x2db099)['substring'](0x0,0x64);logger['info']('API响应:\x20'+_0x367158+_0x122f2c(0x2de));}return _0x2db099;}catch(_0x2cd282){return logger['error']('调用百度翻译API失败:',_0x2cd282),{'status':'error','message':_0x122f2c(0x292)+_0x2cd282['message']};}},'isNodeExists'(_0x23dce5){const _0x390b6b=_0x5c3cdc;if(!_0x23dce5)return![];try{if(!app[_0x390b6b(0xe6)])return![];if(app['graph'][_0x390b6b(0xf9)])return!!app['graph']['getNodeById'](_0x23dce5);if(app['graph']['_nodes_by_id']&&app['graph']['_nodes_by_id'][_0x23dce5]!==undefined)return!![];if(app['graph']['nodes'])return app['graph']['nodes']['some'](_0x5999f4=>_0x5999f4['id']===_0x23dce5);return![];}catch(_0x39420b){return logger['error'](_0x390b6b(0x1d2)+_0x23dce5+'\x20存在性时出错:',_0x39420b),![];}},'initOrClearHistory'(_0x5d0c04,_0x7b07e6=![]){const _0x38e18b=_0x5c3cdc,_0x1d6891={'mOiTo':function(_0x5efddb,_0x1041b1){return _0x5efddb(_0x1041b1);},'vhUaH':'初始化'};if(!_0x5d0c04)return![];try{const _0x53b8ef=_0x1d6891[_0x38e18b(0x2ab)](String,_0x5d0c04);return(!this[_0x38e18b(0x1ce)]['has'](_0x53b8ef)||_0x7b07e6)&&this['history']['set'](_0x53b8ef,{'past':[],'future':[],'current':_0x7b07e6?'':this['history']['get'](_0x53b8ef)?.['current']||''}),_0x7b07e6&&(this['closeHistoryPopup'](),this['updateButtonStates'](_0x5d0c04),logger[_0x38e18b(0xd6)]('已'+(_0x7b07e6?'清空':_0x1d6891[_0x38e18b(0x1a1)])+'节点\x20'+_0x5d0c04+'\x20的历史记录')),!![];}catch(_0x1fc2ae){return logger[_0x38e18b(0x20e)]('初始化或清空节点\x20'+_0x5d0c04+_0x38e18b(0x22e),_0x1fc2ae),![];}},'recordHistory'(_0x2b6000,_0x5446d2){const _0x2bcc9c=_0x5c3cdc;if(!_0x2b6000)return;try{this['initOrClearHistory'](_0x2b6000);const _0x31e9a7=String(_0x2b6000),_0x3f0d4a=this['history']['get'](_0x31e9a7);if(!_0x3f0d4a)return;if(_0x3f0d4a['current']===_0x5446d2)return;if(_0x3f0d4a['past']['includes'](_0x5446d2))return;_0x3f0d4a['past']['push'](_0x3f0d4a['current']),_0x3f0d4a['current']=_0x5446d2,_0x3f0d4a['future']=[],_0x3f0d4a['past']['length']>0x14&&_0x3f0d4a['past'][_0x2bcc9c(0x289)](),this['updateButtonStates'](_0x2b6000);}catch(_0xab493d){logger[_0x2bcc9c(0x20e)](_0x2bcc9c(0x1fa)+_0x2b6000+'\x20的历史时出错:',_0xab493d);}},'clearHistory'(_0x5029f1){return this['initOrClearHistory'](_0x5029f1,!![]);},'updateButtonStates'(_0x54c37c){const _0x4d5572=_0x5c3cdc,_0x5e5401={'tathb':_0x4d5572(0x1d4),'CLarA':function(_0x7203df,_0x2ed6b8){return _0x7203df>_0x2ed6b8;}};if(!_0x54c37c||!FEATURES['enabled']||!FEATURES[_0x4d5572(0x1ce)])return;try{const _0x49f461=String(_0x54c37c),_0x4bb841=this['getInstance'](_0x49f461);if(!_0x4bb841?.['buttons'])return;const _0x4ce78b=this[_0x4d5572(0x1ce)]['get'](_0x49f461);if(!_0x4ce78b)return;const _0x1d225a=_0x4ce78b['past']&&_0x5e5401['CLarA'](_0x4ce78b[_0x4d5572(0x2d6)]['length'],0x0),_0x38e63a=_0x4ce78b['future']&&_0x4ce78b[_0x4d5572(0x32c)]['length']>0x0,_0x2022f3={'undo':_0x1d225a,'redo':_0x38e63a,'history':!![]};Object['entries'](_0x2022f3)['forEach'](([_0x557d23,_0x4af059])=>{const _0x140f34=_0x4d5572,_0x2f0931=_0x4bb841[_0x140f34(0x1a6)][_0x557d23];_0x2f0931&&(_0x4af059?(_0x2f0931['classList']['remove'](_0x5e5401['tathb']),_0x2f0931[_0x140f34(0x109)]=![]):(_0x2f0931['classList']['add'](_0x5e5401['tathb']),_0x2f0931['disabled']=!![]));});}catch(_0x501e2d){logger['error'](_0x4d5572(0xf5)+_0x54c37c+'\x20的按钮状态时出错:',_0x501e2d);}},'addHoverEffect'(_0x21735c,_0x5104d3={}){const _0x40b309=_0x5c3cdc,_0x403e91={'gSNtF':'mouseenter'},_0x26627c={'scale':1.1,'opacity':0x1,'color':null,'backgroundColor':null},_0x35c12a={..._0x26627c,..._0x5104d3};_0x21735c[_0x40b309(0x2ae)](_0x403e91[_0x40b309(0xe9)],()=>{const _0x42fc16=_0x40b309;_0x21735c[_0x42fc16(0x30a)][_0x42fc16(0x12b)]=String(_0x35c12a[_0x42fc16(0x12b)]),_0x21735c[_0x42fc16(0x30a)][_0x42fc16(0x1f0)]='scale('+_0x35c12a['scale']+')';if(_0x35c12a['color'])_0x21735c['style']['color']=_0x35c12a['color'];if(_0x35c12a[_0x42fc16(0x25f)])_0x21735c[_0x42fc16(0x30a)]['backgroundColor']=_0x35c12a['backgroundColor'];}),_0x21735c[_0x40b309(0x2ae)]('mouseleave',()=>{const _0x143d00=_0x40b309;_0x21735c['style'][_0x143d00(0x12b)]='0.8',_0x21735c['style']['transform']='scale(1)';if(_0x35c12a['color'])_0x21735c['style'][_0x143d00(0x278)]='rgba(255,\x20255,\x20255,\x200.6)';if(_0x35c12a['backgroundColor'])_0x21735c[_0x143d00(0x30a)][_0x143d00(0x25f)]='transparent';});},'safeRemoveElement'(_0x278c91){return DOMUtils['removeElement'](_0x278c91);},'cleanup'(_0x398d3b=null){const _0x15b5e0=_0x5c3cdc,_0x1a7ff0={'dpeVE':_0x15b5e0(0x170)};if(_0x398d3b!==null&&!FEATURES['enabled'])return;this['closeHistoryPopup'](),this['closePresetPopup']();if(_0x398d3b){const _0x3681d7=this['getInstance'](_0x398d3b);_0x3681d7&&(_0x3681d7['text_element']&&_0x3681d7['blurHandler']&&_0x3681d7[_0x15b5e0(0x1a7)][_0x15b5e0(0x185)]('blur',_0x3681d7[_0x15b5e0(0x318)]),this[_0x15b5e0(0x2ca)](_0x3681d7['element']),this['instances']['delete'](_0x398d3b));return;}for(const [_0x128355,_0x3f74b6]of this['instances']){_0x3f74b6[_0x15b5e0(0x1a7)]&&_0x3f74b6['blurHandler']&&_0x3f74b6['text_element']['removeEventListener'](_0x1a7ff0[_0x15b5e0(0x31e)],_0x3f74b6['blurHandler']),this['safeRemoveElement'](_0x3f74b6['element']);}this['instances']['clear']();},'addInstance'(_0x1c99fd,_0x5e9bc9){const _0x4ec8d=_0x5c3cdc,_0x48ee9a={'hsSuv':function(_0x42a1e0,_0x1552dd){return _0x42a1e0||_0x1552dd;}};if(!FEATURES['enabled'])return;if(_0x48ee9a['hsSuv'](!_0x1c99fd,!_0x5e9bc9))return;try{const _0x2d597d=String(_0x1c99fd);this['instances']['has'](_0x2d597d)&&this['cleanup'](_0x1c99fd),this['instances']['set'](_0x2d597d,_0x5e9bc9),_0x5e9bc9['text_element']&&(this['initOrClearHistory'](_0x1c99fd),this[_0x4ec8d(0xf6)](_0x1c99fd,_0x5e9bc9['text_element']['value']||''));}catch(_0x317e38){}},'hasInstance'(_0x5d25d9){const _0x346efd={'TWVnQ':function(_0x3f1f7f,_0x31116e){return _0x3f1f7f(_0x31116e);}};if(_0x5d25d9==null)return![];try{return this['instances']['has'](_0x346efd['TWVnQ'](String,_0x5d25d9));}catch(_0x391bda){return logger['error']('检查节点\x20'+_0x5d25d9+'\x20的实例是否存在时出错:',_0x391bda),![];}},'isEmptyInstance'(_0x24d8cb){const _0x164112=_0x5c3cdc,_0x5eca2c={'SOOAO':function(_0x335568,_0x425f9e){return _0x335568==_0x425f9e;},'lPqfE':function(_0x1f366e,_0x22b5dd){return _0x1f366e===_0x22b5dd;}};if(_0x5eca2c['SOOAO'](_0x24d8cb,null))return!![];try{const _0x349d8d=String(_0x24d8cb);if(!this['instances']['has'](_0x349d8d))return!![];const _0x1f157d=this['history']['get'](_0x349d8d);if(!_0x1f157d)return!![];const _0x5f389d=(!_0x1f157d['current']||_0x1f157d['current']==='')&&(!_0x1f157d['past']||_0x1f157d[_0x164112(0x2d6)][_0x164112(0x15d)]===0x0)&&(!_0x1f157d['future']||_0x5eca2c['lPqfE'](_0x1f157d['future']['length'],0x0));return _0x5f389d;}catch(_0x1215b8){return logger['error']('检查节点\x20'+_0x24d8cb+'\x20的实例是否为空时出错:',_0x1215b8),!![];}},'cleanupEmptyInstances'(_0x4d43e3=_0x5c3cdc(0x22c)){const _0xb10b51=_0x5c3cdc,_0x2d80d4={'Hwjjs':function(_0x4e240b,_0x48b53c){return _0x4e240b>_0x48b53c;},'WxTJK':function(_0xc0d5b5,_0x20d456){return _0xc0d5b5&&_0x20d456;},'wgXwH':function(_0x3942ad,_0x523f73){return _0x3942ad===_0x523f73;}};if(!FEATURES['enabled'])return 0x0;let _0x593951=0x0;try{const _0x5343d6=Array['from'](this['instances'][_0xb10b51(0x1fc)]());for(const _0xb3774a of _0x5343d6){const _0x6b6df8=this['isNodeExists'](_0xb3774a),_0x384612=this[_0xb10b51(0x1ce)]['get'](_0xb3774a),_0x7d116=_0x384612&&(_0x384612['current']&&_0x384612['current']['trim']()!==''||_0x384612['past']&&_0x2d80d4['Hwjjs'](_0x384612[_0xb10b51(0x2d6)][_0xb10b51(0x15d)],0x0)||_0x384612['future']&&_0x384612['future']['length']>0x0);if(_0x2d80d4['WxTJK'](!_0x6b6df8,!_0x7d116)){this['cleanup'](_0xb3774a),_0x593951++;continue;}_0x6b6df8&&this['isEmptyInstance'](_0xb3774a)&&!_0x7d116&&(this[_0xb10b51(0x105)](_0xb3774a),_0x593951++);}const _0x1c39e2=this['instances'][_0xb10b51(0x178)];if(_0x2d80d4['wgXwH'](_0x4d43e3,'timer'))logger[_0xb10b51(0x28c)]('[定时清理]\x20已清理\x20'+_0x593951+_0xb10b51(0x2b4)+_0x1c39e2+_0xb10b51(0x23f));else _0x2d80d4['wgXwH'](_0x4d43e3,'nodeDelete')&&logger['info']('[节点删除]\x20已清理\x20'+_0x593951+'\x20个空实例（不包含有历史记录的实例），当前剩余\x20'+_0x1c39e2+'\x20个实例');return _0x593951;}catch(_0x5845cb){return logger['error']('清理空实例时出错:\x20'+_0x5845cb['message']),_0x593951;}},'getInstance'(_0x2917be){if(_0x2917be==null)return null;try{const _0x25a26b=String(_0x2917be);return this['instances']['get'](_0x25a26b);}catch(_0x4ee1d3){return logger['error']('获取节点\x20'+_0x2917be+'\x20的实例时出错:',_0x4ee1d3),null;}},'executeAction'(_0x3d9325,_0x2e7f12,..._0x3f350d){const _0xc8cbb0=_0x5c3cdc,_0x4bc684={'XFxee':'undo','HVLtQ':'redo'};if(!_0x3d9325||!_0x2e7f12)return logger['warn'](_0xc8cbb0(0x297)),![];try{const _0x29934f=String(_0x3d9325),_0x2e38cb=this[_0xc8cbb0(0x22f)](_0x29934f);if(!_0x2e38cb)return logger['warn']('找不到节点\x20'+_0x3d9325+'\x20的实例'),![];logger['log'](_0xc8cbb0(0x322)+_0x3d9325+_0xc8cbb0(0x299)+_0x2e7f12+_0xc8cbb0(0x2ad));_0x2e7f12!=='history'&&this['closeHistoryPopup']();switch(_0x2e7f12){case'history':return this['showHistory'](_0x29934f,..._0x3f350d);case _0x4bc684[_0xc8cbb0(0x26a)]:return this['undoOperation'](_0x29934f,..._0x3f350d);case _0x4bc684['HVLtQ']:return this[_0xc8cbb0(0x189)](_0x29934f,..._0x3f350d);case'translate':return this[_0xc8cbb0(0x29b)](_0x29934f,..._0x3f350d);case _0xc8cbb0(0x19e):return this['expandText'](_0x29934f,..._0x3f350d);default:logger['warn']('未知操作类型:\x20'+_0x2e7f12);return![];}}catch(_0x47d1b4){return logger[_0xc8cbb0(0x20e)]('执行节点\x20'+_0x3d9325+_0xc8cbb0(0x299)+_0x2e7f12+'\x20操作时出错:',_0x47d1b4),![];}},'showEffect'(_0x3457f3,_0x5b2eb4,_0x5cbb75=0x12c){const _0x4760d9=_0x5c3cdc;if(!_0x3457f3)return;_0x3457f3[_0x4760d9(0x251)]['add'](_0x5b2eb4),setTimeout(()=>_0x3457f3['classList']['remove'](_0x5b2eb4),_0x5cbb75);},'updateTextValue'(_0x3bbb5b,_0x2191a0){const _0x4e6b45=_0x5c3cdc,_0x1bc1d2={'oIOmF':_0x4e6b45(0x2c4)};if(!_0x3bbb5b)return;_0x3bbb5b[_0x4e6b45(0xeb)]=_0x2191a0;const _0x356846=new Event(_0x1bc1d2[_0x4e6b45(0xd5)],{'bubbles':!![]});_0x3bbb5b['dispatchEvent'](_0x356846),this[_0x4e6b45(0x131)](_0x3bbb5b,'prompt_text_updated');},'STYLES':{'popup':_0x5c3cdc(0x18a),'flexRow':_0x5c3cdc(0x276),'buttonReset':_0x5c3cdc(0x197),'transition':'transition:\x20all\x200.2s;'},'createHistoryPopup'(_0x2849fd,_0x14ab5a,_0x2a4347){const _0x4557c4=_0x5c3cdc,_0x5c5258={'YvKAs':_0x4557c4(0x272),'kwaHx':_0x4557c4(0x21f),'eHMyL':_0x4557c4(0x23b),'hEBKO':'block','EtFPU':_0x4557c4(0x1f6),'REGrx':'没有历史记录可显示','mVMtN':'data-node-id','rqjOP':'div','cdaZT':'prompt_history_actions','OjplU':'清除当前','nfpRe':'prompt_history_list','waTYQ':function(_0x2c8cc5,_0x6c4063){return _0x2c8cc5+_0x6c4063;},'FiSGe':function(_0x18b204,_0x5a90d8){return _0x18b204>_0x5a90d8;},'GTcsd':function(_0x2566fd,_0x4dd076){return _0x2566fd+_0x4dd076;},'UMANy':function(_0x643d2,_0xf753e9){return _0x643d2-_0xf753e9;},'eaTst':'popup_up'};this[_0x4557c4(0x159)]();if(!_0x14ab5a||!_0x14ab5a['past']||_0x14ab5a['past'][_0x4557c4(0x15d)]===0x0)return logger['warn'](_0x5c5258['REGrx']),null;const _0x29cbaa=[..._0x14ab5a['past']][_0x4557c4(0x124)]();_0x14ab5a[_0x4557c4(0x23e)]&&_0x29cbaa['unshift'](_0x14ab5a['current']);const _0x4d6a11=document['createElement']('div');_0x4d6a11['className']='prompt_history_popup',_0x4d6a11[_0x4557c4(0x2c2)](_0x5c5258['mVMtN'],_0x2849fd);const _0x250513=document['createElement'](_0x5c5258['rqjOP']);_0x250513['className']='prompt_history_title_bar';const _0x4bb703=document[_0x4557c4(0x312)]('div');_0x4bb703['className']='prompt_history_title',_0x4bb703['textContent']='历史记录';const _0x8a04ae=document[_0x4557c4(0x312)]('div');_0x8a04ae['className']=_0x5c5258['cdaZT'];const _0x4f7b91=document['createElement'](_0x5c5258['eHMyL']);_0x4f7b91['className']='prompt_history_clear',_0x4f7b91[_0x4557c4(0x1aa)]=_0x5c5258['OjplU'],_0x4f7b91[_0x4557c4(0x2ae)]('click',_0x35f46a=>{_0x35f46a['stopPropagation'](),this['clearHistory'](_0x2849fd),this['closeHistoryPopup']();});const _0x5c696c=document['createElement'](_0x5c5258['eHMyL']);_0x5c696c['className']='prompt_history_clear',_0x5c696c['textContent']='清空全部',_0x5c696c[_0x4557c4(0x2ae)]('click',_0xf22131=>{const _0x2e803a=_0x4557c4;_0xf22131['stopPropagation'](),Array[_0x2e803a(0x17c)](this['history']['keys']())['forEach'](_0x21cfe4=>{this['clearHistory'](_0x21cfe4);}),this['closeHistoryPopup']();});const _0x1d32bb=document['createElement']('button');_0x1d32bb[_0x4557c4(0x2bf)]='prompt_history_close',_0x1d32bb['textContent']='×',_0x1d32bb[_0x4557c4(0x2ae)]('click',_0x18f04f=>{const _0x283333=_0x4557c4;_0x18f04f[_0x283333(0x1d6)](),this[_0x283333(0x159)]();}),_0x8a04ae['appendChild'](_0x4f7b91),_0x8a04ae[_0x4557c4(0x101)](_0x5c696c),_0x8a04ae['appendChild'](_0x1d32bb),_0x250513['appendChild'](_0x4bb703),_0x250513['appendChild'](_0x8a04ae),_0x4d6a11['appendChild'](_0x250513);const _0x5e53bb=document['createElement'](_0x4557c4(0x1b8));_0x5e53bb[_0x4557c4(0x2bf)]=_0x5c5258['nfpRe'],_0x29cbaa['forEach']((_0x4ac467,_0x265990)=>{const _0x29779b=_0x4557c4;if(!_0x4ac467['trim']())return;const _0x47f26f=_0x265990===0x0&&_0x4ac467===_0x14ab5a['current'],_0x92dfc3=document[_0x29779b(0x312)](_0x29779b(0x1b8));_0x92dfc3['className']='prompt_history_item'+(_0x47f26f?'\x20current':''),_0x92dfc3['setAttribute'](_0x5c5258[_0x29779b(0x317)],_0x265990);const _0x5102eb=document['createElement']('div');_0x5102eb['style']['cssText']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';const _0x2f6dbb=document[_0x29779b(0x312)](_0x5c5258['kwaHx']);_0x2f6dbb['textContent']=_0x4ac467['length']>0x28?_0x4ac467['substring'](0x0,0x28)+'...':_0x4ac467,_0x2f6dbb[_0x29779b(0x300)]=_0x4ac467;const _0x4d15b7=document['createElement'](_0x5c5258['eHMyL']);_0x4d15b7['textContent']='⋯',_0x4d15b7[_0x29779b(0x300)]='查看完整内容',_0x4d15b7['style'][_0x29779b(0x2a7)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20rgba(255,\x20255,\x20255,\x200.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-left:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20'+(_0x4ac467['length']>0x28?_0x5c5258['hEBKO']:'none')+';\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x4d15b7[_0x29779b(0x2ae)](_0x29779b(0x1f6),_0x77613f=>{_0x77613f['stopPropagation'](),this['showTextPreview'](_0x4ac467);}),_0x5102eb['appendChild'](_0x2f6dbb),_0x5102eb['appendChild'](_0x4d15b7),_0x92dfc3['appendChild'](_0x5102eb),_0x92dfc3['addEventListener']('click',_0x1588f2=>{const _0x49e39d=_0x29779b;_0x1588f2['stopPropagation'](),this[_0x49e39d(0x319)](_0x2849fd,_0x4ac467),this[_0x49e39d(0x159)]();}),_0x5e53bb['appendChild'](_0x92dfc3);}),_0x4d6a11[_0x4557c4(0x101)](_0x5e53bb);const _0x514c21=_0x2a4347[_0x4557c4(0x1ca)]();let _0x4c45d8=_0x514c21[_0x4557c4(0x226)],_0x24f93c=_0x5c5258['waTYQ'](_0x514c21['bottom'],0x5);_0x4c45d8+0x12c>window[_0x4557c4(0x1fd)]&&(_0x4c45d8=window['innerWidth']-0x136);const _0x358ddf=0x15e;return _0x5c5258[_0x4557c4(0x205)](_0x5c5258[_0x4557c4(0x31b)](_0x24f93c,_0x358ddf),window['innerHeight'])?(_0x24f93c=_0x514c21['top']-0x5,_0x4d6a11[_0x4557c4(0x30a)]['transformOrigin']='bottom',_0x4d6a11[_0x4557c4(0x30a)][_0x4557c4(0x16d)]='auto',_0x4d6a11['style'][_0x4557c4(0x112)]=_0x5c5258[_0x4557c4(0x115)](window['innerHeight'],_0x24f93c)+'px',_0x4d6a11['classList']['add']('popup_down')):(_0x4d6a11['style'][_0x4557c4(0x142)]=_0x4557c4(0x16d),_0x4d6a11['style']['top']=Math['max'](0xa,_0x24f93c)+'px',_0x4d6a11['style']['bottom']='auto',_0x4d6a11['classList'][_0x4557c4(0x209)](_0x5c5258['eaTst'])),_0x4d6a11[_0x4557c4(0x30a)]['left']=Math['max'](0xa,_0x4c45d8)+'px',document[_0x4557c4(0x143)]['appendChild'](_0x4d6a11),this['activeHistoryPopup']=_0x4d6a11,setTimeout(()=>{const _0x156957=_0x4557c4;document[_0x156957(0x2ae)](_0x5c5258['EtFPU'],this[_0x156957(0x1f5)]);},0xa),_0x4d6a11;},'createHistoryPopupWithAllRecords'(_0x43a3e0,_0x52f7c4,_0x1a581d){const _0x4ba3e1=_0x5c3cdc,_0x216015={'OWoGQ':'\x20current','qQPBr':'data-index','TeoXf':'current_node','zkDBb':'div','BpJxa':'span','pOUGl':'prompt_history_title_bar','NObXf':'prompt_history_actions','mXTRL':'click','LDoEO':function(_0x33cb72,_0x5e5622){return _0x33cb72>_0x5e5622;},'jbKAy':_0x4ba3e1(0x2c3),'ppejt':function(_0x310aff,_0x16becc){return _0x310aff-_0x16becc;},'ioDrA':_0x4ba3e1(0x14d),'qtwFF':'popup_up','AwRNM':function(_0x42fbb4,_0x515f69,_0x128c30){return _0x42fbb4(_0x515f69,_0x128c30);}};this['closeHistoryPopup']();if(!_0x52f7c4||_0x52f7c4['length']===0x0)return logger['warn']('没有历史记录可显示'),null;const _0x2999bc=document['createElement']('div');_0x2999bc[_0x4ba3e1(0x2bf)]=_0x4ba3e1(0x22a),_0x2999bc['setAttribute']('data-node-id',_0x43a3e0);const _0x4b5c5d=document['createElement']('div');_0x4b5c5d['className']=_0x216015['pOUGl'];const _0x4e8030=document['createElement'](_0x4ba3e1(0x1b8));_0x4e8030['className']=_0x4ba3e1(0x2cb),_0x4e8030[_0x4ba3e1(0x1aa)]='所有历史记录';const _0x4f7385=document['createElement']('div');_0x4f7385['className']=_0x216015[_0x4ba3e1(0x21d)];const _0x5c0059=document['createElement'](_0x4ba3e1(0x23b));_0x5c0059['className']=_0x4ba3e1(0x12f),_0x5c0059['textContent']=_0x4ba3e1(0x30c),_0x5c0059[_0x4ba3e1(0x2ae)](_0x4ba3e1(0x1f6),_0x4199bf=>{_0x4199bf['stopPropagation'](),this['clearHistory'](_0x43a3e0),this['closeHistoryPopup']();});const _0x468ecd=document['createElement']('button');_0x468ecd[_0x4ba3e1(0x2bf)]='prompt_history_clear',_0x468ecd['textContent']=_0x4ba3e1(0x103),_0x468ecd[_0x4ba3e1(0x2ae)]('click',_0x386f8c=>{const _0x556bda=_0x4ba3e1;_0x386f8c[_0x556bda(0x1d6)](),Array['from'](this[_0x556bda(0x1ce)][_0x556bda(0x1fc)]())['forEach'](_0x3c4040=>{this['clearHistory'](_0x3c4040);}),this['closeHistoryPopup']();});const _0xf50cd6=document['createElement'](_0x4ba3e1(0x23b));_0xf50cd6['className']='prompt_history_close',_0xf50cd6['textContent']='×',_0xf50cd6[_0x4ba3e1(0x2ae)](_0x216015['mXTRL'],_0x27396a=>{const _0x4963c9=_0x4ba3e1;_0x27396a[_0x4963c9(0x1d6)](),this['closeHistoryPopup']();}),_0x4f7385['appendChild'](_0x5c0059),_0x4f7385['appendChild'](_0x468ecd),_0x4f7385[_0x4ba3e1(0x101)](_0xf50cd6),_0x4b5c5d['appendChild'](_0x4e8030),_0x4b5c5d['appendChild'](_0x4f7385),_0x2999bc['appendChild'](_0x4b5c5d);const _0x2bd918=document['createElement']('div');_0x2bd918['className']='prompt_history_list',_0x52f7c4['forEach']((_0x243c66,_0xfd2df4)=>{const _0x4e281b=_0x4ba3e1;if(!_0x243c66['text']||!_0x243c66['text'][_0x4e281b(0x27a)]())return;const _0x234347=document['createElement'](_0x4e281b(0x1b8));_0x234347['className']='prompt_history_item'+(_0x243c66[_0x4e281b(0x10e)]?_0x216015[_0x4e281b(0x2a4)]:''),_0x234347['setAttribute'](_0x216015['qQPBr'],_0xfd2df4),_0x234347['setAttribute']('data-node-id',_0x243c66['nodeId']);_0x243c66['isCurrentNode']&&_0x234347[_0x4e281b(0x251)]['add'](_0x216015[_0x4e281b(0x162)]);const _0x9b62b2=document[_0x4e281b(0x312)](_0x216015[_0x4e281b(0x29f)]);_0x9b62b2[_0x4e281b(0x30a)][_0x4e281b(0x2a7)]=_0x4e281b(0x2f1);const _0x19ffd9=document[_0x4e281b(0x312)]('span');_0x19ffd9[_0x4e281b(0x2bf)]=_0x4e281b(0x196);if(_0x243c66[_0x4e281b(0x213)])_0x19ffd9['classList'][_0x4e281b(0x209)]('node_color_current');else{const _0x367371=parseInt(_0x243c66['shortId'])||0x0,_0x108f3e=_0x367371%0xa;_0x19ffd9['classList']['add']('node_color_'+_0x108f3e);}let _0xdf13cf='';_0x243c66['nodeId']['includes']('_')&&(_0xdf13cf=_0x243c66['nodeId']['split']('_')['slice'](0x1)['join']('_'));_0x19ffd9['textContent']=_0xdf13cf?'#'+_0x243c66['shortId']+':\x20':'#'+_0x243c66['shortId']+':\x20';const _0x1a4846=document['createElement'](_0x216015['BpJxa']);_0x1a4846['className']='prompt_history_text',_0x1a4846[_0x4e281b(0x1aa)]=_0x243c66['text'][_0x4e281b(0x15d)]>0x32?_0x243c66['text']['substring'](0x0,0x32)+'...':_0x243c66['text'],_0x1a4846['title']=_0x243c66['text'],_0x1a4846[_0x4e281b(0x30a)][_0x4e281b(0x2a7)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-overflow:\x20ellipsis;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20white-space:\x20nowrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';const _0x12ea83=document['createElement'](_0x4e281b(0x1b8));_0x12ea83['style']['cssText']=_0x4e281b(0x16f),_0x12ea83[_0x4e281b(0x101)](_0x19ffd9),_0x12ea83['appendChild'](_0x1a4846),_0x9b62b2['appendChild'](_0x12ea83),_0x234347[_0x4e281b(0x101)](_0x9b62b2),_0x234347['addEventListener']('click',_0x5049a5=>{const _0x550f1a=_0x4e281b;_0x5049a5['stopPropagation'](),this['applyHistoryItem'](_0x243c66['nodeId'],_0x243c66[_0x550f1a(0x320)],_0x43a3e0),this['closeHistoryPopup']();}),_0x2bd918[_0x4e281b(0x101)](_0x234347);}),_0x2999bc['appendChild'](_0x2bd918);const _0x470ff7=_0x1a581d['getBoundingClientRect']();let _0x47bcfe=_0x470ff7['left'],_0x490356=_0x470ff7['bottom']+0x5;_0x47bcfe+0x12c>window[_0x4ba3e1(0x1fd)]&&(_0x47bcfe=window['innerWidth']-0x136);const _0x1eedbd=0x15e;_0x216015[_0x4ba3e1(0x2ef)](_0x490356+_0x1eedbd,window['innerHeight'])?(_0x490356=_0x470ff7['top']-0x5,_0x2999bc['style']['transformOrigin']='bottom',_0x2999bc[_0x4ba3e1(0x30a)][_0x4ba3e1(0x16d)]=_0x216015['jbKAy'],_0x2999bc['style']['bottom']=_0x216015['ppejt'](window['innerHeight'],_0x490356)+'px',_0x2999bc[_0x4ba3e1(0x251)][_0x4ba3e1(0x209)](_0x216015[_0x4ba3e1(0x1da)])):(_0x2999bc[_0x4ba3e1(0x30a)]['transformOrigin']='top',_0x2999bc[_0x4ba3e1(0x30a)][_0x4ba3e1(0x16d)]=Math['max'](0xa,_0x490356)+'px',_0x2999bc[_0x4ba3e1(0x30a)]['bottom']=_0x216015['jbKAy'],_0x2999bc['classList']['add'](_0x216015['qtwFF']));_0x2999bc['style']['left']=Math['max'](0xa,_0x47bcfe)+'px',_0x2999bc['style'][_0x4ba3e1(0x2e4)]='350px',_0x2999bc['addEventListener'](_0x4ba3e1(0x1f6),_0x3819ce=>{_0x3819ce['stopPropagation']();});const _0x3a30e2=_0x3c5b9f=>{const _0x56a3b5=_0x4ba3e1;_0x2999bc&&!_0x2999bc['contains'](_0x3c5b9f[_0x56a3b5(0x1b4)])&&_0x3c5b9f['target']!==_0x1a581d&&(this['closeHistoryPopup'](),document['removeEventListener']('click',_0x3a30e2));};return _0x216015['AwRNM'](setTimeout,()=>{const _0x138967=_0x4ba3e1;document['addEventListener'](_0x138967(0x1f6),_0x3a30e2);},0xa),document['body'][_0x4ba3e1(0x101)](_0x2999bc),this['activeHistoryPopup']=_0x2999bc,_0x2999bc;},'handleDocumentClick':function(_0x1cf1a4){const _0x5b606f=_0x5c3cdc;TranslateManager['activeHistoryPopup']&&!TranslateManager['activeHistoryPopup']['contains'](_0x1cf1a4[_0x5b606f(0x1b4)])&&!_0x1cf1a4['target']['closest']('.prompt_history_popup')&&TranslateManager[_0x5b606f(0x159)]();},'closeHistoryPopup'(){const _0x482377=_0x5c3cdc,_0x19ffc4={'DHxUZ':'popup_down','vERYd':'closing-down','eRQgp':function(_0x46a363,_0x5547c8,_0x57e376){return _0x46a363(_0x5547c8,_0x57e376);}};if(this['activeHistoryPopup'])try{const _0x5b2ff4=this[_0x482377(0xf2)]['classList'][_0x482377(0x16a)](_0x19ffc4['DHxUZ']),_0xf5c398=_0x5b2ff4?_0x482377(0xed):_0x19ffc4[_0x482377(0x12e)];this['activeHistoryPopup'][_0x482377(0x251)][_0x482377(0x209)](_0xf5c398),document['removeEventListener']('click',this['handleDocumentClick']),_0x19ffc4['eRQgp'](setTimeout,()=>{const _0x2a81af=_0x482377;try{this['activeHistoryPopup']&&document['body'][_0x2a81af(0x16a)](this[_0x2a81af(0xf2)])&&document['body']['removeChild'](this['activeHistoryPopup']);}catch(_0x34e445){}this[_0x2a81af(0xf2)]=null;},0xc8);}catch(_0x571ce2){try{document['body']['removeChild'](this[_0x482377(0xf2)]);}catch(_0x2254d2){}this['activeHistoryPopup']=null,document['removeEventListener'](_0x482377(0x1f6),this['handleDocumentClick']);}},'applyHistoryItem'(_0x199598,_0x4aa8b4,_0x17d408=null){const _0x129ce9=_0x5c3cdc,_0x322166=_0x17d408||_0x199598,_0x447e1f=this[_0x129ce9(0x22f)](_0x322166);if(!_0x447e1f?.['text_element'])return logger[_0x129ce9(0x1e5)]('无法应用历史记录：找不到节点\x20'+_0x322166+_0x129ce9(0x2bc)),![];return this[_0x129ce9(0x2a2)](_0x447e1f['text_element'],_0x4aa8b4),logger['log']('已应用历史记录(源自节点\x20'+_0x199598+')到节点\x20'+_0x322166),this['recordHistory'](_0x322166,_0x4aa8b4),!![];},'showHistory'(_0x42c70d){const _0x384c77=_0x5c3cdc,_0x21bff7={'FlICf':function(_0x6d529c,_0x27be9f){return _0x6d529c!==_0x27be9f;},'tqgRC':function(_0x5a3135,_0x49ab6a){return _0x5a3135(_0x49ab6a);},'iEwPg':function(_0x28b0b5,_0x1ec008,_0x385c25){return _0x28b0b5(_0x1ec008,_0x385c25);},'lBlPL':function(_0xa0cc0b,_0x1daab3){return _0xa0cc0b>_0x1daab3;},'bkYUY':function(_0x7bd8e9,_0x122d5a){return _0x7bd8e9>_0x122d5a;},'GTcZc':function(_0xd0667a,_0xb30795){return _0xd0667a-_0xb30795;},'abaYX':function(_0x368afa,_0x1f97c2){return _0x368afa+_0x1f97c2;}};if(!_0x42c70d||!FEATURES[_0x384c77(0x192)]||!FEATURES[_0x384c77(0x1ce)])return![];try{const _0x6ad693=String(_0x42c70d);this['activePresetPopup']&&this['closePresetPopup']();if(this['activeHistoryPopup'])return this['closeHistoryPopup'](),!![];this['initOrClearHistory'](_0x6ad693);const _0x203849=this['getInstance'](_0x6ad693);if(!_0x203849?.['element']||!_0x203849['buttons']?.[_0x384c77(0x1ce)])return logger['warn']('无法显示历史记录：找不到节点\x20'+_0x42c70d+'\x20的元素或按钮'),![];this[_0x384c77(0x131)](_0x203849[_0x384c77(0x1a6)]['history'],'widget_button_active');const _0x55f12=[];for(const [_0x5c7a6c,_0x1af9d4]of this['history']['entries']()){if(_0x1af9d4&&(_0x1af9d4['past']&&_0x21bff7[_0x384c77(0x176)](_0x1af9d4[_0x384c77(0x2d6)]['length'],0x0)||_0x1af9d4[_0x384c77(0x23e)])){const _0x4290c8=_0x5c7a6c['replace'](/^node_/i,''),_0x3902bf=_0x5c7a6c['split']('_')[0x0],_0x4756cb=_0x6ad693['split']('_')[0x0],_0x1fbe1d=_0x3902bf===_0x4756cb;_0x1af9d4['current']&&_0x55f12['push']({'nodeId':_0x5c7a6c,'shortId':_0x4290c8,'text':_0x1af9d4['current'],'isCurrent':!![],'isCurrentNode':_0x1fbe1d,'index':_0x1af9d4[_0x384c77(0x2d6)]['length']}),_0x1af9d4['past']&&_0x1af9d4['past'][_0x384c77(0x15d)]>0x0&&_0x1af9d4['past']['forEach']((_0x44d7bc,_0x2ab4f5)=>{_0x55f12['push']({'nodeId':_0x5c7a6c,'shortId':_0x4290c8,'text':_0x44d7bc,'isCurrent':![],'isCurrentNode':_0x1fbe1d,'index':_0x2ab4f5});});}}_0x55f12['sort']((_0x336403,_0x86943f)=>{const _0x28fd6e=_0x384c77;if(_0x336403['isCurrentNode']!==_0x86943f['isCurrentNode'])return _0x336403['isCurrentNode']?-0x1:0x1;const _0x4e7175=_0x336403['nodeId']['split']('_')[0x0],_0x1e46cd=_0x86943f['nodeId']['split']('_')[0x0];if(_0x21bff7['FlICf'](_0x4e7175,_0x1e46cd)){const _0x55ff65=parseInt(_0x4e7175['replace'](/\D/g,''))||0x0,_0x40c095=_0x21bff7['tqgRC'](parseInt,_0x1e46cd['replace'](/\D/g,''))||0x0;return _0x55ff65-_0x40c095;}if(_0x336403['nodeId']!==_0x86943f['nodeId']){const _0x301253=_0x336403[_0x28fd6e(0x249)]['includes']('_')?_0x336403[_0x28fd6e(0x249)]['split']('_')[_0x28fd6e(0x326)](0x1)['join']('_'):'',_0xac05e7=_0x86943f[_0x28fd6e(0x249)][_0x28fd6e(0x2ba)]('_')?_0x86943f['nodeId']['split']('_')['slice'](0x1)['join']('_'):'';return _0x301253['localeCompare'](_0xac05e7);}return _0x86943f['index']-_0x336403['index'];});if(_0x21bff7['bkYUY'](_0x55f12['length'],0x0))return this['createHistoryPopupWithAllRecords'](_0x6ad693,_0x55f12,_0x203849['buttons']['history']),!![];else{logger['info']('没有找到任何历史记录');const _0x8561b5=_0x203849['buttons']['history'];if(_0x8561b5){const _0x11ca71=document['createElement']('div');_0x11ca71['className']=_0x384c77(0x184),_0x11ca71['textContent']='当前无历史记录',document['body'][_0x384c77(0x101)](_0x11ca71);const _0x92736e=_0x8561b5['getBoundingClientRect'](),_0x4b3af6=Math['max'](0x78,_0x384c77(0x1c4)['length']*0xa);_0x11ca71[_0x384c77(0x30a)][_0x384c77(0x226)]=_0x21bff7['GTcZc'](_0x21bff7['abaYX'](_0x92736e[_0x384c77(0x226)],_0x92736e['width']/0x2),_0x4b3af6/0x2)+'px',_0x11ca71['style']['top']=_0x21bff7['GTcZc'](_0x92736e['top'],0x22)+'px',_0x11ca71['style'][_0x384c77(0x1b5)]=_0x4b3af6+'px',_0x11ca71['style'][_0x384c77(0x28b)]='clipShake\x200.3s\x20ease-in-out',setTimeout(()=>{const _0x4c410b=_0x384c77;_0x11ca71[_0x4c410b(0x30a)]['animation']='clipFloatUp\x200.5s\x20ease-in-out\x20forwards',_0x21bff7['iEwPg'](setTimeout,()=>{const _0x54d559=_0x4c410b;document[_0x54d559(0x143)]['contains'](_0x11ca71)&&document[_0x54d559(0x143)]['removeChild'](_0x11ca71);},0x320);},0x5dc);}return![];}}catch(_0x3f4ce5){return logger['error']('节点\x20'+_0x42c70d+'\x20显示历史记录失败:',_0x3f4ce5),![];}},'showTextPreview'(_0x4fc709){alert(_0x4fc709);},'undoOperation'(_0x3506f1){const _0x1fe25e=_0x5c3cdc;if(!_0x3506f1)return;try{const _0x58218e=String(_0x3506f1),_0x5c3fad=this[_0x1fe25e(0x1ce)]['get'](_0x58218e);if(!_0x5c3fad||!_0x5c3fad['past']['length'])return;const _0xb4d44a=_0x5c3fad['current'];_0x5c3fad[_0x1fe25e(0x32c)][_0x1fe25e(0x1e9)](_0xb4d44a),_0x5c3fad[_0x1fe25e(0x23e)]=_0x5c3fad['past']['pop'](),this['updateButtonStates'](_0x3506f1);const _0x4069be=this['getInstance'](_0x58218e);if(!_0x4069be?.['text_element'])return;this['updateTextValue'](_0x4069be[_0x1fe25e(0x1a7)],_0x5c3fad[_0x1fe25e(0x23e)]),logger['log']('已撤销节点\x20'+_0x3506f1+'\x20的操作');}catch(_0x34f212){logger[_0x1fe25e(0x20e)](_0x1fe25e(0x21a)+_0x3506f1+_0x1fe25e(0x1fe),_0x34f212);}},'redoOperation'(_0x7505d4){const _0x1b747e=_0x5c3cdc,_0xd29cfe={'YyPam':function(_0x4ac286,_0x702ac1){return _0x4ac286(_0x702ac1);}};if(!_0x7505d4)return;try{const _0x4b67ce=_0xd29cfe['YyPam'](String,_0x7505d4),_0x1ea806=this['history']['get'](_0x4b67ce);if(!_0x1ea806||!_0x1ea806['future']['length'])return;const _0x2174af=_0x1ea806['current'];_0x1ea806[_0x1b747e(0x2d6)]['push'](_0x2174af),_0x1ea806['current']=_0x1ea806['future'][_0x1b747e(0x183)](),this['updateButtonStates'](_0x7505d4);const _0x48cfcf=this['getInstance'](_0x4b67ce);if(!_0x48cfcf?.['text_element'])return;this['updateTextValue'](_0x48cfcf['text_element'],_0x1ea806['current']),logger['log']('已重做节点\x20'+_0x7505d4+'\x20的操作');}catch(_0x1a72bf){logger['error']('重做节点\x20'+_0x7505d4+'\x20的操作时出错:',_0x1a72bf);}},'showStatusTip'(_0x17140f,_0x430431,_0x21bb86){const _0x41ce81=_0x5c3cdc,_0x134ef0={'oWTsj':function(_0x2e6534){return _0x2e6534();},'FjNYK':function(_0x228b08,_0x215e66,_0x2b5d34){return _0x228b08(_0x215e66,_0x2b5d34);},'tYMKI':'transform\x200.8s\x20ease-out,\x20opacity\x200.8s\x20ease-out','snYCw':_0x41ce81(0x1bc),'ztxyq':_0x41ce81(0x13f),'QVZyT':'tip_','xYMCJ':function(_0x2a1436,_0x264d6c){return _0x2a1436(_0x264d6c);},'mhDxj':_0x41ce81(0x14e),'EzqAK':'restore','QwAIz':_0x41ce81(0x1b8),'ROiAK':function(_0x1aca69,_0x1b70e8){return _0x1aca69===_0x1b70e8;},'hrYty':_0x41ce81(0x240),'MweeC':'0|4|2|1|3','ybszE':'在小部件中找到扩写按钮','jJAmn':_0x41ce81(0x1f4),'aFDQv':'通过widgetKey找到对应小部件和翻译按钮','RSITi':_0x41ce81(0x212),'kHVmh':function(_0x2f873f,_0x3d2a63){return _0x2f873f===_0x3d2a63;},'GbJqO':_0x41ce81(0x28f),'jVTXP':'data-reference-type','GHXwI':'textElement','csyNI':'data-tip-id','rPDhd':_0x41ce81(0x181),'bsuSj':_0x41ce81(0x156),'BrSZa':function(_0x47c1dc,_0xaa95e3){return _0x47c1dc+_0xaa95e3;},'fHDJP':function(_0x323a44,_0x59b806){return _0x323a44/_0x59b806;},'rrpbU':'translate(-50%,\x20-100%)\x20translateY(-8px)','YnxIH':function(_0x5f4aa7){return _0x5f4aa7();},'paMgB':'显示状态提示时出错:'};try{!this['statusTips']&&(this['statusTips']=new Map());let _0x2e9f07;if(_0x17140f['closest']){const _0x29a515=_0x17140f['closest']('.prompt_widget_box');_0x29a515&&(_0x2e9f07=_0x29a515['getAttribute'](_0x134ef0[_0x41ce81(0x24e)]));}!_0x2e9f07&&(_0x2e9f07=_0x17140f[_0x41ce81(0x1a4)](_0x134ef0['ztxyq']),!_0x2e9f07&&(_0x2e9f07=_0x134ef0['QVZyT']+Date['now']()+'_'+Math[_0x41ce81(0xf4)](Math['random']()*0x3e8),_0x17140f['setAttribute'](_0x134ef0[_0x41ce81(0xfb)],_0x2e9f07)));const _0x58d356=this['statusTips']['get'](_0x2e9f07);_0x58d356&&_0x58d356['timeoutId']&&_0x134ef0[_0x41ce81(0x199)](clearTimeout,_0x58d356[_0x41ce81(0x2fc)]);let _0x2124db,_0x239d6=![];_0x58d356&&_0x58d356['element']&&document['body']['contains'](_0x58d356['element'])?(_0x2124db=_0x58d356['element'],_0x2124db['classList'][_0x41ce81(0x214)]('success','error',_0x134ef0[_0x41ce81(0x151)],_0x134ef0['EzqAK'],'float_out'),_0x2124db['style'][_0x41ce81(0x28b)]=_0x41ce81(0x19a),_0x2124db[_0x41ce81(0x237)]):(_0x2124db=document['createElement'](_0x134ef0['QwAIz']),_0x2124db['className']='prompt_widget_status',document['body'][_0x41ce81(0x101)](_0x2124db),_0x239d6=!![]);let _0x4a7136=null,_0x4e4153=null,_0x4f1306=null,_0x5c1ebc=null,_0x28fc3c=null;if(_0x134ef0['ROiAK'](_0x17140f['tagName'],_0x41ce81(0x212))){if(_0x17140f['title']&&_0x17140f['title']['includes']('历史'))_0x4e4153=_0x17140f,logger['log'](_0x134ef0['hrYty']);else{if(_0x17140f[_0x41ce81(0x300)]&&_0x17140f['title']['includes']('扩写'))_0x4f1306=_0x17140f,logger[_0x41ce81(0xd6)](_0x41ce81(0xe3));else _0x17140f['title']&&_0x17140f['title']['includes']('预设')&&(_0x5c1ebc=_0x17140f,logger[_0x41ce81(0xd6)]('传入的文本元素是预设按钮'));}}if(_0x17140f&&_0x17140f[_0x41ce81(0x2bb)]){_0x28fc3c=_0x17140f[_0x41ce81(0x2bb)]('.prompt_widget_box');if(_0x28fc3c){const _0x18afd2=_0x134ef0[_0x41ce81(0x255)]['split']('|');let _0x22c58e=0x0;while(!![]){switch(_0x18afd2[_0x22c58e++]){case'0':_0x4a7136=_0x28fc3c['querySelector']('button[title*=\x22翻译\x22]');continue;case'1':!_0x4f1306&&(_0x4f1306=_0x28fc3c['querySelector']('button[title*=\x22扩写\x22]'),_0x4f1306&&logger['log'](_0x134ef0[_0x41ce81(0xd7)]));continue;case'2':!_0x4e4153&&(_0x4e4153=_0x28fc3c['querySelector']('button[title*=\x22历史\x22]'),_0x4e4153&&logger['log']('在小部件中找到历史按钮'));continue;case'3':!_0x5c1ebc&&(_0x5c1ebc=_0x28fc3c['querySelector']('button[title*=\x22预设\x22]'),_0x5c1ebc&&logger['log'](_0x41ce81(0xe2)));continue;case'4':_0x4a7136&&logger['log']('通过textElement找到所属小部件和翻译按钮');continue;}break;}}}if(!_0x28fc3c&&_0x2e9f07){let _0x4b155c=null;if(_0x2e9f07['includes']('_')){const _0x1f4399=_0x2e9f07[_0x41ce81(0xe4)]('_');if(_0x1f4399[_0x41ce81(0x15d)]>=0x2)_0x4b155c=_0x2e9f07;else _0x1f4399['length']===0x1&&(_0x4b155c=_0x1f4399[0x0]);}_0x4b155c&&(_0x28fc3c=document[_0x41ce81(0x1b2)]('.prompt_widget_box[data-widget-key=\x22'+_0x4b155c+'\x22]'),_0x28fc3c&&(_0x4a7136=_0x28fc3c['querySelector'](_0x41ce81(0x2b0)),_0x4f1306=_0x28fc3c['querySelector']('button[title*=\x22扩写\x22]'),_0x5c1ebc=_0x28fc3c['querySelector'](_0x134ef0['jJAmn']),_0x4a7136&&logger[_0x41ce81(0xd6)](_0x134ef0[_0x41ce81(0x2f8)]),_0x4f1306&&logger[_0x41ce81(0xd6)]('通过widgetKey找到对应小部件和扩写按钮'),_0x5c1ebc&&logger[_0x41ce81(0xd6)](_0x41ce81(0x10c))));}if(!_0x4a7136&&_0x17140f['tagName']===_0x134ef0['RSITi']){if(_0x17140f[_0x41ce81(0x300)]&&_0x17140f[_0x41ce81(0x300)]['includes']('翻译'))_0x4a7136=_0x17140f,logger['log']('传入的文本元素本身就是翻译按钮');else{if(_0x17140f[_0x41ce81(0x300)]&&_0x17140f['title']['includes']('扩写'))_0x4f1306=_0x17140f,logger['log']('传入的文本元素本身就是扩写按钮');else _0x17140f[_0x41ce81(0x300)]&&_0x17140f[_0x41ce81(0x300)]['includes']('预设')&&(_0x5c1ebc=_0x17140f,logger[_0x41ce81(0xd6)](_0x41ce81(0x1a5)));}}let _0x547fba=_0x17140f;if(_0x5c1ebc&&(_0x134ef0['kHVmh'](_0x17140f,_0x5c1ebc)||_0x17140f['title']&&_0x17140f['title'][_0x41ce81(0x2ba)]('预设')))_0x547fba=_0x5c1ebc,logger['log'](_0x134ef0[_0x41ce81(0x2c1)]);else{if(_0x4f1306&&(_0x134ef0[_0x41ce81(0x29e)](_0x17140f,_0x4f1306)||_0x17140f[_0x41ce81(0x300)]&&_0x17140f[_0x41ce81(0x300)]['includes']('扩写')))_0x547fba=_0x4f1306,logger['log'](_0x41ce81(0x252));else _0x4a7136&&(_0x547fba=_0x4a7136,logger[_0x41ce81(0xd6)](_0x41ce81(0x273)));}_0x2124db['setAttribute'](_0x134ef0['jVTXP'],_0x4a7136?'button':_0x134ef0[_0x41ce81(0x2ee)]),_0x2124db['setAttribute'](_0x134ef0[_0x41ce81(0x1cd)],_0x2e9f07);_0x28fc3c&&(_0x2124db['setAttribute'](_0x41ce81(0x1bc),_0x28fc3c['getAttribute']('data-widget-key')),_0x2124db['setAttribute'](_0x134ef0[_0x41ce81(0x298)],_0x28fc3c['getAttribute'](_0x134ef0['rPDhd'])),_0x2124db['setAttribute'](_0x134ef0['bsuSj'],_0x28fc3c['getAttribute'](_0x134ef0['bsuSj'])));const _0x514540=_0x547fba['getBoundingClientRect'](),_0x52d29a=Math['max'](0x3c,_0x21bb86['length']*0xa),_0xb87510=_0x134ef0['BrSZa'](_0x514540['left'],_0x134ef0['fHDJP'](_0x514540['width'],0x2)),_0x4f30e8=_0x514540['top'];_0x2124db['style']['position']='absolute',_0x2124db[_0x41ce81(0x30a)]['top']=_0x4f30e8+'px',_0x2124db['style']['left']=_0xb87510+'px',_0x2124db[_0x41ce81(0x30a)]['transform']=_0x134ef0[_0x41ce81(0x2a5)],_0x2124db['style'][_0x41ce81(0x254)]='nowrap',_0x2124db['classList']['add'](_0x430431);let _0x8907cc=0x0;const _0x2d2b65=0x4,_0x563c82=0x0,_0x1942ff=0x2;function _0x3cf3dd(){const _0x15fce9=_0x41ce81;if(_0x8907cc>=_0x2d2b65)return;const _0x1dbb08=_0x2124db['style']['transform']||'',_0x2258c1=_0x8907cc%0x2===0x0?-0x1:0x1,_0x5d931e=_0x2258c1*_0x1942ff;_0x2124db['style'][_0x15fce9(0x1f0)]=_0x1dbb08['replace'](/translateX\([^)]*\)/g,'')+('\x20translateX('+_0x5d931e+'px)'),_0x8907cc++,_0x134ef0['FjNYK'](setTimeout,()=>{_0x2124db&&document['body']['contains'](_0x2124db)&&_0x134ef0['oWTsj'](_0x3cf3dd);},0x3c);}_0x134ef0[_0x41ce81(0x2e7)](_0x3cf3dd),_0x2124db[_0x41ce81(0x1aa)]=_0x21bb86;const _0x528820=setTimeout(()=>{const _0x5e6702=_0x41ce81;if(_0x2124db&&document[_0x5e6702(0x143)][_0x5e6702(0x16a)](_0x2124db)){const _0x1b673f=_0x2124db['style']['transform'];_0x2124db['classList']['add']('float_out'),_0x2124db['style']['transform']=_0x1b673f+'\x20translateY(-50px)',_0x2124db[_0x5e6702(0x30a)]['opacity']='0',_0x2124db[_0x5e6702(0x30a)]['transition']=_0x134ef0[_0x5e6702(0x304)];const _0x237001=_0x134ef0[_0x5e6702(0x2b6)](setTimeout,()=>{const _0x1f9ef9=_0x5e6702;_0x2124db&&document['body']['contains'](_0x2124db)&&(document['body']['removeChild'](_0x2124db),this[_0x1f9ef9(0x2df)]['delete'](_0x2e9f07));},0x320),_0x14d162=this[_0x5e6702(0x2df)]['get'](_0x2e9f07);_0x14d162&&(_0x14d162['removeTimeoutId']=_0x237001);}},0x5dc);return this['statusTips'][_0x41ce81(0x187)](_0x2e9f07,{'element':_0x2124db,'timeoutId':_0x528820,'elementId':_0x2e9f07,'widgetKey':_0x28fc3c?_0x28fc3c['getAttribute']('data-widget-key'):null}),_0x2124db;}catch(_0x37e7a5){return console['error'](_0x134ef0['paMgB'],_0x37e7a5),null;}},'removeStatusTip'(_0x14fa29){const _0x3f4d7c=_0x5c3cdc,_0x12d3ce={'jdUkK':_0x3f4d7c(0x13f),'Gprfh':function(_0x405913,_0x5004a9){return _0x405913(_0x5004a9);},'yYzCQ':function(_0x1712d8,_0x326a49){return _0x1712d8(_0x326a49);},'oHmOl':_0x3f4d7c(0xdf)};try{if(!this[_0x3f4d7c(0x2df)])return;if(_0x14fa29){const _0x1b4a86=_0x14fa29['getAttribute'](_0x12d3ce['jdUkK']);if(_0x1b4a86){const _0x81b210=this['statusTips']['get'](_0x1b4a86);if(_0x81b210&&_0x81b210['element']&&document['body']['contains'](_0x81b210[_0x3f4d7c(0x248)])){if(_0x81b210['timeoutId'])clearTimeout(_0x81b210['timeoutId']);if(_0x81b210['removeTimeoutId'])clearTimeout(_0x81b210['removeTimeoutId']);_0x81b210[_0x3f4d7c(0x248)]['style'][_0x3f4d7c(0x28b)]='clipFloatUp\x200.5s\x20ease-in-out\x20forwards',setTimeout(()=>{const _0xd03db8=_0x3f4d7c;_0x81b210['element']&&document['body']['contains'](_0x81b210['element'])&&(document['body'][_0xd03db8(0x277)](_0x81b210['element']),this['statusTips'][_0xd03db8(0x100)](_0x1b4a86));},0x320);}}}else{for(const [_0x240f2c,_0x34f1d7]of this['statusTips'][_0x3f4d7c(0x2a9)]()){if(_0x34f1d7['element']&&document['body']['contains'](_0x34f1d7['element'])){if(_0x34f1d7['timeoutId'])_0x12d3ce[_0x3f4d7c(0x154)](clearTimeout,_0x34f1d7['timeoutId']);if(_0x34f1d7['removeTimeoutId'])_0x12d3ce[_0x3f4d7c(0x2a6)](clearTimeout,_0x34f1d7[_0x3f4d7c(0x215)]);_0x34f1d7['element']['style'][_0x3f4d7c(0x28b)]='clipFloatUp\x200.5s\x20ease-in-out\x20forwards',function(_0x5df6bf,_0x597be1){setTimeout(()=>{const _0xa35d26=_0x25e2;_0x597be1[_0xa35d26(0x248)]&&document['body']['contains'](_0x597be1['element'])&&document[_0xa35d26(0x143)][_0xa35d26(0x277)](_0x597be1['element']);},0x320);}(_0x240f2c,_0x34f1d7);}}setTimeout(()=>{this['statusTips']['clear']();},0x320);}}catch(_0x35b4f1){console['error'](_0x12d3ce['oHmOl'],_0x35b4f1);}},'disableAllButtons'(_0x2ebacd,_0x160bcd=null){const _0x5b82e7=_0x5c3cdc,_0x135df0={'jxzeD':function(_0x365609,_0x3c80c){return _0x365609===_0x3c80c;},'paLJO':'widget_button_active','ROCng':_0x5b82e7(0x1d4)},_0x433e22=this[_0x5b82e7(0x22f)](_0x2ebacd);if(!_0x433e22?.[_0x5b82e7(0x1a6)])return;Object['keys'](_0x433e22[_0x5b82e7(0x1a6)])['forEach'](_0x3ddfdc=>{const _0x39dd28=_0x5b82e7,_0x1afdde=_0x433e22['buttons'][_0x3ddfdc];_0x1afdde&&(_0x135df0[_0x39dd28(0x20c)](_0x3ddfdc,_0x160bcd)?_0x1afdde['classList'][_0x39dd28(0x209)](_0x135df0['paLJO']):(_0x1afdde['classList']['add'](_0x135df0['ROCng']),_0x1afdde[_0x39dd28(0x109)]=!![]));});},'restoreButtonStates'(_0x1ca9ed,_0x5ca421=null){const _0x2b82b4=_0x5c3cdc,_0x176685={'HVgsK':'widget_button_disabled'},_0x34062f=this[_0x2b82b4(0x22f)](_0x1ca9ed);if(!_0x34062f?.['buttons'])return;Object[_0x2b82b4(0x1fc)](_0x34062f['buttons'])[_0x2b82b4(0x1b1)](_0x56ab4c=>{const _0xbe398a=_0x2b82b4,_0x3d0321=_0x34062f[_0xbe398a(0x1a6)][_0x56ab4c];_0x3d0321&&(_0x3d0321['classList'][_0xbe398a(0x214)](_0x176685['HVgsK']),_0x3d0321[_0xbe398a(0x251)]['remove']('widget_button_active'),_0x3d0321['disabled']=![]);}),this['updateButtonStates'](_0x1ca9ed);},'translateText'(_0x3f80c6){const _0x48aa06=_0x5c3cdc,_0x31bb5f={'qbCZd':'使用缓存翻译','MKkPk':'error','btdsl':'widget_button_loading','VhoZI':_0x48aa06(0x2c3),'zVEZA':function(_0x9cc44a,_0x28c347){return _0x9cc44a>_0x28c347;},'PqFZH':_0x48aa06(0x125),'Cnyzk':_0x48aa06(0x239),'fXtTq':_0x48aa06(0x14e),'RqHji':'发送翻译请求到后端...'};if(!FEATURES[_0x48aa06(0x239)])return logger['warn']('翻译功能已禁用'),![];const _0x34aa5e=this['getInstance'](_0x3f80c6);if(!_0x34aa5e?.['text_element'])return logger[_0x48aa06(0x20e)]('未找到节点的文本元素:',_0x3f80c6),![];const _0x25cce2=_0x34aa5e['text_element'],_0x22a94b=_0x34aa5e['buttons']?.['translate'],_0x2562b4=_0x22a94b||_0x25cce2,_0x5ee23d=_0x25cce2['value']||'';if(!_0x5ee23d['trim']())return logger['info'](_0x48aa06(0x1a0)),this['showStatusTip'](_0x2562b4,'error','没有要翻译的文本'),![];if(_0x34aa5e['isTranslating']||_0x34aa5e['isExpanding']){const _0x303ed8=_0x34aa5e['isTranslating']?'翻译处理中，请稍候...':'扩写处理中，请稍候...';return logger['warn'](_0x303ed8),this[_0x48aa06(0x1ad)](_0x2562b4,'loading',_0x303ed8),![];}_0x34aa5e['recordHistory']&&_0x34aa5e['recordHistory'](_0x5ee23d);if(this['translationCache']['has'](_0x5ee23d)){logger['info'](_0x48aa06(0x21c));const _0x1e2c8b=this['translationCache'][_0x48aa06(0x18c)](_0x5ee23d);this['updateTextValue'](_0x25cce2,_0x1e2c8b),this[_0x48aa06(0xf6)](_0x3f80c6,_0x1e2c8b);let _0x4b4ed5='已恢复';return _0x34aa5e['originalText']&&_0x5ee23d===_0x34aa5e[_0x48aa06(0x222)]?_0x4b4ed5='译文':(_0x4b4ed5='原文',_0x34aa5e['originalText']=_0x1e2c8b),this['showStatusTip'](_0x2562b4,'restore',_0x4b4ed5),!![];}let _0x59546a='auto',_0xf84ba6=_0x31bb5f['VhoZI'];const _0x419bf6=(_0x5ee23d[_0x48aa06(0x2d0)](/[\u4e00-\u9fff]/g)||[])['length'],_0x1ba1a2=_0x31bb5f[_0x48aa06(0xd9)](_0x419bf6,_0x5ee23d['length']*0.2);_0x1ba1a2?_0xf84ba6='en':_0xf84ba6='zh';DEBUG&&logger['info'](_0x48aa06(0x126)+(_0x1ba1a2?'中文':_0x48aa06(0x2e8))+_0x48aa06(0x30b)+_0xf84ba6);const _0x2efad4=_0x25cce2['style']['border'];return _0x25cce2['style']['border']=_0x31bb5f['PqFZH'],_0x34aa5e['isTranslating']=!![],_0x22a94b&&_0x22a94b[_0x48aa06(0x251)]['add']('widget_button_loading'),this[_0x48aa06(0x13b)](_0x3f80c6,_0x31bb5f['Cnyzk']),this['showStatusTip'](_0x2562b4,_0x31bb5f['fXtTq'],'正在翻译...'),DEBUG&&logger[_0x48aa06(0x28c)](_0x31bb5f['RqHji']),this[_0x48aa06(0xfc)](_0x5ee23d,_0x3f80c6,_0x59546a,_0xf84ba6)['then'](_0x12fe8d=>{const _0x2a4d70=_0x48aa06;_0x34aa5e[_0x2a4d70(0x28a)]=![],_0x25cce2['style']['border']=_0x2efad4;_0x22a94b&&(_0x22a94b['classList']['remove'](_0x2a4d70(0x114)),_0x22a94b['classList']['remove'](_0x2a4d70(0x195)));this['restoreButtonStates'](_0x3f80c6);DEBUG&&logger['info']('收到翻译响应:',_0x12fe8d);if(_0x12fe8d['status']===_0x2a4d70(0x2db)&&_0x12fe8d['text']){const _0x459d6e=_0x12fe8d['text'];DEBUG&&logger['info']('翻译成功:\x20'+_0x459d6e[_0x2a4d70(0x1e6)](0x0,0x1e)+(_0x459d6e['length']>0x1e?_0x2a4d70(0x2de):'')),this['updateTextValue'](_0x34aa5e['text_element'],_0x459d6e),this['translationCache']['set'](_0x5ee23d,_0x459d6e),this[_0x2a4d70(0x15e)][_0x2a4d70(0x187)](_0x459d6e,_0x5ee23d),this[_0x2a4d70(0xf6)](_0x3f80c6,_0x459d6e),_0x34aa5e['originalText']=_0x5ee23d,this[_0x2a4d70(0x1ad)](_0x2562b4,_0x2a4d70(0x2db),_0x12fe8d[_0x2a4d70(0x306)]?_0x31bb5f['qbCZd']:'翻译完成');}else this['showStatusTip'](_0x2562b4,_0x31bb5f['MKkPk'],_0x12fe8d[_0x2a4d70(0x31f)]||_0x2a4d70(0x309));})['catch'](_0x556656=>{const _0x3aee33=_0x48aa06;_0x34aa5e['isTranslating']=![],_0x25cce2['style']['border']=_0x2efad4,_0x22a94b&&(_0x22a94b[_0x3aee33(0x251)]['remove'](_0x31bb5f[_0x3aee33(0x160)]),_0x22a94b[_0x3aee33(0x251)][_0x3aee33(0x214)]('widget_button_active')),this['restoreButtonStates'](_0x3f80c6),logger[_0x3aee33(0x20e)]('翻译请求失败:',_0x556656),this['showStatusTip'](_0x2562b4,'error',_0x3aee33(0xe5)+_0x556656[_0x3aee33(0x31f)]);}),!![];},async 'expandText'(_0x4bedf0){const _0x1e3323=_0x5c3cdc,_0x31e711={'SEBag':'未找到节点的文本元素:','bYDkw':_0x1e3323(0x253),'KiRBA':_0x1e3323(0x2e9),'qhsGl':'expand','GNJyg':'loading','SRTkm':_0x1e3323(0x311),'nEeXk':'application/json','JJmfP':'widget_button_active','WPwKd':'success'},_0x4d709c=this['getInstance'](_0x4bedf0);if(!_0x4d709c?.['text_element'])return logger[_0x1e3323(0x20e)](_0x31e711[_0x1e3323(0x27e)],_0x4bedf0),![];const _0x2d5135=_0x4d709c[_0x1e3323(0x1a7)],_0x3f2312=_0x4d709c['buttons']?.['expand'],_0x11f185=_0x3f2312||_0x2d5135,_0x4a5003=_0x2d5135['value']||'';if(!_0x4a5003['trim']())return logger[_0x1e3323(0x28c)]('没有要扩写的文本'),this['showStatusTip'](_0x11f185,'error',_0x31e711[_0x1e3323(0x2e1)]),![];if(_0x4d709c['isExpanding']||_0x4d709c['isTranslating']){const _0x5bb755=_0x4d709c[_0x1e3323(0x1a8)]?_0x31e711[_0x1e3323(0x323)]:_0x1e3323(0x2f5);return logger[_0x1e3323(0x1e5)](_0x5bb755),this['showStatusTip'](_0x11f185,_0x1e3323(0x14e),_0x5bb755),![];}_0x4d709c['recordHistory']&&_0x4d709c[_0x1e3323(0xf6)](_0x4a5003);const _0x5211a9=_0x2d5135[_0x1e3323(0x30a)]['border'];_0x2d5135['style']['border']=_0x1e3323(0x286),_0x4d709c['isExpanding']=!![];_0x3f2312&&_0x3f2312['classList']['add']('widget_button_loading');this[_0x1e3323(0x13b)](_0x4bedf0,_0x31e711['qhsGl']),this[_0x1e3323(0x1ad)](_0x11f185,_0x31e711['GNJyg'],_0x1e3323(0x261));try{const _0x81312c=await fetch(_0x1e3323(0x17a),{'method':_0x31e711[_0x1e3323(0x2e0)],'headers':{'Content-Type':_0x31e711['nEeXk']},'body':JSON['stringify']({'text':_0x4a5003,'node_id':_0x4bedf0})});_0x4d709c['isExpanding']=![],_0x2d5135['style'][_0x1e3323(0x2a3)]=_0x5211a9;_0x3f2312&&(_0x3f2312['classList']['remove'](_0x1e3323(0x114)),_0x3f2312[_0x1e3323(0x251)]['remove'](_0x31e711['JJmfP']));this['restoreButtonStates'](_0x4bedf0);if(!_0x81312c['ok'])throw new Error('HTTP\x20error!\x20status:\x20'+_0x81312c['status']);const _0x17f8c1=await _0x81312c[_0x1e3323(0x2c8)]();if(_0x17f8c1['success']&&_0x17f8c1['expanded_text']){const _0x5cfb94=_0x17f8c1['expanded_text'];return this['updateTextValue'](_0x4d709c['text_element'],_0x5cfb94),this['forceRecordHistory'](_0x4bedf0,_0x5cfb94),this['showStatusTip'](_0x11f185,_0x31e711['WPwKd'],'扩写完成'),!![];}else throw new Error(_0x17f8c1['error']||'扩写失败');}catch(_0x3cd7c2){_0x4d709c['isExpanding']=![],_0x2d5135['style']['border']=_0x5211a9;_0x3f2312&&(_0x3f2312[_0x1e3323(0x251)]['remove'](_0x1e3323(0x114)),_0x3f2312['classList'][_0x1e3323(0x214)]('widget_button_active'));this['restoreButtonStates'](_0x4bedf0);const _0x4feed2=_0x3cd7c2['message']||'无法连接LLM服务';return this['showStatusTip'](_0x11f185,'error','扩写失败:\x20'+_0x4feed2),logger['error']('扩写文本时出错:',_0x3cd7c2),![];}},'forceRecordHistory'(_0x3d08d7,_0x29bd49){const _0x48b574=_0x5c3cdc;if(!_0x3d08d7)return;try{this[_0x48b574(0x2d8)](_0x3d08d7);const _0x57bab1=String(_0x3d08d7),_0x5eed95=this[_0x48b574(0x1ce)]['get'](_0x57bab1);if(!_0x5eed95)return;_0x5eed95['past'][_0x48b574(0x1e9)](_0x5eed95['current']),_0x5eed95['current']=_0x29bd49,_0x5eed95['future']=[],_0x5eed95['past']['length']>0x14&&_0x5eed95[_0x48b574(0x2d6)]['shift'](),this['updateButtonStates'](_0x3d08d7);}catch(_0x155762){logger['error']('强制记录节点\x20'+_0x3d08d7+'\x20的历史时出错:',_0x155762);}},async 'loadPresets'(){const _0xcd0b70=_0x5c3cdc,_0x770c89={'SHqoQ':'/prompt_widget/presets','ADmMP':function(_0x1f99a7,_0xc27f30){return _0x1f99a7(_0xc27f30);}};try{if(this[_0xcd0b70(0x173)])return this['presets'];const _0x1b1253=_0x770c89[_0xcd0b70(0x2fd)],_0x33bab6=await _0x770c89[_0xcd0b70(0x128)](fetch,_0x1b1253);if(!_0x33bab6['ok'])throw new Error('Failed\x20to\x20load\x20presets:\x20'+_0x33bab6['status']+'\x20'+_0x33bab6[_0xcd0b70(0x29d)]);const _0x20baa9=await _0x33bab6['json']();return this[_0xcd0b70(0x173)]=_0x20baa9['presets']||[],logger['log'](_0xcd0b70(0x135)+this[_0xcd0b70(0x173)]['length']+_0xcd0b70(0x10a)),this[_0xcd0b70(0x173)];}catch(_0x55eb71){return logger['error'](_0xcd0b70(0x227),_0x55eb71),this[_0xcd0b70(0x173)]=[],[];}},async 'showPresets'(_0x46ae67){const _0x251dc0=_0x5c3cdc;if(!_0x46ae67||!FEATURES['enabled']||!FEATURES['preset'])return![];try{const _0x5aba0b=String(_0x46ae67);this[_0x251dc0(0xf2)]&&this['closeHistoryPopup']();if(this['activePresetPopup'])return this[_0x251dc0(0x26b)](),!![];const _0xf5dd43=this[_0x251dc0(0x22f)](_0x5aba0b);if(!_0xf5dd43?.['element']||!_0xf5dd43['buttons']?.[_0x251dc0(0x233)])return logger[_0x251dc0(0x1e5)]('无法显示预设：找不到节点\x20'+_0x46ae67+_0x251dc0(0x2b7)),![];this[_0x251dc0(0x131)](_0xf5dd43[_0x251dc0(0x1a6)]['preset'],'widget_button_active'),await this['loadPresets']();if(!this[_0x251dc0(0x173)]||this['presets']['length']===0x0)return logger['info'](_0x251dc0(0x161)),this['showStatusTip'](_0xf5dd43['buttons'][_0x251dc0(0x233)],'info',_0x251dc0(0x216)),![];return this['createPresetPopup'](_0x5aba0b,this[_0x251dc0(0x173)],_0xf5dd43[_0x251dc0(0x1a6)][_0x251dc0(0x233)]),!![];}catch(_0x2422df){return logger['error'](_0x251dc0(0x308)+_0x46ae67+_0x251dc0(0x180),_0x2422df),![];}},'createPresetPopup'(_0x358e94,_0x487b9a,_0x4e3244){const _0x438f1b=_0x5c3cdc,_0x45b57c={'XmQMk':_0x438f1b(0x272),'sBxTa':_0x438f1b(0x138),'PtPUi':'质量指示词','Oomrb':'preset_type_style','uPViw':_0x438f1b(0x21f),'ghPCP':_0x438f1b(0x2de),'bRcQg':'preset-clean-button-container','tETWz':'inline-flex','sIXYw':_0x438f1b(0x19a),'nSBvV':'preset-action-button\x20erase-button','AbsPY':'div','XtsSF':'click','JhCFV':function(_0x491dee,_0x2ad429){return _0x491dee!==_0x2ad429;},'FEtiv':'没有预设可显示','qljpH':'data-node-id','fMxqJ':'prompt_history_title','ftMkB':_0x438f1b(0x32e),'Ibitj':'prompt_history_close','bJsjM':'prompt_history_list','BayHh':function(_0x38110a,_0x2108df){return _0x38110a>_0x2108df;},'CVwNN':_0x438f1b(0x2c3),'DlfOv':function(_0x10133b,_0x5d772d){return _0x10133b-_0x5d772d;},'OQkPQ':_0x438f1b(0x14d),'HEBJz':'top','NdBSx':function(_0x548ed8,_0x11ee01,_0x2d461d){return _0x548ed8(_0x11ee01,_0x2d461d);}};this['closePresetPopup']();if(!_0x487b9a||_0x487b9a['length']===0x0)return logger[_0x438f1b(0x1e5)](_0x45b57c['FEtiv']),null;const _0x3aced3=document['createElement'](_0x45b57c[_0x438f1b(0x1db)]);_0x3aced3['className']='prompt_history_popup',_0x3aced3['setAttribute'](_0x45b57c['qljpH'],_0x358e94);const _0xe325d6=document[_0x438f1b(0x312)](_0x45b57c[_0x438f1b(0x1db)]);_0xe325d6[_0x438f1b(0x2bf)]='prompt_history_title_bar';const _0x37d3bb=document[_0x438f1b(0x312)]('div');_0x37d3bb[_0x438f1b(0x2bf)]=_0x45b57c[_0x438f1b(0x13c)],_0x37d3bb['textContent']='提示词预设';const _0xea0b40=document[_0x438f1b(0x312)]('div');_0xea0b40[_0x438f1b(0x2bf)]=_0x45b57c['ftMkB'];const _0x3a9e82=document['createElement']('button');_0x3a9e82['className']=_0x45b57c['Ibitj'],_0x3a9e82['textContent']='×',_0x3a9e82['addEventListener'](_0x45b57c['XtsSF'],_0x384ed2=>{const _0x3d0479=_0x438f1b;_0x384ed2[_0x3d0479(0x1d6)](),this[_0x3d0479(0x26b)]();}),_0xea0b40['appendChild'](_0x3a9e82),_0xe325d6['appendChild'](_0x37d3bb),_0xe325d6['appendChild'](_0xea0b40),_0x3aced3['appendChild'](_0xe325d6);const _0x273668=document['createElement'](_0x45b57c['AbsPY']);_0x273668['className']=_0x45b57c['bJsjM'],_0x487b9a['forEach']((_0x2945b2,_0x508bf4)=>{const _0x2df2ee=_0x438f1b;if(!_0x2945b2['content']||!_0x2945b2[_0x2df2ee(0x274)]['trim']())return;const _0x3b9ab3=document['createElement']('div');_0x3b9ab3['className']=_0x2df2ee(0x208),_0x3b9ab3['setAttribute'](_0x45b57c['XmQMk'],_0x508bf4);const _0xa01a78=TranslateManager[_0x2df2ee(0x22f)](_0x358e94),_0x37a0fd=_0xa01a78?.[_0x2df2ee(0x1a7)]?.['value']||'',_0x29a302=_0x37a0fd['includes'](_0x2945b2['content']),_0x90ecb9=document[_0x2df2ee(0x312)](_0x2df2ee(0x21f));_0x90ecb9['className']='prompt_preset_type',_0x90ecb9['textContent']=_0x2945b2['type']||_0x45b57c['sBxTa'];if(_0x2945b2[_0x2df2ee(0x1ed)])_0x90ecb9['classList']['add']('preset_type_'+_0x2945b2['color_type']);else switch(_0x2945b2['type']){case _0x45b57c['PtPUi']:_0x90ecb9['classList']['add'](_0x2df2ee(0x27c));break;case'风格提示词':_0x90ecb9[_0x2df2ee(0x251)]['add'](_0x45b57c['Oomrb']);break;case _0x2df2ee(0x202):_0x90ecb9[_0x2df2ee(0x251)][_0x2df2ee(0x209)]('preset_type_negative');break;default:_0x90ecb9['classList']['add']('preset_type_default');}const _0x2561b1=document['createElement'](_0x45b57c[_0x2df2ee(0x29c)]);_0x2561b1[_0x2df2ee(0x2bf)]='prompt_preset_content',_0x2561b1['textContent']=_0x2945b2['content']['length']>0x32?_0x2945b2['content']['substring'](0x0,0x32)+_0x45b57c['ghPCP']:_0x2945b2[_0x2df2ee(0x274)],_0x2561b1[_0x2df2ee(0x300)]=_0x2945b2['content'];const _0x483618=document['createElement'](_0x2df2ee(0x21f));_0x483618['className']=_0x2df2ee(0x256),_0x483618['textContent']=_0x2945b2['note']||'',_0x483618[_0x2df2ee(0x300)]=_0x2945b2[_0x2df2ee(0x1e2)];const _0x3fb7ab=document['createElement']('span');_0x3fb7ab['className']=_0x45b57c[_0x2df2ee(0x182)],_0x3fb7ab['style'][_0x2df2ee(0x24d)]=_0x29a302?_0x45b57c['tETWz']:_0x45b57c['sIXYw'];const _0x596378=document['createElement']('button');_0x596378[_0x2df2ee(0x2bf)]=_0x45b57c['nSBvV'],_0x596378['title']='从输入框中清除此预设',_0x596378['addEventListener']('click',_0xdb2cfa=>{const _0x40fb76=_0x2df2ee;_0xdb2cfa['stopPropagation'](),TranslateManager['cleanPresetFromInput'](_0x358e94,_0x2945b2[_0x40fb76(0x274)]),_0x3fb7ab['style'][_0x40fb76(0x24d)]='none';}),_0x3fb7ab[_0x2df2ee(0x101)](_0x596378);const _0x7b34b0=document[_0x2df2ee(0x312)](_0x45b57c['AbsPY']);_0x7b34b0[_0x2df2ee(0x30a)]['cssText']=_0x2df2ee(0xec);const _0x5ce024=document['createElement']('div');_0x5ce024['style']['cssText']=_0x2df2ee(0x167),_0x5ce024['appendChild'](_0x90ecb9),_0x5ce024['appendChild'](_0x483618);const _0xa7c3ec=document['createElement'](_0x45b57c[_0x2df2ee(0x1db)]);_0xa7c3ec['style']['cssText']=_0x2df2ee(0x18d),_0xa7c3ec['appendChild'](_0x2561b1),_0xa7c3ec['appendChild'](_0x3fb7ab),_0x7b34b0['appendChild'](_0x5ce024),_0x7b34b0['appendChild'](_0xa7c3ec),_0x3b9ab3['appendChild'](_0x7b34b0),_0x3b9ab3['addEventListener'](_0x45b57c['XtsSF'],_0x35dfc9=>{const _0xab1964=_0x2df2ee;_0x35dfc9['stopPropagation'](),!_0x29a302&&(TranslateManager['applyPreset'](_0x358e94,_0x2945b2[_0xab1964(0x274)]),_0x3fb7ab['style'][_0xab1964(0x24d)]='inline-flex');}),_0x29a302&&(_0x3b9ab3[_0x2df2ee(0x251)][_0x2df2ee(0x209)](_0x2df2ee(0x193)),_0x3b9ab3[_0x2df2ee(0x30a)]['backgroundColor']='rgba(100,\x20255,\x20100,\x200.1)'),_0x273668['appendChild'](_0x3b9ab3);}),_0x3aced3['appendChild'](_0x273668);const _0x2106c5=_0x4e3244['getBoundingClientRect']();let _0x5d6ccb=_0x2106c5['left'],_0x468f05=_0x2106c5['bottom']+0x5;_0x45b57c[_0x438f1b(0x118)](_0x5d6ccb+0x12c,window['innerWidth'])&&(_0x5d6ccb=window['innerWidth']-0x136);const _0x733014=0x15e;return _0x45b57c['BayHh'](_0x468f05+_0x733014,window[_0x438f1b(0x236)])?(_0x468f05=_0x2106c5['top']-0x5,_0x3aced3[_0x438f1b(0x30a)][_0x438f1b(0x142)]='bottom',_0x3aced3[_0x438f1b(0x30a)]['top']=_0x45b57c['CVwNN'],_0x3aced3['style'][_0x438f1b(0x112)]=_0x45b57c['DlfOv'](window['innerHeight'],_0x468f05)+'px',_0x3aced3[_0x438f1b(0x251)]['add'](_0x45b57c['OQkPQ'])):(_0x3aced3[_0x438f1b(0x30a)]['transformOrigin']=_0x45b57c['HEBJz'],_0x3aced3['style']['top']=Math[_0x438f1b(0x179)](0xa,_0x468f05)+'px',_0x3aced3['style'][_0x438f1b(0x112)]='auto',_0x3aced3['classList']['add'](_0x438f1b(0x30d))),_0x3aced3[_0x438f1b(0x30a)]['left']=Math['max'](0xa,_0x5d6ccb)+'px',document['body']['appendChild'](_0x3aced3),this['activePresetPopup']=_0x3aced3,this['handleDocumentClick']=_0x2ed92c=>{const _0x46db59=_0x438f1b;_0x3aced3&&!_0x3aced3[_0x46db59(0x16a)](_0x2ed92c[_0x46db59(0x1b4)])&&_0x45b57c[_0x46db59(0x28d)](_0x2ed92c['target'],_0x4e3244)&&this[_0x46db59(0x26b)]();},_0x45b57c['NdBSx'](setTimeout,()=>{const _0xecbbf0=_0x438f1b;document[_0xecbbf0(0x2ae)](_0xecbbf0(0x1f6),this[_0xecbbf0(0x1f5)]);},0xa),_0x3aced3;},'closePresetPopup'(){const _0x31782f=_0x5c3cdc,_0x1a9c83={'cGEYh':'closing-down','CjnIZ':_0x31782f(0x1f6),'CdLtm':function(_0xa1fba2,_0x3f87d2,_0x5519ef){return _0xa1fba2(_0x3f87d2,_0x5519ef);}};try{if(this['activePresetPopup']){const _0x4918ee=this['activePresetPopup']['classList']['contains'](_0x31782f(0x14d)),_0x193abf=_0x4918ee?_0x31782f(0xed):_0x1a9c83['cGEYh'];this['activePresetPopup']['classList']['add'](_0x193abf),this['handleDocumentClick']&&(document['removeEventListener'](_0x1a9c83['CjnIZ'],this[_0x31782f(0x1f5)]),this['handleDocumentClick']=null),_0x1a9c83[_0x31782f(0xe0)](setTimeout,()=>{const _0x3699f5=_0x31782f;try{this['activePresetPopup']&&document['body']['contains'](this[_0x3699f5(0x14a)])&&document['body']['removeChild'](this['activePresetPopup']);}catch(_0x46a65b){}this['activePresetPopup']=null;},0xc8);}}catch(_0x2697b4){try{this['activePresetPopup']&&document[_0x31782f(0x143)]['contains'](this['activePresetPopup'])&&document[_0x31782f(0x143)]['removeChild'](this['activePresetPopup']);}catch(_0x52b67d){}this['activePresetPopup']=null,this['handleDocumentClick']&&(document[_0x31782f(0x185)]('click',this['handleDocumentClick']),this['handleDocumentClick']=null);}},'applyPreset'(_0x19fb9d,_0x3f696c){const _0x519cd0=_0x5c3cdc,_0x316b05={'rppZi':function(_0x3ce5bc,_0x37c56f){return _0x3ce5bc!==_0x37c56f;},'QJQQx':function(_0x3d34d6,_0x5c8437){return _0x3d34d6+_0x5c8437;},'oXmDt':'success','EcXYm':'已应用预设'};if(!_0x19fb9d||!FEATURES['enabled']||!FEATURES['preset'])return![];const _0x3176d7=this[_0x519cd0(0x22f)](_0x19fb9d);if(!_0x3176d7?.['text_element'])return logger['error'](_0x519cd0(0x130),_0x19fb9d),![];const _0xd39d07=_0x3176d7['text_element'],_0x4298e0=_0xd39d07['value']||'',_0x284be2=_0xd39d07[_0x519cd0(0x147)],_0x5643e9=_0x284be2!==undefined&&_0x316b05['rppZi'](_0x284be2,null);if(_0x4298e0['includes'](_0x3f696c))return this['showStatusTip'](_0x3176d7[_0x519cd0(0x1a6)][_0x519cd0(0x233)],'info',_0x519cd0(0x285)),![];const _0x58301f=_0x3f696c['trim']()[_0x519cd0(0x25e)](/^,+|,+$/g,'');let _0x1d460d;if(!_0x4298e0)_0x1d460d=_0x58301f;else{if(_0x5643e9){const _0x4c20ce=_0x4298e0[_0x519cd0(0x1e6)](0x0,_0x284be2)['trim'](),_0x3c889e=_0x4298e0['substring'](_0x284be2)['trim']();let _0x5f3986=_0x4c20ce;if(_0x5f3986&&!_0x5f3986['endsWith'](','))_0x5f3986+=',\x20';else _0x5f3986&&_0x5f3986['endsWith'](',')&&(_0x5f3986+='\x20');let _0x425c8d=_0x3c889e;if(_0x425c8d&&!_0x425c8d[_0x519cd0(0x2cc)](','))_0x425c8d=',\x20'+_0x425c8d;else _0x425c8d&&_0x425c8d[_0x519cd0(0x2cc)](',')&&(_0x425c8d=_0x316b05[_0x519cd0(0x13e)]('\x20',_0x425c8d));_0x1d460d=_0x316b05['QJQQx'](_0x316b05['QJQQx'](_0x5f3986,_0x58301f),_0x425c8d?_0x425c8d:'');const _0xb7dc28=_0x5f3986['length']+_0x58301f[_0x519cd0(0x15d)];setTimeout(()=>{_0xd39d07['selectionStart']=_0xb7dc28,_0xd39d07['selectionEnd']=_0xb7dc28;},0x0);}else{const _0x5be031=_0x4298e0['trim']()['replace'](/,+$/g,'');_0x1d460d=_0x5be031?_0x5be031+',\x20'+_0x58301f:_0x58301f;}}return _0x1d460d=_0x1d460d[_0x519cd0(0x27a)]()['replace'](/\s*,\s*/g,',\x20')[_0x519cd0(0x25e)](/,+/g,',')['replace'](/^,+|,+$/g,'')['trim'](),this['updateTextValue'](_0xd39d07,_0x1d460d),this['recordHistory'](_0x19fb9d,_0x1d460d),this[_0x519cd0(0x1ad)](_0x3176d7['buttons']['preset'],_0x316b05[_0x519cd0(0x284)],_0x316b05[_0x519cd0(0x2cd)]),this['updatePresetItemState'](_0x19fb9d,_0x3f696c,!![]),!![];},'updatePresetItemState'(_0x4ad66c,_0x369a75,_0x4a0107){const _0x4e51a5={'IToBY':function(_0x535291,_0x410e54){return _0x535291===_0x410e54;},'RSVjj':'.prompt_history_item'};try{const _0x10c6b6=document['querySelectorAll'](_0x4e51a5['RSVjj']);_0x10c6b6['forEach'](_0x3e7c93=>{const _0x4e4d63=_0x25e2,_0x475f6b=_0x3e7c93['querySelector']('.prompt_preset_content');if(_0x475f6b&&(_0x475f6b['textContent']===_0x369a75||_0x4e51a5['IToBY'](_0x475f6b[_0x4e4d63(0x300)],_0x369a75))){_0x4a0107?(_0x3e7c93['classList'][_0x4e4d63(0x209)]('preset-applied'),_0x3e7c93[_0x4e4d63(0x30a)]['backgroundColor']='rgba(100,\x20255,\x20100,\x200.1)'):(_0x3e7c93['classList']['remove']('preset-applied'),_0x3e7c93['style']['backgroundColor']='');const _0x4190a8=_0x3e7c93['querySelector']('.preset-clean-button-container');_0x4190a8&&(_0x4190a8['style']['display']=_0x4a0107?'inline-flex':_0x4e4d63(0x19a));}});}catch(_0x204889){logger['error']('更新预设项状态时出错:',_0x204889);}},'executeAction'(_0x1584fd,_0x5f2e7c,..._0x2cd110){const _0x1e81e1=_0x5c3cdc,_0x58fca6={'SxgfE':function(_0x2455ae,_0x417ff0){return _0x2455ae(_0x417ff0);},'vWHRs':_0x1e81e1(0x1ce),'GexYr':'preset'};if(!_0x1584fd||!_0x5f2e7c)return logger['error']('执行操作失败:\x20'+_0x1584fd+',\x20'+_0x5f2e7c),![];try{const _0x1308a4=_0x58fca6['SxgfE'](String,_0x1584fd);if(!this[_0x1e81e1(0x119)](_0x1308a4))return logger[_0x1e81e1(0x20e)]('找不到节点实例:\x20'+_0x1584fd),![];switch(_0x5f2e7c['toLowerCase']()){case _0x58fca6[_0x1e81e1(0x211)]:return this['showHistory'](_0x1308a4);case'undo':return this['undoOperation'](_0x1308a4);case'redo':return this['redoOperation'](_0x1308a4);case'translate':return this[_0x1e81e1(0x29b)](_0x1308a4);case _0x1e81e1(0x19e):return this['expandText'](_0x1308a4);case _0x58fca6['GexYr']:return this['showPresets'](_0x1308a4);default:logger['error']('未知的操作类型:\x20'+_0x5f2e7c);return![];}}catch(_0x3a5874){return logger[_0x1e81e1(0x20e)]('执行操作\x20'+_0x5f2e7c+_0x1e81e1(0x1cf),_0x3a5874),![];}},async 'reloadConfig'(){const _0x400065=_0x5c3cdc,_0x5dfc82={'EhkIN':'配置已重新加载'};try{const _0x5e35be=await loadConfig();return this['presets']=null,await this['loadPresets'](),logger[_0x400065(0x28c)](_0x5dfc82['EhkIN']),!![];}catch(_0x5f3e64){return logger['error']('重新加载配置失败:',_0x5f3e64),![];}},'cleanPresetFromInput'(_0x3aabe0,_0x156f22){const _0x5e4095=_0x5c3cdc,_0x5855e5={'UtKdw':function(_0x3247b5,_0x4bc908){return _0x3247b5||_0x4bc908;},'fcEjC':_0x5e4095(0x1f8)};if(_0x5855e5['UtKdw'](!_0x3aabe0,!_0x156f22))return![];const _0x146539=this['getInstance'](_0x3aabe0);if(!_0x146539?.[_0x5e4095(0x1a7)])return logger['error']('未找到节点的文本元素:',_0x3aabe0),![];const _0x5a7807=_0x146539['text_element'],_0x489a72=_0x5a7807['value']||'';if(!_0x489a72[_0x5e4095(0x2ba)](_0x156f22))return this[_0x5e4095(0x1ad)](_0x146539[_0x5e4095(0x1a6)]['preset'],'info',_0x5855e5['fcEjC']),![];let _0x17c344=_0x489a72;return _0x17c344=_0x17c344[_0x5e4095(0x25e)](',\x20'+_0x156f22,''),_0x17c344=_0x17c344['replace'](_0x156f22+',\x20',''),_0x17c344=_0x17c344['replace'](_0x156f22,''),_0x17c344=_0x17c344['replace'](/,\s*,/g,',')['replace'](/^\s*,\s*/,'')[_0x5e4095(0x25e)](/\s*,\s*$/,'')['trim'](),this['updateTextValue'](_0x5a7807,_0x17c344),this['recordHistory'](_0x3aabe0,_0x17c344),this['showStatusTip'](_0x146539[_0x5e4095(0x1a6)][_0x5e4095(0x233)],'success','已清除预设'),this[_0x5e4095(0x331)](_0x3aabe0,_0x156f22,![]),!![];}};function addStylesheet(){const _0x16a584=_0x5c3cdc,_0x3e0177={'JRJlh':'clip-translate-styles','hBzYn':'stylesheet'};if(document[_0x16a584(0xfa)]('clip-translate-styles'))return;const _0x505acd=document['createElement']('link');_0x505acd['id']=_0x3e0177['JRJlh'],_0x505acd['rel']=_0x3e0177['hBzYn'],_0x505acd[_0x16a584(0x2f0)]='text/css';const _0xdc2740=import.meta['url'],_0x4b476d=_0xdc2740['replace'](_0x16a584(0x19f),'style.css');return _0x505acd['href']=_0x4b476d,document['head']['appendChild'](_0x505acd),_0x505acd;}function getPosition(_0xc62822,_0x7701a7,_0x11e337,_0x4bb05c,_0x31266b,_0x135e83){const _0x592aa2=_0x5c3cdc,_0xef9c78={'aOUCf':'none','xsihP':function(_0x3b0c83,_0x500fc0){return _0x3b0c83/_0x500fc0;},'llLsZ':'0\x200'};if(!_0xc62822||!_0x31266b?.[_0x592aa2(0x13d)])return logger['warn']('无法计算位置:\x20上下文或输入元素缺失'),null;try{if(_0x135e83&&_0x135e83['flags']&&_0x135e83['flags']['collapsed'])return{'display':_0xef9c78[_0x592aa2(0x30e)]};const _0x3d4cb1=_0xc62822[_0x592aa2(0x262)][_0x592aa2(0x1ca)](),_0x5e8195=new DOMMatrix()['scaleSelf'](_0xef9c78['xsihP'](_0x3d4cb1['width'],_0xc62822['canvas'][_0x592aa2(0x2e4)]),_0x3d4cb1['height']/_0xc62822['canvas']['height'])[_0x592aa2(0xd4)](_0xc62822['getTransform']()),_0x19d2df=new DOMMatrix()['scaleSelf'](_0x5e8195['a'],_0x5e8195['d']),_0x335ae8=_0x31266b[_0x592aa2(0x13d)][_0x592aa2(0x1ca)]();if(!_0x335ae8['width']||!_0x335ae8['height'])return logger['warn']('文本输入框尺寸无效',_0x335ae8),{'display':_0x592aa2(0x19a)};return{'transformOrigin':_0xef9c78[_0x592aa2(0x2ec)],'transform':_0x19d2df,'left':_0x335ae8['right']-0x78*_0x19d2df['a']-0x10+'px','top':_0x335ae8['bottom']+0x4+'px','zIndex':+(_0x31266b[_0x592aa2(0x13d)]['style']['zIndex']||0x14)+0x1,'display':'flex'};}catch(_0x439172){return logger[_0x592aa2(0x20e)]('计算位置时出错:',_0x439172),{'display':_0xef9c78[_0x592aa2(0x30e)]};}}function createIconButton(_0x8180a7,_0xbd31a5,_0x330b87,_0x412a87){const _0x1a33af=_0x5c3cdc,_0x155df7={'LQphF':function(_0x535c85,_0x2e86c4){return _0x535c85(_0x2e86c4);},'FKNNo':'prompt_widget.js','CXRbs':_0x1a33af(0x31c),'LmfZg':'data-widget-key','PZSwC':function(_0x3fafd1,_0xdc11de){return _0x3fafd1+_0xdc11de;},'RJJgV':'translate-button-'},_0x3dc476=import.meta[_0x1a33af(0x1b7)][_0x1a33af(0x25e)](_0x155df7['FKNNo'],'assets/'),_0x8866a9=new URL(_0x8180a7,_0x3dc476)['href'];let _0x52a1e8,_0x7cad8b;_0x412a87&&_0x412a87['includes']('_')?[_0x52a1e8,_0x7cad8b]=_0x412a87['split']('_',0x2):(_0x52a1e8=_0x412a87,_0x7cad8b='default');const _0x51e70e=_0x412a87['replace'](/\s+/g,'-'),_0x5cc7bf=$el(_0x155df7['CXRbs'],{'onclick':_0x151162=>{const _0x367c90=_0x1a33af;_0x151162['preventDefault'](),_0x151162['stopPropagation'](),_0x5cc7bf['classList'][_0x367c90(0x209)](_0x367c90(0x195)),setTimeout(()=>_0x5cc7bf['classList']['remove'](_0x367c90(0x195)),0xc8),_0x155df7[_0x367c90(0x2a8)](_0x330b87,_0x412a87);},'style':{'backgroundImage':_0x1a33af(0x1e8)+_0x8866a9+'\x27)'},'title':_0xbd31a5,'dataset':{'nodeId':_0x52a1e8['replace'](/\s+/g,'-'),'inputId':_0x7cad8b[_0x1a33af(0x25e)](/\s+/g,'-'),'widgetKey':_0x51e70e}});return _0x5cc7bf['setAttribute'](_0x1a33af(0x181),_0x52a1e8[_0x1a33af(0x25e)](/\s+/g,'-')),_0x5cc7bf['setAttribute'](_0x1a33af(0x156),_0x7cad8b[_0x1a33af(0x25e)](/\s+/g,'-')),_0x5cc7bf[_0x1a33af(0x2c2)](_0x155df7['LmfZg'],_0x51e70e),_0x5cc7bf[_0x1a33af(0x251)]['add'](_0x155df7[_0x1a33af(0x200)](_0x155df7['RJJgV'],_0x51e70e)),TranslateManager['addHoverEffect'](_0x5cc7bf),_0x5cc7bf;}function createDivider(){const _0x238714=_0x5c3cdc,_0x276851={'BZKmF':function(_0x2131b5,_0x5070df){return _0x2131b5(_0x5070df);},'NRjRx':_0x238714(0x26e)};return _0x276851[_0x238714(0x257)]($el,_0x276851[_0x238714(0x122)]);}function TranslateWidget(_0x3d7f75,_0x3cc9cc,_0x2b3e16,_0x26a261){const _0x5a1b18=_0x5c3cdc,_0x29a8d3={'qWEms':function(_0x1877fc,_0xd53266){return _0x1877fc(_0xd53266);},'hliYy':'default','fgCnu':'icon-history.svg','ZHgtV':_0x5a1b18(0xf0),'WgkuX':'icon-undo.svg','NbhJA':'icon-redo.svg','qgYyg':_0x5a1b18(0x22d),'WjeMi':_0x5a1b18(0x15c),'KMEVA':function(_0x48b80d,_0x11aa67,_0x31b109,_0x171652,_0x11eaab){return _0x48b80d(_0x11aa67,_0x31b109,_0x171652,_0x11eaab);},'kQHuX':'div.prompt_widget_box','htGvv':'div.prompt_translate_info','gJATr':_0x5a1b18(0x156)};if(!FEATURES['enabled'])return null;const _0x2953d5=_0x3d7f75['id'],_0x5a888b=_0x3cc9cc||_0x29a8d3['hliYy'],_0x1eeb5c=_0x2953d5+'_'+_0x5a888b;logger['log'](_0x5a1b18(0x1c2)+_0x1eeb5c);TranslateManager['hasInstance'](_0x1eeb5c)&&(logger['log']('输入控件已有翻译小部件实例，先清理'),TranslateManager['cleanup'](_0x1eeb5c));const _0x7bcbc2={'type':'translate_widget','name':_0x5a888b,'nodeId':_0x2953d5,'inputId':_0x5a888b,'widgetKey':_0x1eeb5c,'buttons':{},'text_element':_0x26a261?.['inputEl'],'node':_0x3d7f75,'isTranslating':![]};if(_0x7bcbc2['text_element']){let _0x1be92e=_0x7bcbc2['text_element']['value']||'';const _0x6144e1=_0x14be7f=>{if(!FEATURES['history'])return![];if(!_0x14be7f['trim']())return![];const _0x49f705=TranslateManager['history']['get'](_0x1eeb5c);if(_0x49f705&&(_0x49f705['current']===_0x14be7f||_0x49f705['past']['includes'](_0x14be7f)))return![];return!![];},_0x3b62a2=_0x2ada68=>{const _0x201dab=_0x5a1b18;_0x29a8d3[_0x201dab(0x332)](_0x6144e1,_0x2ada68)&&(TranslateManager[_0x201dab(0xf6)](_0x1eeb5c,_0x2ada68),_0x1be92e=_0x2ada68,TranslateManager['updateButtonStates'](_0x1eeb5c));},_0x3f0628=()=>{if(_0x7bcbc2['text_element']){const _0x4569ac=_0x7bcbc2['text_element']['value'];_0x3b62a2(_0x4569ac);}};_0x7bcbc2['text_element']['addEventListener'](_0x5a1b18(0x170),_0x3f0628),_0x7bcbc2['recordHistory']=_0x3b62a2,_0x7bcbc2[_0x5a1b18(0x318)]=_0x3f0628;}const _0x103ce6={'history':_0x11162f=>TranslateManager[_0x5a1b18(0x17f)](_0x11162f,'history'),'undo':_0x2b093b=>TranslateManager['executeAction'](_0x2b093b,_0x5a1b18(0x188)),'redo':_0x467f99=>TranslateManager['executeAction'](_0x467f99,'redo'),'expand':_0x5a4a5=>TranslateManager['executeAction'](_0x5a4a5,_0x5a1b18(0x19e)),'translate':_0x32e07f=>TranslateManager['executeAction'](_0x32e07f,_0x5a1b18(0x239)),'preset':_0x543297=>TranslateManager['executeAction'](_0x543297,'preset')},_0x1cb848={'history':[_0x29a8d3['fgCnu'],_0x29a8d3[_0x5a1b18(0x325)]],'undo':[_0x29a8d3[_0x5a1b18(0x10b)],'撤销'],'redo':[_0x29a8d3['NbhJA'],'重做'],'preset':[_0x5a1b18(0x134),'提示词预设'],'expand':['icon-expand.svg',_0x29a8d3['qgYyg']],'translate':[_0x5a1b18(0x2e5),'翻译文本']},_0x125192=[];FEATURES['history']&&(['history','undo',_0x29a8d3['WjeMi']][_0x5a1b18(0x1b1)](_0x5bcd55=>{const _0x38d185=_0x5a1b18;try{const [_0x425301,_0x27fbd6]=_0x1cb848[_0x5bcd55];_0x7bcbc2[_0x38d185(0x1a6)][_0x5bcd55]=createIconButton(_0x425301,_0x27fbd6,_0x103ce6[_0x5bcd55],_0x1eeb5c),_0x125192['push'](_0x7bcbc2[_0x38d185(0x1a6)][_0x5bcd55]);}catch(_0x3cc1e4){logger['error']('创建按钮\x20'+_0x5bcd55+'\x20失败:',_0x3cc1e4);}}),_0x125192[_0x5a1b18(0x1e9)](createDivider()));if(FEATURES['preset'])try{const [_0x31b12e,_0x1d05fc]=_0x1cb848[_0x5a1b18(0x233)];_0x7bcbc2[_0x5a1b18(0x1a6)]['preset']=_0x29a8d3['KMEVA'](createIconButton,_0x31b12e,_0x1d05fc,_0x103ce6['preset'],_0x1eeb5c),_0x125192['push'](_0x7bcbc2['buttons'][_0x5a1b18(0x233)]);}catch(_0x48118f){logger['error'](_0x5a1b18(0x127),_0x48118f);}if(FEATURES['expand'])try{const [_0x4fbb25,_0x59006e]=_0x1cb848['expand'];_0x7bcbc2['buttons']['expand']=createIconButton(_0x4fbb25,_0x59006e,_0x103ce6['expand'],_0x1eeb5c),_0x125192['push'](_0x7bcbc2['buttons']['expand']);}catch(_0x4c57ca){logger[_0x5a1b18(0x20e)]('创建扩写按钮失败:',_0x4c57ca);}if(FEATURES['translate'])try{const [_0x2fef09,_0x431aea]=_0x1cb848['translate'];_0x7bcbc2['buttons'][_0x5a1b18(0x239)]=createIconButton(_0x2fef09,_0x431aea,_0x103ce6['translate'],_0x1eeb5c),_0x125192['push'](_0x7bcbc2[_0x5a1b18(0x1a6)]['translate']);}catch(_0xd29194){logger['error']('创建翻译按钮失败:',_0xd29194);}if(_0x125192['length']===0x0)return null;return _0x7bcbc2[_0x5a1b18(0x248)]=$el(_0x29a8d3['kQHuX'],[..._0x125192,$el(_0x29a8d3['htGvv'],[$el(_0x5a1b18(0x21f),{'textContent':'','style':{'fontSize':'0.8em'}})])]),_0x7bcbc2['element']['setAttribute']('data-node-id',_0x2953d5),_0x7bcbc2[_0x5a1b18(0x248)]['setAttribute'](_0x29a8d3['gJATr'],_0x5a888b),_0x7bcbc2[_0x5a1b18(0x248)]['setAttribute'](_0x5a1b18(0x1bc),_0x1eeb5c),_0x7bcbc2['element'][_0x5a1b18(0x2ae)](_0x5a1b18(0x1f6),_0x3ed80e=>{_0x3ed80e['stopPropagation']();}),_0x7bcbc2['updatePosition']=function(){},_0x7bcbc2['text_element']&&(TranslateManager['initOrClearHistory'](_0x1eeb5c),TranslateManager['recordHistory'](_0x1eeb5c,_0x7bcbc2['text_element']['value']||'')),TranslateManager[_0x5a1b18(0x1ef)](_0x1eeb5c,_0x7bcbc2),TranslateManager['updateButtonStates'](_0x1eeb5c),logger['log'](_0x5a1b18(0x11a)+_0x2953d5+_0x5a1b18(0x1e4)+_0x5a888b+'\x20的翻译小部件实例'),_0x7bcbc2;}const PromptWidget={'name':EXTENSION_NAME,'nodes':{},'styleElement':null,'initialize'(){const _0x16a453=_0x5c3cdc,_0x388b2a={'iERIr':'PromptWidget.Cleanup.Interval','ywxUh':function(_0x3b3004,_0x48d968){return _0x3b3004>=_0x48d968;}};logger[_0x16a453(0x28c)](_0x16a453(0x241)),this[_0x16a453(0x321)]=addStylesheet(),TranslateManager['setupWebSocket']();let _0x48d25f=0x3c;try{const _0x53c0ca=app['ui'][_0x16a453(0x31a)]['getSettingValue'](_0x388b2a['iERIr']);typeof _0x53c0ca==='number'&&_0x388b2a[_0x16a453(0x31d)](_0x53c0ca,0xa)&&_0x53c0ca<=0x78&&(_0x48d25f=_0x53c0ca);}catch(_0x5f1942){logger['warn']('读取清理间隔设置失败，使用默认值60秒');}this[_0x16a453(0x314)](_0x48d25f*0x3e8);},'startPeriodicCleanup'(_0x145838=0xea60){const _0x451f0e=_0x5c3cdc;if(!FEATURES['enabled'])return;const _0x2d316e=Math['max'](0x2710,Math[_0x451f0e(0x324)](0x1d4c0,_0x145838));this['cleanupInterval']&&clearInterval(this['cleanupInterval']),this['cleanupInterval']=setInterval(()=>{const _0x52a76d=_0x451f0e;if(!FEATURES['enabled']){this[_0x52a76d(0x10f)]();return;}TranslateManager['cleanupEmptyInstances']('timer');},_0x145838),logger['log']('已启动定期清理，间隔\x20'+_0x145838/0x3e8+'\x20秒');},'stopPeriodicCleanup'(){this['cleanupInterval']&&(clearInterval(this['cleanupInterval']),this['cleanupInterval']=null,logger['log']('已停止定期空实例清理'));},'checkAndSetupNode'(_0x314cc8){const _0x5ca5c7=_0x5c3cdc,_0x4a95a4={'ZrJKT':function(_0x467913,_0x10a8d5){return _0x467913===_0x10a8d5;},'uwDNW':function(_0x57baa4,_0x28144e){return _0x57baa4===_0x28144e;},'KWGRT':'text','vjasx':_0x5ca5c7(0x2c9),'eiPbQ':_0x5ca5c7(0x2ac)};if(!_0x314cc8||!FEATURES['enabled'])return;if(!FEATURES['enabled']&&_0x314cc8['id']){this['hideNodeWidgets'](_0x314cc8),TranslateManager['cleanup'](_0x314cc8['id']);return;}const _0x490bd0=_0x314cc8['id'];if(_0x314cc8['flags']&&_0x314cc8['flags']['collapsed']){this[_0x5ca5c7(0x1d0)](_0x314cc8);return;}logger['log']('检查节点:\x20'+_0x490bd0+_0x5ca5c7(0x11f)+_0x314cc8['type']);const _0x91bbff=[];_0x314cc8['widgets']&&_0x314cc8['widgets']['forEach'](_0x121656=>{const _0x743812=_0x5ca5c7;(_0x4a95a4['ZrJKT'](_0x121656[_0x743812(0x1d7)],'text')||_0x4a95a4['uwDNW'](_0x121656['type'],_0x4a95a4['KWGRT'])||_0x4a95a4[_0x743812(0x1dc)](_0x121656['type'],_0x743812(0x2ac))&&_0x121656['options']&&_0x121656['options']['multiline']||_0x121656[_0x743812(0x1b3)]===!![]||_0x121656['inputEl']&&_0x121656['inputEl']['tagName']===_0x4a95a4['vjasx'])&&(_0x121656[_0x743812(0x13d)]&&typeof _0x121656[_0x743812(0x13d)]['value']===_0x4a95a4[_0x743812(0x258)]&&_0x91bbff['push'](_0x121656));}),_0x91bbff['length']>0x0&&(logger[_0x5ca5c7(0xd6)]('节点\x20'+_0x490bd0+_0x5ca5c7(0x16e)+_0x91bbff['length']+_0x5ca5c7(0x259)),_0x91bbff[_0x5ca5c7(0x1b1)](_0x5552d3=>{this['setupNodeWidget'](_0x314cc8,_0x5552d3);}));},'setupNodeWidget'(_0x1850e6,_0x145af4){const _0x30e178=_0x5c3cdc,_0x3776a1={'nIoHn':'none','kJvLB':_0x30e178(0x2c3),'irGIf':function(_0x1f3287,_0x405dae){return _0x1f3287||_0x405dae;},'wwTYb':function(_0x58ca5e,_0x500ca3){return _0x58ca5e(_0x500ca3);},'dUcKv':'flex','VbejM':_0x30e178(0x172),'JjFwM':'dom-widget','FZDNZ':'fixed','RaPxI':'999','cQOux':function(_0x4af37a){return _0x4af37a();},'FzPMs':'resize','BUlVN':'relative','gDygF':_0x30e178(0x2af),'khcCe':'widget_show','WuFrQ':_0x30e178(0x181)};if(_0x3776a1[_0x30e178(0x20a)](!_0x1850e6,!_0x145af4)||!_0x145af4[_0x30e178(0x13d)])return;const _0x2edb96=_0x1850e6['id'],_0x132913=_0x145af4['name']||_0x145af4['id']||Math[_0x30e178(0x1c9)]()[_0x30e178(0x11c)](0x24)['substring'](0x2,0xa),_0x1747d4=_0x2edb96+'_'+_0x132913;logger['log']('为节点\x20'+_0x2edb96+'\x20的输入控件\x20'+_0x132913+'\x20设置翻译小部件');if(_0x145af4['inputEl']['readOnly']||_0x145af4[_0x30e178(0x13d)]['disabled']){logger['log']('跳过只读或禁用的输入控件');return;}const _0x1d1200=TranslateManager[_0x30e178(0x22f)](_0x1747d4);if(_0x1d1200&&_0x1d1200['text_element']===_0x145af4[_0x30e178(0x13d)]){_0x1d1200[_0x30e178(0x2f4)]&&(_0x1d1200[_0x30e178(0x2f4)]=![],_0x1d1200['hideTimeout']&&(_0x3776a1[_0x30e178(0x2f2)](clearTimeout,_0x1d1200['hideTimeout']),_0x1d1200['hideTimeout']=null));if(_0x1d1200['element']){if(window['getComputedStyle'](_0x1d1200['element'])['display']!=='none'&&_0x1d1200['element']['classList'][_0x30e178(0x16a)](_0x30e178(0x168)))return;_0x1d1200[_0x30e178(0x248)]['classList']['remove'](_0x30e178(0x11b)),_0x1d1200['element'][_0x30e178(0x30a)]['opacity']='0',_0x1d1200['element']['style']['display']=_0x3776a1['dUcKv'],void _0x1d1200['element']['offsetWidth'],_0x1d1200['element']['classList']['add'](_0x30e178(0x168));}return;}try{const _0x46d7f1=TranslateWidget(_0x1850e6,_0x132913,null,_0x145af4);_0x46d7f1['nodeId']=_0x2edb96,_0x46d7f1['inputId']=_0x132913,_0x46d7f1['widgetKey']=_0x1747d4;const _0x1f3f9c=app['ui'][_0x30e178(0x31a)]['getSettingValue'](_0x3776a1['VbejM']),_0x254a0c=_0x145af4[_0x30e178(0x13d)]['parentElement'];if(_0x1f3f9c||!_0x254a0c||!_0x254a0c['classList']['contains'](_0x3776a1[_0x30e178(0x1de)])){if(DEBUG)console['log']('[PromptWidget]🔧兼容模式');const _0x52dbd6=document[_0x30e178(0x312)]('div');_0x52dbd6['className']='prompt-widget-container',_0x52dbd6['style']['position']=_0x3776a1['FZDNZ'],_0x52dbd6[_0x30e178(0x30a)][_0x30e178(0x1c5)]=_0x3776a1['RaPxI'],_0x52dbd6[_0x30e178(0x30a)]['display']='flex',_0x52dbd6['style'][_0x30e178(0x1c6)]=_0x30e178(0x223),_0x52dbd6['style'][_0x30e178(0x2f9)]=_0x3776a1['nIoHn'];if(_0x46d7f1[_0x30e178(0x248)]){_0x52dbd6['appendChild'](_0x46d7f1['element']),document['body']['appendChild'](_0x52dbd6),_0x46d7f1['element'][_0x30e178(0x30a)]['pointerEvents']='auto',_0x46d7f1[_0x30e178(0x248)]['style']['zIndex']=_0x3776a1['RaPxI'];const _0x363575=()=>{const _0x3ac69d=_0x30e178;if(!_0x46d7f1[_0x3ac69d(0x248)]||!_0x145af4['inputEl']||!_0x52dbd6)return;try{const _0x38fd0c=_0x145af4[_0x3ac69d(0x13d)]['getBoundingClientRect']();Object['assign'](_0x52dbd6['style'],{'left':_0x38fd0c['left']-0xc+'px','top':_0x38fd0c['bottom']-0x22+'px','width':_0x38fd0c[_0x3ac69d(0x2e4)]+'px','height':'24px','pointerEvents':_0x3776a1[_0x3ac69d(0x132)],'zIndex':'999'}),Object['assign'](_0x46d7f1['element']['style'],{'transformOrigin':'right\x20center','margin':'0','pointerEvents':_0x3776a1[_0x3ac69d(0x163)],'zIndex':'9999999'});}catch(_0x31a2fe){console['error'](_0x3ac69d(0x145),_0x31a2fe);}};_0x3776a1['cQOux'](_0x363575),window[_0x30e178(0x2ae)](_0x3776a1['FzPMs'],_0x363575);const _0xb2b401=new MutationObserver(()=>{requestAnimationFrame(_0x363575);});_0xb2b401['observe'](app['canvas']['canvas']['parentElement'],{'attributes':!![],'attributeFilter':['style','transform']});const _0x2c3021=app['canvas']['onDrawBackground'];app['canvas']['onDrawBackground']=function(){const _0x35105e=_0x2c3021?.['apply'](this,arguments);return requestAnimationFrame(_0x363575),_0x35105e;};const _0x481848=_0x1850e6[_0x30e178(0x203)];_0x1850e6[_0x30e178(0x203)]=function(){const _0x369aa3=_0x481848?.['apply'](this,arguments);return requestAnimationFrame(_0x363575),_0x369aa3;},_0x46d7f1[_0x30e178(0xea)]=_0x363575,_0x46d7f1['cleanup']=()=>{const _0x434c74=_0x30e178;window['removeEventListener']('resize',_0x363575),_0xb2b401['disconnect'](),_0x2c3021&&(app['canvas'][_0x434c74(0x177)]=_0x2c3021),_0x481848&&(_0x1850e6['onNodeMoved']=_0x481848),_0x52dbd6&&document['body']['contains'](_0x52dbd6)&&document['body'][_0x434c74(0x277)](_0x52dbd6);};}}else{if(DEBUG)console['log'](_0x30e178(0x1c0));if(_0x46d7f1[_0x30e178(0x248)]&&_0x145af4[_0x30e178(0x13d)][_0x30e178(0x2c6)]){let _0x108dc5=_0x145af4[_0x30e178(0x13d)]['parentElement'];window['getComputedStyle'](_0x108dc5)['position']==='static'&&(_0x108dc5['style']['position']=_0x3776a1['BUlVN']),_0x108dc5['classList'][_0x30e178(0x209)](_0x3776a1[_0x30e178(0x15a)]),Object['assign'](_0x46d7f1[_0x30e178(0x248)]['style'],{'right':'12px','bottom':'8px','height':'24px','width':_0x3776a1[_0x30e178(0x163)],'opacity':'0'}),_0x108dc5[_0x30e178(0x101)](_0x46d7f1['element']),void _0x46d7f1['element'][_0x30e178(0x2d2)],_0x46d7f1['element']['classList']['add'](_0x3776a1[_0x30e178(0x250)]);}}_0x46d7f1[_0x30e178(0x248)]&&(_0x46d7f1[_0x30e178(0x248)]['setAttribute'](_0x3776a1['WuFrQ'],_0x2edb96),_0x46d7f1['element']['setAttribute'](_0x30e178(0x156),_0x132913),_0x46d7f1[_0x30e178(0x248)]['setAttribute'](_0x30e178(0x1bc),_0x1747d4)),TranslateManager['instances']['set'](_0x1747d4,_0x46d7f1),logger[_0x30e178(0xd6)](_0x30e178(0x11e)+_0x2edb96+_0x30e178(0x231));}catch(_0x3e6fe3){logger['error']('为节点\x20'+_0x2edb96+'\x20创建翻译小部件失败:',_0x3e6fe3);}},'hideNodeWidgets'(_0x2cace7){const _0x1928b9=_0x5c3cdc,_0x52c8a6={'McyBq':function(_0xc67b5f,_0x19b599){return _0xc67b5f+_0x19b599;},'kbRez':function(_0x5809f2,_0x457612){return _0x5809f2===_0x457612;},'PccOS':'data-node-id','SdrZL':'none','sEpDo':'widget_hide'};if(!_0x2cace7)return;try{const _0x30e485=String(_0x2cace7['id']),_0x30037f=[];TranslateManager['instances']['forEach']((_0x285e3c,_0x13c18f)=>{const _0x1c5198=_0x25e2;try{const _0x3cc88a=String(_0x13c18f);if(_0x285e3c[_0x1c5198(0x249)]===_0x30e485){_0x30037f[_0x1c5198(0x1e9)](_0x285e3c);return;}if(_0x3cc88a['startsWith'](_0x52c8a6[_0x1c5198(0x1ec)](_0x30e485,'_'))){_0x30037f['push'](_0x285e3c);return;}if(_0x3cc88a===_0x30e485){_0x30037f['push'](_0x285e3c);return;}_0x285e3c['element']&&_0x52c8a6['kbRez'](_0x285e3c[_0x1c5198(0x248)]['getAttribute'](_0x52c8a6['PccOS']),_0x30e485)&&_0x30037f['push'](_0x285e3c);}catch(_0x59055c){}}),logger['log']('找到节点\x20'+_0x30e485+'\x20的\x20'+_0x30037f['length']+_0x1928b9(0x1af)),_0x30037f['forEach'](_0x454412=>{const _0x3b3853=_0x1928b9;if(!_0x454412||!_0x454412['element'])return;try{const _0x553c6e=window['getComputedStyle'](_0x454412['element'])['display']!=='none';if(_0x553c6e){if(_0x454412['isHiding'])return;_0x454412[_0x3b3853(0x2f4)]=!![],_0x454412['element']['classList'][_0x3b3853(0x214)]('widget_show'),_0x454412[_0x3b3853(0x248)][_0x3b3853(0x30a)]['display']=_0x3b3853(0x22b),_0x454412['element']['style']['opacity']='1',void _0x454412['element']['offsetWidth'],_0x454412[_0x3b3853(0x248)]['classList']['add']('widget_hide'),_0x454412['hideTimeout']&&clearTimeout(_0x454412[_0x3b3853(0x20d)]),_0x454412[_0x3b3853(0x20d)]=setTimeout(()=>{const _0x628ac7=_0x3b3853;_0x454412[_0x628ac7(0x248)]&&(_0x454412[_0x628ac7(0x248)]['style']['display']=_0x52c8a6[_0x628ac7(0x140)],_0x454412['element'][_0x628ac7(0x251)]['remove'](_0x52c8a6['sEpDo']),_0x454412['isHiding']=![],_0x454412['hideTimeout']=null);},0x15e);}else _0x454412['element']['style']['display']='none',_0x454412['element'][_0x3b3853(0x251)]['remove'](_0x3b3853(0x168),'widget_hide'),_0x454412['isHiding']=![],_0x454412[_0x3b3853(0x20d)]&&(clearTimeout(_0x454412[_0x3b3853(0x20d)]),_0x454412['hideTimeout']=null);}catch(_0x4c0b85){logger['error'](_0x3b3853(0xda)+_0x30e485+'\x20的小部件时出错:',_0x4c0b85);}});}catch(_0x1bf6f1){logger['error']('隐藏节点小部件过程出错:',_0x1bf6f1);}},'cleanup'(){const _0x749328=_0x5c3cdc,_0x5c5285={'DpckT':'0|4|2|3|1'},_0x2f0a58=_0x5c5285['DpckT']['split']('|');let _0x5317ef=0x0;while(!![]){switch(_0x2f0a58[_0x5317ef++]){case'0':logger[_0x749328(0x28c)]('卸载PromptWidget扩展');continue;case'1':logger['info']('PromptWidget扩展已完全卸载');continue;case'2':TranslateManager[_0x749328(0x105)]();continue;case'3':this['styleElement']&&document[_0x749328(0x1bb)]['contains'](this['styleElement'])&&document['head']['removeChild'](this['styleElement']);continue;case'4':this['stopPeriodicCleanup']();continue;}break;}},'showHistory'(_0x23d4c1){const _0x253029=_0x5c3cdc;if(!_0x23d4c1)return![];let _0x5c2319,_0x1ef032;_0x23d4c1[_0x253029(0x2ba)]('_')?[_0x5c2319,_0x1ef032]=_0x23d4c1['split']('_',0x2):(_0x5c2319=_0x23d4c1,_0x1ef032='default');TranslateManager['initOrClearHistory'](_0x23d4c1);const _0x377751=TranslateManager['history']['get'](_0x23d4c1);if(!_0x377751)return logger['warn']('找不到节点\x20'+_0x23d4c1+'\x20的历史记录'),![];TranslateManager['closeHistoryPopup']();if(_0x377751['past']['length']===0x0&&!_0x377751[_0x253029(0x23e)])return logger[_0x253029(0xd6)]('节点\x20'+_0x23d4c1+'\x20没有历史记录'),![];return TranslateManager['createHistoryPopup'](_0x23d4c1,_0x377751),!![];},'createHistoryPopup'(_0x1c761f,_0x44e91a){const _0x125aa9=_0x5c3cdc,_0x1c3861={'SgEKg':_0x125aa9(0x22a),'HKGId':function(_0x3ed566,_0x13afb4){return _0x3ed566>_0x13afb4;},'PACoc':_0x125aa9(0x2d5),'bvMKD':'popup_down','Yqyzm':_0x125aa9(0x16d),'DZlWJ':_0x125aa9(0x23e),'TFkIq':_0x125aa9(0x1b8),'VmaFl':'prompt_history_separator'},_0x41fc97=document['querySelector']('.translate-button-'+_0x1c761f+_0x125aa9(0x32d));if(!_0x41fc97){logger[_0x125aa9(0x1e5)]('找不到节点\x20'+_0x1c761f+'\x20的历史按钮');return;}const _0x926b06=_0x41fc97['getBoundingClientRect']();let _0x541dfc=_0x926b06['left'],_0x3cca56=_0x926b06[_0x125aa9(0x112)]+0x5;const _0x1289ef=document['createElement']('div');_0x1289ef[_0x125aa9(0x2bf)]=_0x1c3861['SgEKg'],_0x1289ef['dataset']['widgetKey']=_0x1c761f;const _0x48c9b4=0x15e;if(_0x1c3861['HKGId'](_0x3cca56+_0x48c9b4,window[_0x125aa9(0x236)])){const _0x264bd3=_0x1c3861['PACoc']['split']('|');let _0x3d9bf9=0x0;while(!![]){switch(_0x264bd3[_0x3d9bf9++]){case'0':_0x1289ef['style']['transformOrigin']=_0x125aa9(0x112);continue;case'1':_0x1289ef['classList'][_0x125aa9(0x209)](_0x1c3861[_0x125aa9(0x2fe)]);continue;case'2':_0x1289ef['style']['bottom']=window[_0x125aa9(0x236)]-_0x3cca56+'px';continue;case'3':_0x1289ef[_0x125aa9(0x30a)][_0x125aa9(0x16d)]='auto';continue;case'4':_0x3cca56=_0x926b06['top']-0x5;continue;}break;}}else _0x1289ef['style']['transformOrigin']=_0x1c3861['Yqyzm'],_0x1289ef['style']['top']=Math['max'](0xa,_0x3cca56)+'px',_0x1289ef['style']['bottom']='auto',_0x1289ef[_0x125aa9(0x251)]['add']('popup_up');_0x1289ef['style']['left']=Math['max'](0xa,_0x541dfc)+'px';_0x44e91a['current']&&this['addHistoryItem'](_0x1289ef,_0x1c761f,_0x44e91a[_0x125aa9(0x23e)],_0x1c3861['DZlWJ']);if(_0x44e91a['past']['length']>0x0){if(_0x44e91a['current']){const _0x2066b4=document['createElement'](_0x1c3861['TFkIq']);_0x2066b4['className']=_0x1c3861['VmaFl'],_0x1289ef['appendChild'](_0x2066b4);}_0x44e91a['past']['slice']()['reverse']()['forEach'](_0x1bfc50=>{this['addHistoryItem'](_0x1289ef,_0x1c761f,_0x1bfc50,'past');});}this['addOutsideClickHandler'](_0x1289ef),document['body']['appendChild'](_0x1289ef),this['activeHistoryPopup']=_0x1289ef;},'addHistoryItem'(_0x5ae3b5,_0x5103ea,_0x1aaf79,_0x37f16b){const _0x1034a3=_0x5c3cdc,_0x37f47c={'bdbDT':_0x1034a3(0x21e),'bpHAq':function(_0x22be51,_0x4b22f2){return _0x22be51===_0x4b22f2;},'ZdtXq':'current'},_0x443303=document[_0x1034a3(0x312)](_0x1034a3(0x1b8));_0x443303['className']=_0x1034a3(0x110)+(_0x37f47c['bpHAq'](_0x37f16b,_0x37f47c['ZdtXq'])?_0x1034a3(0x263):'');const _0x3a42c7=document['createElement']('div');_0x3a42c7['className']='prompt_history_text',_0x3a42c7[_0x1034a3(0x1aa)]=_0x1aaf79,_0x443303[_0x1034a3(0x101)](_0x3a42c7),_0x443303['addEventListener'](_0x1034a3(0x1f6),()=>{const _0x2f936d=_0x1034a3;let _0x73c2a3,_0x40c098;_0x5103ea['includes']('_')?[_0x73c2a3,_0x40c098]=_0x5103ea[_0x2f936d(0xe4)]('_',0x2):(_0x73c2a3=_0x5103ea,_0x40c098=_0x37f47c['bdbDT']);const _0x5bc3c8=TranslateManager['getInstance'](_0x73c2a3);if(!_0x5bc3c8){logger['warn']('找不到节点\x20'+_0x73c2a3+_0x2f936d(0x108));return;}TranslateManager['updateTextInput'](_0x73c2a3,_0x40c098,_0x1aaf79),TranslateManager['closeHistoryPopup']();}),_0x5ae3b5['appendChild'](_0x443303);},'createHistoryPopupWithAllRecords'(_0x425ab4,_0x386fc8,_0x29f9b6){return TranslateManager['createHistoryPopupWithAllRecords'](_0x425ab4,_0x386fc8,_0x29f9b6);},'addOutsideClickHandler'(_0x25657a){const _0x16fcbf={'sFnFg':'click'};_0x25657a['addEventListener']('click',_0x2f0e99=>{_0x2f0e99['stopPropagation']();}),document['addEventListener'](_0x16fcbf['sFnFg'],_0x453fc1=>{const _0x57ddc2=_0x25e2;!_0x25657a['contains'](_0x453fc1['target'])&&TranslateManager[_0x57ddc2(0x159)]();},{'once':!![]});}};window[_0x5c3cdc(0x14f)]={'manager':TranslateManager,'extension':PromptWidget,'throttle':THROTTLE},app['registerExtension']({'name':'Comfy.PromptWidget',async 'beforeRegisterNodeDef'(_0x1b1b91,_0x4d4488,app){const _0x1f08cd=_0x5c3cdc,_0x39c8b2={'ZNooS':'clip-translate-status','fdUUH':function(_0x381f58,_0x347733){return _0x381f58===_0x347733;}};if(_0x39c8b2['fdUUH'](_0x4d4488[_0x1f08cd(0x1d7)],'PromptWidget')){const _0x2ab818=_0x1b1b91['prototype'][_0x1f08cd(0x2d1)];_0x1b1b91['prototype']['onNodeCreated']=function(){const _0x3db748=_0x1f08cd,_0x4e9d6d=_0x2ab818?.['apply'](this,arguments),_0x559ed8=document['createElement']('div');return _0x559ed8[_0x3db748(0x2bf)]=_0x39c8b2['ZNooS'],this['statusEl']=_0x559ed8,this['wrapper'][_0x3db748(0x101)](_0x559ed8),_0x4e9d6d;};const _0x42c236=_0x1b1b91[_0x1f08cd(0x164)]['onExecuted'];_0x1b1b91[_0x1f08cd(0x164)]['onExecuted']=function(_0x2c0786){const _0x310cc9=_0x42c236?.['apply'](this,arguments);return _0x310cc9;};}},async 'nodeCreated'(_0x56c52e){const _0x11945e=_0x5c3cdc,_0x23412a={'qKLIf':'loading','eMjcR':function(_0x41064a,_0x399afd){return _0x41064a===_0x399afd;},'uODAv':'已恢复','BQUZE':_0x11945e(0x20e)};if(_0x56c52e[_0x11945e(0x2f0)]!=='PromptWidget')return;api['addEventListener']('prompt_translate_update',({detail:_0x2ac459})=>{const _0x207aab=_0x11945e;if(_0x2ac459['node_id']!==_0x56c52e['id'])return;const _0x3f3a77=TranslateManager['getInstance'](_0x56c52e['id']);if(!_0x3f3a77||!_0x3f3a77['text_element']){logger[_0x207aab(0x1e5)]('无法找到节点\x20'+_0x56c52e['id']+'\x20的实例或文本元素');return;}if(_0x2ac459['status']==='translating'){const _0x197fda=_0x2ac459['progress'];_0x197fda&&(TranslateManager['showStatusTip'](_0x3f3a77['text_element'],_0x23412a[_0x207aab(0x117)],'翻译中...\x20'+_0x197fda['current']+'/'+_0x197fda['total']),THROTTLE&&(THROTTLE[_0x207aab(0x294)][_0x56c52e['id']]=Date['now']()));}else{if(_0x23412a[_0x207aab(0x19c)](_0x2ac459['status'],'success')){const _0x20252d=_0x2ac459['operation_type']||_0x207aab(0x239),_0x46324f=_0x2ac459['from_cache']||![];if(_0x20252d==='restore')TranslateManager[_0x207aab(0x1ad)](_0x3f3a77[_0x207aab(0x1a7)],'restore',_0x2ac459['operation_desc']||_0x23412a['uODAv']);else{const _0x25f650=_0x46324f?'(缓存)':'',_0x575fe0=_0x2ac459[_0x207aab(0x1ab)]?_0x2ac459[_0x207aab(0x1ab)]+'完成'+_0x25f650:_0x46324f?_0x207aab(0x32a):'翻译完成';TranslateManager['showStatusTip'](_0x3f3a77['text_element'],_0x207aab(0x2db),_0x575fe0);}}else _0x2ac459['status']===_0x207aab(0x20e)&&TranslateManager[_0x207aab(0x1ad)](_0x3f3a77['text_element'],_0x23412a['BQUZE'],_0x207aab(0x2d3)+_0x2ac459[_0x207aab(0x31f)]);}});}});!app['extensions']['find'](_0x5a32bb=>_0x5a32bb['name']===EXTENSION_NAME)&&app['registerExtension']({'name':EXTENSION_NAME,'nodes':PromptWidget[_0x5c3cdc(0x123)],async 'setup'(){const _0xfd37c4=_0x5c3cdc,_0x120e88={'HWrvK':'.prompt_widget_box','rwfPV':function(_0x3e86a3,_0x5d145c){return _0x3e86a3>_0x5d145c;}};PromptWidget['initialize']();const _0x1f274f=app['canvas']['onNodeSelectionChange'];app[_0xfd37c4(0x262)]['onNodeSelectionChange']=function(_0xaf412f,_0x2c97be){const _0x551527=_0xfd37c4;if(!FEATURES[_0x551527(0x192)]){_0x1f274f&&_0x1f274f['call'](app['canvas'],_0xaf412f,_0x2c97be);return;}_0x1f274f&&_0x1f274f['call'](app[_0x551527(0x262)],_0xaf412f,_0x2c97be),_0x2c97be?PromptWidget['checkAndSetupNode'](_0xaf412f):(PromptWidget['hideNodeWidgets'](_0xaf412f),_0xaf412f&&_0xaf412f['id']&&setTimeout(()=>{const _0x3c9242=_0x551527;FEATURES[_0x3c9242(0x192)]&&TranslateManager['isEmptyInstance'](_0xaf412f['id'])&&(!app['canvas']['selected_nodes']||!app[_0x3c9242(0x262)]['selected_nodes']['includes'](_0xaf412f))&&(logger['log']('节点\x20'+_0xaf412f['id']+'\x20取消选中且实例为空，执行清理'),TranslateManager[_0x3c9242(0x105)](_0xaf412f['id']),logger['info']('[PromptWidget]节点\x20'+_0xaf412f['id']+'\x20已清理，当前剩余\x20'+TranslateManager['instances'][_0x3c9242(0x178)]+'\x20个实例'));},0x1f4));};const _0x23851e=_0x3cbc57=>{const _0xc2d30b=_0xfd37c4;if(!FEATURES['enabled'])return;_0x3cbc57[_0xc2d30b(0x1b4)]&&_0x3cbc57['target']['tagName']&&!_0x3cbc57['target'][_0xc2d30b(0x2bb)](_0x120e88['HWrvK'])&&(app[_0xc2d30b(0xe6)]&&app[_0xc2d30b(0xe6)]['setDirtyCanvas'](!![],!![]));};document['addEventListener']('click',_0x23851e),this['_handleGlobalClick']=_0x23851e;const _0x4b05db=app['graphToPrompt'];app[_0xfd37c4(0x232)]=function(){const _0x44c782=_0xfd37c4,_0x32cd0d=_0x4b05db['apply'](this,arguments);if(_0x32cd0d&&_0x32cd0d['extra']&&_0x32cd0d['extra']['ds']){if(!_0x32cd0d['extra']['ds']['offset']||!Array[_0x44c782(0x2c7)](_0x32cd0d['extra']['ds']['offset']))_0x32cd0d['extra']['ds']['offset']=[0x0,0x0];else{_0x32cd0d['extra']['ds'][_0x44c782(0x2b3)]=_0x32cd0d['extra']['ds']['offset']['map'](_0x5b6ee0=>typeof _0x5b6ee0==='number'&&!isNaN(_0x5b6ee0)?_0x5b6ee0:0x0);while(_0x32cd0d['extra']['ds']['offset']['length']<0x2){_0x32cd0d[_0x44c782(0x301)]['ds']['offset']['push'](0x0);}_0x120e88['rwfPV'](_0x32cd0d['extra']['ds'][_0x44c782(0x2b3)]['length'],0x2)&&(_0x32cd0d['extra']['ds']['offset']=_0x32cd0d[_0x44c782(0x301)]['ds']['offset']['slice'](0x0,0x2));}}return _0x32cd0d;};},async 'beforeRegisterNodeDef'(_0x2dd41b,_0x5e8632){const _0x5df139=_0x5c3cdc,_0x253cfb={'gGIwU':'执行原始onRemoved方法时出错:','COggp':_0x5df139(0x281)},_0xb46c5d=_0x2dd41b['prototype']['onNodeCreated'],_0x3269fa=_0x2dd41b['prototype'][_0x5df139(0xd8)],_0x2a7f99=_0x2dd41b['prototype']['onConfigure'],_0x5add49=_0x2dd41b[_0x5df139(0x164)]['onDrawForeground'],_0x13d90b=this;_0x2dd41b['prototype']['onNodeCreated']=function(){const _0x69246e=_0x5df139,_0x35b348=this['id'],_0xfb068f=_0xb46c5d?.[_0x69246e(0x1d1)](this,arguments);return _0x13d90b['nodes'][_0x35b348]=this,_0xfb068f;},_0x2dd41b['prototype'][_0x5df139(0xd8)]=function(){const _0x1816e6=_0x5df139;let _0x392c1b=null;try{_0x392c1b=this?.['id']||this?.['properties']?.['id']||null,_0x392c1b&&logger['log']('节点删除:\x20'+_0x392c1b);}catch(_0x31e432){logger['error']('获取节点ID时出错:',_0x31e432);}let _0xa47aac;try{_0xa47aac=_0x3269fa?.['apply'](this,arguments);}catch(_0x2d93d9){logger['error'](_0x253cfb[_0x1816e6(0x23c)],_0x2d93d9);}try{TranslateManager[_0x1816e6(0x1e0)](_0x253cfb['COggp']);}catch(_0x379153){logger['error']('节点删除清理过程出错:',_0x379153);}return _0xa47aac;},_0x2dd41b[_0x5df139(0x164)]['onConfigure']=function(){const _0x439cd4=_0x5df139,_0x1e7976=this['id'],_0x4f8462=_0x2a7f99?.[_0x439cd4(0x1d1)](this,arguments);return _0x13d90b['nodes'][_0x1e7976]=this,_0x4f8462;},_0x2dd41b[_0x5df139(0x164)][_0x5df139(0x279)]=function(_0x895220){const _0x4ffabe=_0x5df139;try{_0x5add49?.['apply'](this,arguments);const _0x162b8=app['canvas']['selected_nodes']&&app['canvas']['selected_nodes'][this['id']];_0x162b8?PromptWidget['checkAndSetupNode'](this):PromptWidget['hideNodeWidgets'](this);}catch(_0x4c4ff1){logger['error']('节点\x20'+this['id']+_0x4ffabe(0x287),_0x4c4ff1);}};},async 'beforeExtensionUnload'(){const _0x4f6dc9=_0x5c3cdc,_0x51de46={'hhKan':'.prompt_widget_status'};try{app[_0x4f6dc9(0x262)]&&app[_0x4f6dc9(0x262)]['onNodeSelectionChange']&&(app['canvas']['onNodeSelectionChange']=app['canvas'][_0x4f6dc9(0x1d5)]||null);orphanWidgetChecker&&orphanWidgetChecker['stop']();PromptWidget['stopPeriodicCleanup']();const _0x54bb62=[_0x4f6dc9(0x316),_0x51de46[_0x4f6dc9(0x1ff)],_0x4f6dc9(0x313),_0x4f6dc9(0x2f6)],_0x1b4478=DOMUtils[_0x4f6dc9(0x30f)](_0x54bb62);logger['log'](_0x4f6dc9(0x14c)+_0x1b4478+_0x4f6dc9(0x2be)),TranslateManager['cleanup'](),PromptWidget['styleElement']&&document['head'][_0x4f6dc9(0x16a)](PromptWidget['styleElement'])&&document['head'][_0x4f6dc9(0x277)](PromptWidget['styleElement']),logger['info']('扩展卸载前清理完成');}catch(_0x20af5e){logger['error']('扩展卸载前清理时出错:',_0x20af5e);}},'settings':[{'id':'PromptWidget.Features.Enabled','name':'\x20小部件总开关','category':['✨提示词小部件',_0x5c3cdc(0x121),_0x5c3cdc(0x13a)],'type':_0x5c3cdc(0x2f7),'defaultValue':!![],'tooltip':_0x5c3cdc(0x290),'onChange':_0x1a19e0=>{const _0x4af311=_0x5c3cdc,_0x45ccfd={'TlvXm':_0x4af311(0x201),'eBptW':'PromptWidget.Features.Enabled','AdjRD':'无法启用小部件：所有功能都处于禁用状态'};FEATURES['enabled']=_0x1a19e0;if(!_0x1a19e0)PromptWidget[_0x4af311(0x10f)](),TranslateManager['cleanup'](),app['canvas']&&(app['canvas'][_0x4af311(0x1cc)]=app['canvas']['_onNodeSelectionChange'],app['canvas'][_0x4af311(0x1d5)]=function(){}),logger['log']('小部件功能已完全禁用，停止所有相关服务');else{const _0x4b21ca='3|1|2|4|0'[_0x4af311(0xe4)]('|');let _0x403e45=0x0;while(!![]){switch(_0x4b21ca[_0x403e45++]){case'0':logger[_0x4af311(0xd6)](_0x45ccfd['TlvXm']);continue;case'1':app[_0x4af311(0x262)]&&(app['canvas'][_0x4af311(0x1cc)]&&(app['canvas']['_onNodeSelectionChange']=app['canvas']['_originalNodeSelectionChange'],delete app['canvas']['_originalNodeSelectionChange']));continue;case'2':PromptWidget['startPeriodicCleanup']();continue;case'3':if(FEATURES['areAllFeaturesDisabled']()){app['ui'][_0x4af311(0x31a)]['setSettingValue'](_0x45ccfd['eBptW'],![]),logger['log'](_0x45ccfd[_0x4af311(0x175)]);return;}continue;case'4':app[_0x4af311(0xe6)]&&app['graph']['nodes']&&app['graph']['nodes']['forEach'](_0x214d20=>{PromptWidget['checkAndSetupNode'](_0x214d20);});continue;}break;}}}},{'id':'PromptWidget.Features.History','name':'启用历史功能','category':[_0x5c3cdc(0x171),'\x20功能开关','历史功能'],'type':'boolean','defaultValue':!![],'tooltip':_0x5c3cdc(0x144),'onChange':_0x16357b=>{const _0xb2e563=_0x5c3cdc,_0x5ec7d1={'okJmi':'block','rZlOd':'none','MKGYH':'history'};FEATURES[_0xb2e563(0x1ce)]=_0x16357b,TranslateManager['instances'][_0xb2e563(0x1b1)](_0x17d5f4=>{const _0x3134a2=_0xb2e563;if(_0x17d5f4['buttons']){[_0x5ec7d1[_0x3134a2(0x243)],'undo',_0x3134a2(0x15c)][_0x3134a2(0x1b1)](_0x2b04b0=>{const _0x5a3bf0=_0x3134a2,_0x33e013=_0x17d5f4['buttons'][_0x2b04b0];_0x33e013&&(_0x33e013['style']['display']=_0x16357b?_0x5ec7d1[_0x5a3bf0(0xf8)]:_0x5ec7d1['rZlOd']);});const _0x251966=_0x17d5f4['element']?.['querySelector']('.widget_divider');_0x251966&&(_0x251966['style']['display']=_0x16357b?'block':'none');}}),FEATURES[_0xb2e563(0x198)](),logger['log'](_0xb2e563(0x1bf)+(_0x16357b?'启用':'禁用'));}},{'id':'PromptWidget.Features.Preset','name':'启用预设功能','category':['✨提示词小部件','\x20功能开关','预设功能'],'type':'boolean','defaultValue':!![],'tooltip':'控制提示词预设功能','onChange':_0x1038c4=>{const _0x37580b=_0x5c3cdc,_0x5596ee={'RxUgI':_0x37580b(0x24b),'ZREto':'none'};FEATURES['preset']=_0x1038c4,TranslateManager['instances']['forEach'](_0x176f98=>{const _0xab0aa5=_0x37580b;_0x176f98['buttons']?.[_0xab0aa5(0x233)]&&(_0x176f98[_0xab0aa5(0x1a6)][_0xab0aa5(0x233)]['style']['display']=_0x1038c4?_0x5596ee[_0xab0aa5(0x1c3)]:_0x5596ee['ZREto']);}),FEATURES['updateEnabledState'](),logger[_0x37580b(0xd6)](_0x37580b(0x2ff)+(_0x1038c4?'启用':'禁用'));}},{'id':_0x5c3cdc(0x1b6),'name':_0x5c3cdc(0x32b),'category':['✨提示词小部件','\x20功能开关','扩写功能'],'type':_0x5c3cdc(0x2f7),'defaultValue':!![],'tooltip':_0x5c3cdc(0x158),'onChange':_0x3e0daa=>{const _0x4bcdbc=_0x5c3cdc;FEATURES[_0x4bcdbc(0x19e)]=_0x3e0daa,TranslateManager['instances']['forEach'](_0x14a4ea=>{const _0x1416ce=_0x4bcdbc;_0x14a4ea['buttons']?.['expand']&&(_0x14a4ea['buttons'][_0x1416ce(0x19e)]['style']['display']=_0x3e0daa?'block':'none');}),FEATURES[_0x4bcdbc(0x198)](),logger[_0x4bcdbc(0xd6)](_0x4bcdbc(0x1ee)+(_0x3e0daa?'启用':'禁用'));}},{'id':'PromptWidget.Features.Translate','name':_0x5c3cdc(0x2e6),'category':['✨提示词小部件',_0x5c3cdc(0x121),'翻译功能'],'type':'boolean','defaultValue':!![],'tooltip':'控制文本翻译功能','onChange':_0x2e9d2a=>{const _0x59a12c=_0x5c3cdc,_0x2eb616={'LkgAV':'block'};FEATURES[_0x59a12c(0x239)]=_0x2e9d2a,TranslateManager['instances'][_0x59a12c(0x1b1)](_0x2d69a0=>{const _0x4cb7c4=_0x59a12c;_0x2d69a0[_0x4cb7c4(0x1a6)]?.[_0x4cb7c4(0x239)]&&(_0x2d69a0['buttons']['translate']['style']['display']=_0x2e9d2a?_0x2eb616[_0x4cb7c4(0x305)]:'none');}),FEATURES[_0x59a12c(0x198)](),logger['log']('翻译功能已'+(_0x2e9d2a?'启用':'禁用'));}},{'id':'PromptWidget.PresetManagement','name':'提示词预设词库管理','category':[_0x5c3cdc(0x171),_0x5c3cdc(0x282)],'type':()=>{const _0x5b2cd3=_0x5c3cdc,_0x578940={'RBDcI':'promptwidget-settings-row'},_0x19cccb=document[_0x5b2cd3(0x312)]('tr');_0x19cccb['className']=_0x578940[_0x5b2cd3(0x291)];const _0x392ca=document['createElement']('td');_0x392ca[_0x5b2cd3(0x2bf)]='comfy-menu-label',_0x19cccb['appendChild'](_0x392ca);const _0x296563=document['createElement']('td'),_0x4eceab=document['createElement']('button');return _0x4eceab['className']='preset-manager-button',_0x4eceab['textContent']='打开管理界面',_0x4eceab['onclick']=()=>{const _0x110e07=_0x5b2cd3;try{if(DEBUG)console[_0x110e07(0xd6)](_0x110e07(0x225));showPresetManagerDialog();}catch(_0x53cb09){console['error'](_0x110e07(0x307),_0x53cb09),alert(_0x110e07(0x111)+_0x53cb09[_0x110e07(0x31f)]);}},_0x296563[_0x5b2cd3(0x101)](_0x4eceab),_0x19cccb[_0x5b2cd3(0x101)](_0x296563),_0x19cccb;}},{'id':'PromptWidget.APIConfig','name':'配置百度翻译和LLM\x20key','category':['✨提示词小部件',_0x5c3cdc(0x166)],'type':()=>{const _0x54ceb2=_0x5c3cdc,_0x18862b={'dieUl':function(_0x5a598b){return _0x5a598b();},'BjSHt':_0x54ceb2(0x17b)},_0x20e1ec=document['createElement']('tr');_0x20e1ec[_0x54ceb2(0x2bf)]=_0x18862b[_0x54ceb2(0x260)];const _0x2fb142=document['createElement']('td');_0x2fb142[_0x54ceb2(0x2bf)]='comfy-menu-label',_0x20e1ec['appendChild'](_0x2fb142);const _0x34839e=document[_0x54ceb2(0x312)]('td'),_0x300840=document['createElement']('button');return _0x300840[_0x54ceb2(0x2bf)]='preset-manager-button',_0x300840[_0x54ceb2(0x1aa)]=_0x54ceb2(0x1ba),_0x300840['onclick']=()=>{const _0x396534=_0x54ceb2;try{if(DEBUG)console[_0x396534(0xd6)]('点击了配置API按钮');_0x18862b['dieUl'](showAPIConfigDialog);}catch(_0x586a5f){console['error']('点击配置API按钮出错:',_0x586a5f),alert('打开API配置器出错:\x20'+_0x586a5f[_0x396534(0x31f)]);}},_0x34839e['appendChild'](_0x300840),_0x20e1ec['appendChild'](_0x34839e),_0x20e1ec;}},{'id':'PromptWidget.Debug.Frontend','name':'前端调试日志','category':['✨提示词小部件','调试选项','前端'],'type':'hidden','defaultValue':![],'tooltip':'无需开启，遇到bug排查用的','onChange':_0x12563d=>{const _0x4ac141={'CvtkG':function(_0x5c6179,_0x24876f){return _0x5c6179+_0x24876f;}};DEBUG=_0x12563d,logger['log'](_0x4ac141['CvtkG']('前端调试模式已',_0x12563d?'启用':'禁用'));}},{'id':'PromptWidget.Debug.Backend','name':_0x5c3cdc(0x157),'category':['✨提示词小部件',_0x5c3cdc(0x1f2),'后端'],'type':'boolean','defaultValue':![],'tooltip':'无需开启，遇到bug排查用的','onChange':async _0x1276dc=>{const _0xe2e30=_0x5c3cdc,_0x46b1c9={'nbRxN':function(_0x3c713f,_0x3d0a83,_0x470e35){return _0x3c713f(_0x3d0a83,_0x470e35);},'rCPey':'/prompt_widget/set_debug','ieOQL':'POST','lIDPB':'application/json','qrgIC':_0xe2e30(0xdb),'mUoyp':'设置后端调试模式失败:','StzVK':'PromptWidget.Debug.Backend'};try{const _0x2a9bb0=await _0x46b1c9['nbRxN'](fetch,_0x46b1c9[_0xe2e30(0x217)],{'method':_0x46b1c9['ieOQL'],'headers':{'Content-Type':_0x46b1c9['lIDPB']},'body':JSON['stringify']({'debug':_0x1276dc})});if(!_0x2a9bb0['ok'])throw new Error('HTTP\x20error!\x20status:\x20'+_0x2a9bb0['status']);const _0x5177f4=await _0x2a9bb0['json']();if(_0x5177f4['status']==='success')logger[_0xe2e30(0xd6)](_0x46b1c9['qrgIC']+(_0x1276dc?'启用':'禁用'));else throw new Error(_0x5177f4[_0xe2e30(0x31f)]||'更新失败');}catch(_0x4ee30f){console['error'](_0x46b1c9['mUoyp'],_0x4ee30f),app['ui']['settings']['setSettingValue'](_0x46b1c9['StzVK'],!_0x1276dc);}}},{'id':_0x5c3cdc(0x25d),'name':_0x5c3cdc(0x1be),'category':['✨提示词小部件','调试选项','性能'],'type':'number','defaultValue':0x3c,'min':0x1e,'max':0x78,'step':0x1,'tooltip':'设置自动清理小部件的时间间隔（秒），默认60秒。范围30-120秒','attrs':{'showButtons':!![],'maxFractionDigits':0x0},'onChange':_0x1fccd6=>{const _0x3a742e=Math['max'](0xa,Math['min'](0x78,_0x1fccd6));PromptWidget['cleanupInterval']&&clearInterval(PromptWidget['cleanupInterval']),PromptWidget['startPeriodicCleanup'](_0x3a742e*0x3e8),logger['log']('小部件清理间隔已更新为\x20'+_0x3a742e+'\x20秒');}},{'id':'PromptWidget.About','name':'\x20\x20','category':[_0x5c3cdc(0x171),'\x20\x20✨提示词小部件\x20PromptWidget'],'type':()=>{const _0x3f4da9=_0x5c3cdc,_0x35658c={'lkFOI':_0x3f4da9(0x17b),'gtQtu':'comfy-menu-content','yQbrd':'center','rnhNS':'20px','FjIEb':'wrap','LlBNb':_0x3f4da9(0x1b8),'kDpZs':'_blank','IureW':'Static\x20Badge','mQLvz':'https://img.shields.io/badge/Github-Yawiii-blue?style=flat&logo=github&logoColor=black&labelColor=white&color=%2307A3D7','xjpAh':'rgba(255,\x20255,\x20255,\x200.1)','uVzjk':'0\x2010px','UbByb':_0x3f4da9(0x17e),'yaics':'使用教程：','okNBn':'12px','udqhV':'flex','OyRby':'Bilibili','Otjmo':'https://github.com/yawiii/comfyui_prompt_widget','UDyGK':'img'},_0x3830fc=document['createElement']('tr');_0x3830fc[_0x3f4da9(0x2bf)]=_0x35658c[_0x3f4da9(0x113)];const _0x36ccab=document['createElement']('td');_0x36ccab[_0x3f4da9(0x2bf)]='comfy-menu-label',_0x3830fc[_0x3f4da9(0x101)](_0x36ccab);const _0x3a62eb=document[_0x3f4da9(0x312)]('td');_0x3a62eb[_0x3f4da9(0x2bf)]=_0x35658c[_0x3f4da9(0x234)];const _0x302726=document['createElement'](_0x3f4da9(0x1b8));_0x302726['className']=_0x3f4da9(0x2aa),_0x302726['style'][_0x3f4da9(0x24d)]='flex',_0x302726['style']['alignItems']=_0x35658c[_0x3f4da9(0x204)],_0x302726['style']['gap']=_0x35658c['rnhNS'],_0x302726['style']['flexWrap']=_0x35658c[_0x3f4da9(0x25b)];const _0x20a302=document['createElement'](_0x35658c['LlBNb']);_0x20a302['style']['display']='flex',_0x20a302['style']['alignItems']=_0x3f4da9(0x330),_0x20a302['style'][_0x3f4da9(0x150)]=_0x3f4da9(0x219),_0x20a302['style'][_0x3f4da9(0x2b5)]=_0x35658c['FjIEb'],_0x20a302[_0x3f4da9(0x30a)]['minWidth']='fit-content';const _0x4edc50=document['createElement']('img');_0x4edc50['alt']='Version',_0x4edc50['src']='https://img.shields.io/badge/Version-'+EXTENSION_VERSION+'-green?style=flat',_0x4edc50['style']['display']='block',_0x4edc50['style']['height']='20px';const _0x40c7e9=document['createElement']('a');_0x40c7e9['href']=_0x3f4da9(0x12d),_0x40c7e9['target']=_0x35658c['kDpZs'],_0x40c7e9['style']['textDecoration']='none',_0x40c7e9['style']['display']='flex',_0x40c7e9['style']['alignItems']=_0x3f4da9(0x330);const _0x2a6997=document['createElement']('img');_0x2a6997['alt']=_0x35658c[_0x3f4da9(0x20b)],_0x2a6997['src']=_0x35658c['mQLvz'],_0x2a6997['style']['display']='block',_0x2a6997['style']['height']='20px',_0x40c7e9['appendChild'](_0x2a6997),_0x20a302[_0x3f4da9(0x101)](_0x4edc50),_0x20a302[_0x3f4da9(0x101)](_0x40c7e9);const _0x5cb765=document['createElement'](_0x35658c['LlBNb']);_0x5cb765['style']['width']=_0x3f4da9(0xe1),_0x5cb765[_0x3f4da9(0x30a)]['height']=_0x3f4da9(0xde),_0x5cb765['style']['backgroundColor']=_0x35658c['xjpAh'],_0x5cb765['style'][_0x3f4da9(0x18b)]=_0x35658c['uVzjk'],_0x5cb765['style']['flexShrink']='0';const _0x3d72ac=document['createElement'](_0x3f4da9(0x1b8));_0x3d72ac['style']['display']='flex',_0x3d72ac['style']['alignItems']=_0x3f4da9(0x330),_0x3d72ac['style']['gap']='10px',_0x3d72ac['style']['flexWrap']='wrap',_0x3d72ac['style']['minWidth']=_0x35658c['UbByb'];const _0x3831f0=document['createElement']('span');_0x3831f0['textContent']=_0x35658c[_0x3f4da9(0x137)],_0x3831f0['style']['color']=_0x3f4da9(0xdd),_0x3831f0[_0x3f4da9(0x30a)][_0x3f4da9(0x146)]=_0x35658c[_0x3f4da9(0x235)],_0x3831f0['style'][_0x3f4da9(0x254)]=_0x3f4da9(0x10d);const _0x5804c8=document['createElement']('a');_0x5804c8['href']='https://github.com/yawiii/comfyui_prompt_widget',_0x5804c8['target']='_blank',_0x5804c8['style']['textDecoration']=_0x3f4da9(0x19a),_0x5804c8['style'][_0x3f4da9(0x24d)]=_0x35658c[_0x3f4da9(0x315)],_0x5804c8['style']['alignItems']='center';const _0x4d81d2=document[_0x3f4da9(0x312)]('img');_0x4d81d2['alt']=_0x35658c['OyRby'],_0x4d81d2[_0x3f4da9(0x190)]='https://img.shields.io/badge/b%E7%AB%99-FFFFFF?style=flat&logo=bilibili&logoColor=%2307A3D7',_0x4d81d2['style']['display']='block',_0x4d81d2['style']['height']=_0x3f4da9(0xde),_0x5804c8['appendChild'](_0x4d81d2);const _0x3c1250=document['createElement']('a');_0x3c1250[_0x3f4da9(0xef)]=_0x35658c[_0x3f4da9(0x328)],_0x3c1250['target']='_blank',_0x3c1250[_0x3f4da9(0x30a)]['textDecoration']=_0x3f4da9(0x19a),_0x3c1250[_0x3f4da9(0x30a)]['display']=_0x35658c['udqhV'],_0x3c1250['style']['alignItems']=_0x3f4da9(0x330);const _0x5f157b=document['createElement'](_0x35658c[_0x3f4da9(0x1ea)]);return _0x5f157b['alt']='Douyin',_0x5f157b['src']='https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-FFFFFF?style=flat&logo=TikTok&logoColor=%23161823',_0x5f157b[_0x3f4da9(0x30a)][_0x3f4da9(0x24d)]='block',_0x5f157b['style']['height']=_0x35658c['rnhNS'],_0x3c1250['appendChild'](_0x5f157b),_0x3d72ac['appendChild'](_0x3831f0),_0x3d72ac['appendChild'](_0x5804c8),_0x3d72ac['appendChild'](_0x3c1250),_0x302726['appendChild'](_0x20a302),_0x302726['appendChild'](_0x5cb765),_0x302726['appendChild'](_0x3d72ac),_0x3a62eb[_0x3f4da9(0x101)](_0x302726),_0x3830fc[_0x3f4da9(0x101)](_0x3a62eb),_0x3830fc;}},{'id':'PromptWidget.Compatibility.Mode','name':'开启兼容模式','category':[_0x5c3cdc(0x171),'调试选项','兼容性'],'type':'boolean','defaultValue':![],'tooltip':'当出现小部件不能显示在输入框时，请打开此选项（需要重启comfyUI）','onChange':_0x46977f=>{logger['log']('兼容模式已'+(_0x46977f?'启用':'禁用'));}}]});async function showPresetManagerDialog(){const _0x2c0a5e=_0x5c3cdc,_0x4957fb={'fdsrM':'prompt-preset-manager-dialog','aULOE':'div','gfura':'&#215;','fWVEn':'prompt-preset-title','tzVCn':'正在加载预设数据...','aIFVt':'preset-table-container','gSVGw':'preset-table','zSilG':_0x2c0a5e(0x19d),'ZQPGZ':'tbody','JYJLn':'预设数据加载完成','AiVcj':_0x2c0a5e(0x28e),'yVcyM':'预设数据加载失败:','zwugL':'创建预设管理对话框时出错:'};try{if(DEBUG)console[_0x2c0a5e(0xd6)]('正在打开提示词预设管理对话框...');hasChanges=![];const _0x1aff90=document[_0x2c0a5e(0x312)]('div');_0x1aff90['className']='preset-overlay',document['body']['appendChild'](_0x1aff90);const _0x2a58c3=document['createElement']('div');_0x2a58c3[_0x2c0a5e(0x2bf)]=_0x4957fb[_0x2c0a5e(0x12a)];const _0x51a589=document['createElement'](_0x4957fb[_0x2c0a5e(0xf1)]);_0x51a589[_0x2c0a5e(0x2bf)]=_0x2c0a5e(0x1ac);const _0x79fcb6=document['createElement']('button');_0x79fcb6[_0x2c0a5e(0x2bf)]='preset-close-button',_0x79fcb6['innerHTML']=_0x4957fb['gfura'],_0x79fcb6['onclick']=()=>handleClose(_0x2a58c3,_0x1aff90),_0x51a589['appendChild'](_0x79fcb6);const _0x5f58c4=document['createElement']('h2');_0x5f58c4['className']=_0x4957fb[_0x2c0a5e(0x1e3)],_0x5f58c4['textContent']='提示词预设管理',_0x51a589['appendChild'](_0x5f58c4);const _0x29ba5f=document['createElement']('p');_0x29ba5f['textContent']='您可以在这里管理提示词预设，修改后请点击保存按钮。注意：结尾不要加逗号！！',_0x29ba5f['style']['marginBottom']='20px',_0x29ba5f['style'][_0x2c0a5e(0x278)]='#aaa',_0x51a589['appendChild'](_0x29ba5f);const _0x41f854=document['createElement'](_0x2c0a5e(0x1b8));_0x41f854[_0x2c0a5e(0x2bf)]='preset-loading-indicator',_0x41f854['textContent']=_0x4957fb['tzVCn'],_0x51a589['appendChild'](_0x41f854);const _0x14feed=document[_0x2c0a5e(0x312)]('div');_0x14feed[_0x2c0a5e(0x2bf)]=_0x4957fb[_0x2c0a5e(0x24c)],_0x14feed['style']['display']='none';const _0x4455fe=document['createElement']('table');_0x4455fe[_0x2c0a5e(0x2bf)]=_0x4957fb[_0x2c0a5e(0x129)];const _0x512250=document[_0x2c0a5e(0x312)](_0x4957fb['zSilG']),_0xaa1031=document['createElement']('tr');['颜色','类型','内容','说明','操作'][_0x2c0a5e(0x1b1)](_0x32edc0=>{const _0x491d39=_0x2c0a5e,_0x240405=document[_0x491d39(0x312)]('th');_0x240405['textContent']=_0x32edc0,_0xaa1031['appendChild'](_0x240405);}),_0x512250['appendChild'](_0xaa1031),_0x4455fe[_0x2c0a5e(0x101)](_0x512250);const _0x8b40b9=document[_0x2c0a5e(0x312)](_0x4957fb['ZQPGZ']);_0x4455fe[_0x2c0a5e(0x101)](_0x8b40b9),_0x14feed[_0x2c0a5e(0x101)](_0x4455fe),_0x51a589['appendChild'](_0x14feed);const _0x383ac8=document[_0x2c0a5e(0x312)](_0x4957fb[_0x2c0a5e(0xf1)]);_0x383ac8[_0x2c0a5e(0x2bf)]='preset-manager-footer';const _0x32a7fc=document['createElement']('button');_0x32a7fc['className']=_0x2c0a5e(0x218),_0x32a7fc['textContent']='保存',_0x32a7fc[_0x2c0a5e(0x16b)]=()=>handleSave(_0x2a58c3,_0x1aff90,_0x8b40b9),_0x383ac8[_0x2c0a5e(0x101)](_0x32a7fc),_0x51a589['appendChild'](_0x383ac8),_0x2a58c3['appendChild'](_0x51a589),document[_0x2c0a5e(0x143)]['appendChild'](_0x2a58c3),_0x2a58c3['addEventListener']('click',_0x48871f=>{_0x48871f['target']===_0x2a58c3&&handleClose(_0x2a58c3,_0x1aff90);});try{const _0x3b7ceb=await loadPresetData();await displayPresetData(_0x8b40b9,_0x3b7ceb);const _0x496a5e=_0x8b40b9['querySelectorAll'](_0x2c0a5e(0x20f));_0x496a5e['forEach'](_0x1af8e7=>{const _0x21a53b=_0x2c0a5e;_0x1af8e7[_0x21a53b(0x2ae)]('change',trackChanges);}),_0x41f854['style']['display']=_0x2c0a5e(0x19a),_0x14feed['style']['display']=_0x2c0a5e(0x24b);if(DEBUG)console['log'](_0x4957fb[_0x2c0a5e(0x18e)]);}catch(_0x295a37){_0x41f854['textContent']='加载失败:\x20'+_0x295a37['message'],_0x41f854['style'][_0x2c0a5e(0x278)]=_0x4957fb['AiVcj'];if(DEBUG)console['error'](_0x4957fb['yVcyM'],_0x295a37);}}catch(_0x3444ef){console[_0x2c0a5e(0x20e)](_0x4957fb['zwugL'],_0x3444ef),showCustomDialog({'title':'错误','content':'创建预设管理对话框时出错:\x20'+_0x3444ef['message'],'confirmText':'确定','showCancel':![]});}}const PRESET_COLORS={'blue':{'name':'蓝色','color':_0x5c3cdc(0x32f)},'green':{'name':'绿色','color':'rgb(120,\x20255,\x20120)'},'red':{'name':'红色','color':_0x5c3cdc(0x269)},'orange':{'name':'橙色','color':'rgb(255,\x20200,\x20100)'},'cyan':{'name':'青色','color':'rgb(100,\x20220,\x20220)'},'purple':{'name':'紫色','color':_0x5c3cdc(0x264)},'yellow':{'name':'黄色','color':_0x5c3cdc(0x26f)},'lightblue':{'name':'淡蓝','color':_0x5c3cdc(0x174)},'pink':{'name':'粉色','color':_0x5c3cdc(0x238)},'lime':{'name':'青柠','color':'rgb(140,\x20220,\x20140)'},'coral':{'name':'珊瑚','color':'rgb(240,\x20140,\x20140)'},'indigo':{'name':'靛蓝','color':_0x5c3cdc(0x1f3)}};async function loadPresetData(_0x27e252){const _0x45bafe=_0x5c3cdc,_0x14fd25={'nAoPc':'.preset-note-input','rLfMs':'default','KYykK':function(_0xf0687e,_0x1fed87){return _0xf0687e(_0x1fed87);},'mBRXo':_0x45bafe(0x224)};try{if(_0x27e252){const _0x3ddd4f=[],_0x43fc93=Array['from'](_0x27e252['getElementsByTagName']('tr'))['slice'](0x0,-0x1);for(const _0x29f58f of _0x43fc93){const _0x6b4721=_0x29f58f['querySelector']('.preset-color-select'),_0x4d1a1d=_0x29f58f[_0x45bafe(0x1b2)](_0x45bafe(0x24f)),_0x1e356c=_0x29f58f['querySelector']('.preset-content-input'),_0x4c0ba4=_0x29f58f['querySelector'](_0x14fd25['nAoPc']);_0x1e356c&&_0x1e356c['value'][_0x45bafe(0x27a)]()&&_0x3ddd4f[_0x45bafe(0x1e9)]({'color_type':_0x6b4721?_0x6b4721['value']:_0x14fd25['rLfMs'],'type':_0x4d1a1d?_0x4d1a1d['value']:_0x45bafe(0x138),'content':_0x1e356c[_0x45bafe(0xeb)]['trim'](),'note':_0x4c0ba4?_0x4c0ba4['value'][_0x45bafe(0x27a)]():''});}return _0x3ddd4f;}const _0x4bb18c=await _0x14fd25[_0x45bafe(0x275)](fetch,'/prompt_widget/presets');if(!_0x4bb18c['ok'])throw new Error('Failed\x20to\x20load\x20presets:\x20'+_0x4bb18c['status']+'\x20'+_0x4bb18c['statusText']);const _0x2f5008=await _0x4bb18c['json']();return _0x2f5008[_0x45bafe(0x173)]||[];}catch(_0x5c126d){console['error'](_0x14fd25[_0x45bafe(0xff)],_0x5c126d);throw _0x5c126d;}}function movePreset(_0x535c0b,_0x2c5d0c,_0x268a70,_0x3c5241){const _0x22111d=_0x5c3cdc,_0x7766a={'qnKpN':function(_0x143c62,_0xfe437d){return _0x143c62+_0xfe437d;},'AGzAa':function(_0x4af9be,_0x269098){return _0x4af9be<_0x269098;},'kTAJf':function(_0x77f1dc,_0x592341,_0x1492cd){return _0x77f1dc(_0x592341,_0x1492cd);}};try{const _0x4e1d96=_0x7766a[_0x22111d(0xf7)](_0x535c0b,_0x2c5d0c);if(_0x7766a['AGzAa'](_0x4e1d96,0x0)||_0x4e1d96>=_0x3c5241['length'])return![];[_0x3c5241[_0x535c0b],_0x3c5241[_0x4e1d96]]=[_0x3c5241[_0x4e1d96],_0x3c5241[_0x535c0b]];const _0x50fb81=Array['from'](_0x268a70['getElementsByTagName']('tr'))['slice'](0x0,-0x1),_0x5070af=_0x50fb81[_0x535c0b],_0x588ce4=_0x50fb81[_0x4e1d96];if(!_0x5070af||!_0x588ce4)return console['error']('找不到要交换的行:',_0x535c0b,_0x4e1d96),![];return _0x2c5d0c<0x0?_0x268a70['insertBefore'](_0x5070af,_0x588ce4):_0x268a70[_0x22111d(0x2dc)](_0x588ce4,_0x5070af),_0x5070af['dataset'][_0x22111d(0x120)]=_0x4e1d96,_0x588ce4['dataset']['index']=_0x535c0b,_0x7766a['kTAJf'](updatePresetRows,_0x268a70,_0x3c5241),!![];}catch(_0x50677d){return console['error'](_0x22111d(0x18f),_0x50677d),![];}}function updatePresetRows(_0x572e67,_0x2fb854){const _0x2b190b=_0x5c3cdc,_0x183ae6={'dyqOV':function(_0x4d439c,_0x1804f3){return _0x4d439c===_0x1804f3;},'QTGfX':_0x2b190b(0x1d4),'VjXuy':_0x2b190b(0x329),'pxBhf':function(_0x20c506,_0x464e3b){return _0x20c506-_0x464e3b;},'LlirF':'更新预设行状态时出错:'};try{const _0x1f9c39=Array['from'](_0x572e67['getElementsByTagName']('tr'))['slice'](0x0,-0x1);_0x1f9c39[_0x2b190b(0x1b1)]((_0x4ece86,_0x116de6)=>{const _0x9e6590=_0x2b190b,_0x490f6a=_0x4ece86['querySelector']('.move-top-button');_0x490f6a&&(_0x490f6a['disabled']=_0x183ae6['dyqOV'](_0x116de6,0x0),_0x490f6a[_0x9e6590(0x109)]?_0x490f6a['classList']['add']('widget_button_disabled'):_0x490f6a['classList'][_0x9e6590(0x214)](_0x183ae6[_0x9e6590(0x210)]));const _0x585e06=_0x4ece86['querySelector']('.up-button');_0x585e06&&(_0x585e06['disabled']=_0x116de6===0x0,_0x585e06[_0x9e6590(0x109)]?_0x585e06['classList']['add']('widget_button_disabled'):_0x585e06['classList']['remove']('widget_button_disabled'));const _0x3a18e9=_0x4ece86['querySelector'](_0x183ae6['VjXuy']);_0x3a18e9&&(_0x3a18e9[_0x9e6590(0x109)]=_0x116de6===_0x183ae6[_0x9e6590(0x1b9)](_0x2fb854['length'],0x1),_0x3a18e9['disabled']?_0x3a18e9['classList']['add'](_0x9e6590(0x1d4)):_0x3a18e9['classList']['remove']('widget_button_disabled')),_0x4ece86['dataset']['index']=_0x116de6,_0x490f6a&&(_0x490f6a[_0x9e6590(0x16b)]=()=>movePresetToTop(_0x116de6,_0x572e67,_0x2fb854)),_0x585e06&&(_0x585e06['onclick']=()=>movePreset(_0x116de6,-0x1,_0x572e67,_0x2fb854)),_0x3a18e9&&(_0x3a18e9[_0x9e6590(0x16b)]=()=>movePreset(_0x116de6,0x1,_0x572e67,_0x2fb854));});}catch(_0x287f12){console[_0x2b190b(0x20e)](_0x183ae6[_0x2b190b(0x2fa)],_0x287f12);}}async function displayPresetData(_0x19596e,_0x454945){const _0xe86cd7=_0x5c3cdc,_0x43c3af={'JRkBa':_0xe86cd7(0x310),'ozZmD':function(_0x5f1421,_0x22cf6e,_0x75c958){return _0x5f1421(_0x22cf6e,_0x75c958);},'rvUYv':_0xe86cd7(0x247),'fyMVm':'30px','acIrx':'input','ZwpwO':function(_0x179c6f,_0x340e68){return _0x179c6f===_0x340e68;},'CZyCz':'button','ULdEw':'widget_button_disabled','IpcMy':function(_0x574890,_0xb9803a){return _0x574890(_0xb9803a);},'qRnax':'请输入新的类型名称：','qHZbt':'preset-add-row','kiaNG':'preset-type-select','rtOcK':'preset-note-input','rTkbP':'输入说明'};try{_0x19596e[_0xe86cd7(0x1c8)]='';if(!_0x454945||_0x43c3af['ZwpwO'](_0x454945['length'],0x0)){const _0x1662c3=document['createElement']('tr'),_0x161bdf=document['createElement']('td');_0x161bdf['colSpan']=0x5,_0x161bdf[_0xe86cd7(0x1aa)]='没有找到任何预设',_0x161bdf[_0xe86cd7(0x30a)]['textAlign']=_0xe86cd7(0x330),_0x1662c3['appendChild'](_0x161bdf),_0x19596e['appendChild'](_0x1662c3);return;}const _0x364680=new Set();_0x454945['forEach'](_0x33e434=>{if(_0x33e434['type'])_0x364680['add'](_0x33e434['type']);});const _0xe6a709=Array['from'](_0x364680);_0x454945['forEach']((_0x4a16fd,_0x33590e)=>{const _0x3b208e=_0xe86cd7,_0x2015cc={'Litrt':_0x3b208e(0x310),'XXKNy':function(_0x3282e7,_0x411a45,_0x240aa0){return _0x43c3af['ozZmD'](_0x3282e7,_0x411a45,_0x240aa0);},'QnVYy':function(_0xe27212){return _0xe27212();},'RIDBs':function(_0x4902df,_0x5d3653){return _0x4902df(_0x5d3653);},'SJzKa':_0x43c3af['rvUYv']},_0xab500f=document[_0x3b208e(0x312)]('tr');_0xab500f['dataset']['index']=_0x33590e;const _0xa6911c=document[_0x3b208e(0x312)]('td');_0xa6911c['style']['width']='30px';const _0x33eed4=document['createElement']('select');_0x33eed4['className']='preset-color-select',_0x33eed4[_0x3b208e(0x30a)]['width']=_0x43c3af['fyMVm'],_0x33eed4[_0x3b208e(0x30a)]['height']=_0x3b208e(0x229),_0x33eed4[_0x3b208e(0x300)]='选择类型颜色',Object['entries'](PRESET_COLORS)['forEach'](([_0x35d08c,_0x58c83a])=>{const _0x345d09=_0x3b208e,_0x566ede=document['createElement'](_0x43c3af['JRkBa']);_0x566ede[_0x345d09(0xeb)]=_0x35d08c,_0x566ede['textContent']='●',_0x566ede['style']['color']=_0x58c83a['color'],_0x566ede['title']=_0x58c83a[_0x345d09(0x1d7)],_0x4a16fd['color_type']===_0x35d08c&&(_0x566ede['selected']=!![],_0x33eed4[_0x345d09(0x30a)]['color']=_0x58c83a[_0x345d09(0x278)]),_0x33eed4['appendChild'](_0x566ede);});if(!_0x4a16fd['color_type']){const _0x53f783=Object[_0x3b208e(0x2a9)](PRESET_COLORS)[0x0];_0x53f783&&(_0x4a16fd['color_type']=_0x53f783[0x0],_0x33eed4['style']['color']=_0x53f783[0x1]['color'],_0x33eed4['value']=_0x53f783[0x0]);}_0x33eed4[_0x3b208e(0x104)]=_0x4b8a67=>{const _0x9bd0b3=_0x3b208e;_0x4a16fd['color_type']=_0x4b8a67['target']['value'];const _0x2d76f1=PRESET_COLORS[_0x4b8a67['target']['value']]?.['color'];_0x2d76f1&&(_0x4b8a67['target'][_0x9bd0b3(0x30a)]['color']=_0x2d76f1);const _0x470444=_0xab500f['querySelector']('.preset-type-select');_0x470444&&(_0x470444[_0x9bd0b3(0x2bf)]='preset-type-select\x20preset_type_'+_0x4b8a67['target'][_0x9bd0b3(0xeb)]);},_0xa6911c[_0x3b208e(0x101)](_0x33eed4),_0xab500f[_0x3b208e(0x101)](_0xa6911c);const _0x415880=document['createElement']('td'),_0x3b5bd0=document[_0x3b208e(0x312)]('select');_0x3b5bd0[_0x3b208e(0x2bf)]='preset-type-select'+(_0x4a16fd['color_type']?'\x20preset_type_'+_0x4a16fd[_0x3b208e(0x1ed)]:''),_0xe6a709['forEach'](_0x41b559=>{const _0x3b0943=_0x3b208e,_0x4809a9=document['createElement'](_0x2015cc['Litrt']);_0x4809a9['value']=_0x41b559,_0x4809a9['textContent']=_0x41b559,_0x41b559===_0x4a16fd['type']&&(_0x4809a9[_0x3b0943(0x268)]=!![]),_0x3b5bd0['appendChild'](_0x4809a9);});const _0x1f054f=document[_0x3b208e(0x312)]('option');_0x1f054f['value']=_0x3b208e(0x242),_0x1f054f['textContent']='添加新类型...',_0x3b5bd0['appendChild'](_0x1f054f),_0x3b5bd0[_0x3b208e(0x104)]=_0x59bba7=>handleTypeChange(_0x59bba7[_0x3b208e(0x1b4)],_0x4a16fd,_0x1f054f),_0x415880['appendChild'](_0x3b5bd0),_0xab500f['appendChild'](_0x415880);const _0x5b7789=document['createElement']('td'),_0x204863=document[_0x3b208e(0x312)](_0x43c3af['acIrx']);_0x204863['type']=_0x3b208e(0x320),_0x204863['className']=_0x3b208e(0x186),_0x204863['value']=_0x4a16fd['content'],_0x204863[_0x3b208e(0x104)]=_0x53a269=>{const _0x19531c=_0x3b208e;_0x4a16fd['content']=_0x53a269['target'][_0x19531c(0xeb)];},_0x5b7789['appendChild'](_0x204863),_0xab500f[_0x3b208e(0x101)](_0x5b7789);const _0x5e1d95=document['createElement']('td'),_0x34b95f=document[_0x3b208e(0x312)]('input');_0x34b95f['type']='text',_0x34b95f[_0x3b208e(0x2bf)]=_0x3b208e(0x2d7),_0x34b95f[_0x3b208e(0xeb)]=_0x4a16fd['note']||'',_0x34b95f[_0x3b208e(0x104)]=_0x39a36d=>{_0x4a16fd['note']=_0x39a36d['target']['value'];},_0x5e1d95['appendChild'](_0x34b95f),_0xab500f[_0x3b208e(0x101)](_0x5e1d95);const _0x545861=document[_0x3b208e(0x312)]('td');_0x545861['className']='preset-action-buttons';const _0x47496b=document['createElement'](_0x3b208e(0x23b));_0x47496b['className']='preset-action-button\x20move-top-button',_0x47496b['innerHTML']='',_0x47496b['title']='移至顶部',_0x47496b['onclick']=()=>movePresetToTop(_0x33590e,_0x19596e,_0x454945),_0x47496b[_0x3b208e(0x109)]=_0x43c3af['ZwpwO'](_0x33590e,0x0);_0x47496b['disabled']&&_0x47496b['classList'][_0x3b208e(0x209)]('widget_button_disabled');const _0x3497b7=document['createElement']('button');_0x3497b7['className']='preset-action-button\x20up-button',_0x3497b7['innerHTML']='',_0x3497b7['title']='上移',_0x3497b7['onclick']=()=>movePreset(_0x33590e,-0x1,_0x19596e,_0x454945),_0x3497b7['disabled']=_0x33590e===0x0;_0x3497b7['disabled']&&_0x3497b7['classList']['add']('widget_button_disabled');const _0x2d24dd=document['createElement'](_0x43c3af['CZyCz']);_0x2d24dd['className']=_0x3b208e(0xd3),_0x2d24dd['innerHTML']='',_0x2d24dd['title']='下移',_0x2d24dd['onclick']=()=>movePreset(_0x33590e,0x1,_0x19596e,_0x454945),_0x2d24dd['disabled']=_0x33590e===_0x454945['length']-0x1;_0x2d24dd['disabled']&&_0x2d24dd[_0x3b208e(0x251)][_0x3b208e(0x209)](_0x43c3af[_0x3b208e(0x303)]);const _0x5a08c7=document[_0x3b208e(0x312)](_0x43c3af[_0x3b208e(0x1cb)]);_0x5a08c7['className']='preset-action-button\x20delete-button',_0x5a08c7[_0x3b208e(0x1c8)]='',_0x5a08c7['title']='删除',_0x5a08c7['onclick']=()=>{const _0x17096b=_0x3b208e;_0x2015cc['RIDBs'](showCustomDialog,{'title':_0x17096b(0x2e3),'content':_0x2015cc[_0x17096b(0xfe)],'confirmText':'确定','cancelText':'取消','onConfirm':()=>{_0x454945['splice'](_0x33590e,0x1),_0x19596e['removeChild'](_0xab500f),_0x2015cc['XXKNy'](updatePresetRows,_0x19596e,_0x454945),_0x2015cc['QnVYy'](trackChanges);}});};const _0x4f34dd=document['createElement']('div');_0x4f34dd['className']=_0x3b208e(0x2c0),_0x545861['appendChild'](_0x47496b),_0x545861[_0x3b208e(0x101)](_0x3497b7),_0x545861['appendChild'](_0x2d24dd),_0x545861[_0x3b208e(0x101)](_0x4f34dd),_0x545861['appendChild'](_0x5a08c7),_0xab500f['appendChild'](_0x545861),_0x19596e[_0x3b208e(0x101)](_0xab500f);});const _0x461258=document['createElement']('tr');_0x461258['className']=_0x43c3af['qHZbt'];const _0x2b4666=document['createElement']('td'),_0x2f7d1c=document['createElement']('select');_0x2f7d1c['className']=_0xe86cd7(0x245),_0x2f7d1c['style']['width']=_0x43c3af['fyMVm'],_0x2f7d1c[_0xe86cd7(0x30a)]['height']='24px';const _0x1714b0=Object['entries'](PRESET_COLORS)[0x0];Object['entries'](PRESET_COLORS)['forEach'](([_0x1177ce,_0x313cea])=>{const _0x1a1353=_0xe86cd7,_0x5159f3=document['createElement'](_0x1a1353(0x310));_0x5159f3['value']=_0x1177ce,_0x5159f3[_0x1a1353(0x1aa)]='●',_0x5159f3['style'][_0x1a1353(0x278)]=_0x313cea['color'],_0x5159f3['title']=_0x313cea['name'],_0x2f7d1c['appendChild'](_0x5159f3);});_0x1714b0&&(_0x2f7d1c['value']=_0x1714b0[0x0],_0x2f7d1c['style']['color']=_0x1714b0[0x1]['color']);_0x2f7d1c[_0xe86cd7(0x104)]=_0x24d373=>{const _0x15c681=_0xe86cd7,_0x27875a=PRESET_COLORS[_0x24d373[_0x15c681(0x1b4)][_0x15c681(0xeb)]]?.['color'];_0x27875a&&(_0x24d373['target']['style']['color']=_0x27875a);},_0x2b4666['appendChild'](_0x2f7d1c),_0x461258[_0xe86cd7(0x101)](_0x2b4666);const _0x477c89=document[_0xe86cd7(0x312)]('td'),_0x29c860=document[_0xe86cd7(0x312)]('select');_0x29c860['className']=_0x43c3af['kiaNG'],_0xe6a709['forEach'](_0xfda236=>{const _0x236d3b=_0xe86cd7,_0x24d6d7=document[_0x236d3b(0x312)](_0x236d3b(0x310));_0x24d6d7['value']=_0xfda236,_0x24d6d7['textContent']=_0xfda236,_0x29c860[_0x236d3b(0x101)](_0x24d6d7);});const _0x6787fc=document[_0xe86cd7(0x312)]('option');_0x6787fc['value']='new',_0x6787fc['textContent']='添加新类型...',_0x29c860['appendChild'](_0x6787fc),_0x477c89[_0xe86cd7(0x101)](_0x29c860),_0x461258['appendChild'](_0x477c89);const _0x48e0cf=document['createElement']('td'),_0x47ebd6=document[_0xe86cd7(0x312)]('input');_0x47ebd6['type']='text',_0x47ebd6['className']=_0xe86cd7(0x186),_0x47ebd6[_0xe86cd7(0xfd)]='输入预设内容',_0x48e0cf[_0xe86cd7(0x101)](_0x47ebd6),_0x461258['appendChild'](_0x48e0cf);const _0x127f32=document['createElement']('td'),_0x39da23=document['createElement']('input');_0x39da23[_0xe86cd7(0x2f0)]=_0xe86cd7(0x320),_0x39da23['className']=_0x43c3af['rtOcK'],_0x39da23['placeholder']=_0x43c3af['rTkbP'],_0x127f32[_0xe86cd7(0x101)](_0x39da23),_0x461258['appendChild'](_0x127f32);const _0x18f7b7=document['createElement']('td'),_0x2da191=document['createElement'](_0x43c3af['CZyCz']);_0x2da191['className']='preset-add-button',_0x2da191['textContent']='添加',_0x2da191['onclick']=()=>{const _0x4ac295=_0xe86cd7,_0x1e5a98={'WMXjM':function(_0x44f73a){return _0x44f73a();}},_0x59cc42=_0x29c860['value'],_0x1d9ab3=_0x47ebd6['value']['trim'](),_0x69dac6=_0x39da23[_0x4ac295(0xeb)]['trim']();if(!_0x1d9ab3){_0x43c3af['IpcMy'](showCustomDialog,{'title':'提示','content':_0x4ac295(0x26d),'confirmText':'确定'});return;}if(_0x59cc42===_0x4ac295(0x242))showCustomDialog({'title':'添加新类型','content':_0x43c3af['qRnax'],'showInput':!![],'onConfirm':_0x4a2015=>{if(_0x4a2015){const _0x15f2b4={'type':_0x4a2015,'content':_0x1d9ab3,'note':_0x69dac6,'color_type':_0x2f7d1c['value']};_0x454945['push'](_0x15f2b4),displayPresetData(_0x19596e,_0x454945),_0x1e5a98['WMXjM'](trackChanges);}}});else{const _0x3587f7={'type':_0x59cc42,'content':_0x1d9ab3,'note':_0x69dac6,'color_type':_0x2f7d1c[_0x4ac295(0xeb)]};_0x454945['push'](_0x3587f7),_0x43c3af[_0x4ac295(0x2d9)](displayPresetData,_0x19596e,_0x454945),trackChanges();}},_0x18f7b7[_0xe86cd7(0x101)](_0x2da191),_0x461258['appendChild'](_0x18f7b7),_0x19596e['appendChild'](_0x461258);}catch(_0x34b6ac){console['error']('显示预设数据时出错:',_0x34b6ac);throw _0x34b6ac;}}function showCustomDialog({title:_0x2b8e6e,content:_0x39987d,inputLabel:_0x3eba25,defaultValue:defaultValue='',confirmText:confirmText='确定',cancelText:cancelText=null,onConfirm:_0x29c8d9,onCancel:_0x2d80ea,showInput:showInput=![]}){const _0x24853a=_0x5c3cdc,_0x4e3044={'JYiIo':'custom-dialog-overlay'},_0x2406ad=document['createElement']('div');_0x2406ad['className']=_0x4e3044[_0x24853a(0x141)];const _0x2b6098=document['createElement']('div');_0x2b6098[_0x24853a(0x2bf)]=_0x24853a(0x244);let _0x42f8ff=null;_0x2b6098['innerHTML']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22custom-dialog-title\x22>'+_0x2b8e6e+_0x24853a(0x1e7)+_0x39987d+_0x24853a(0x293)+(showInput?'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22custom-dialog-input-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+(_0x3eba25?'<label>'+_0x3eba25+_0x24853a(0x1f1):'')+_0x24853a(0x191)+defaultValue+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20':'')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22custom-dialog-buttons\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+(cancelText?'<button\x20class=\x22custom-dialog-button\x20secondary\x22>'+cancelText+'</button>':'')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22custom-dialog-button\x20primary\x22>'+confirmText+_0x24853a(0x27d);showInput&&(_0x42f8ff=_0x2b6098['querySelector']('.custom-dialog-input'),_0x42f8ff['focus']());const _0x48cd3d=_0x2b6098['querySelectorAll']('button');return cancelText&&(_0x48cd3d[0x0]['onclick']=()=>{document['body']['removeChild'](_0x2406ad),_0x2d80ea?.();}),_0x48cd3d[cancelText?0x1:0x0][_0x24853a(0x16b)]=()=>{document['body']['removeChild'](_0x2406ad),_0x29c8d9?.(_0x42f8ff?.['value']);},_0x2406ad[_0x24853a(0x101)](_0x2b6098),document['body']['appendChild'](_0x2406ad),_0x2406ad;}function showSuccessToast(_0x5b2b0e,_0x47e911=0x7d0){const _0x3c2897=_0x5c3cdc,_0x126c15={'Vnsyp':_0x3c2897(0x149),'nUNEB':'div'},_0x3134d3=document['createElement'](_0x126c15['nUNEB']);_0x3134d3['className']='success-toast',_0x3134d3['textContent']=_0x5b2b0e,document['body'][_0x3c2897(0x101)](_0x3134d3),setTimeout(()=>{const _0x4cfb80=_0x3c2897;_0x3134d3['style'][_0x4cfb80(0x28b)]=_0x126c15['Vnsyp'],setTimeout(()=>{const _0x3f2bdd=_0x4cfb80;document['body']['contains'](_0x3134d3)&&document[_0x3f2bdd(0x143)]['removeChild'](_0x3134d3);},0x12c);},_0x47e911);}function handleTypeChange(_0x58e250,_0x512ea2,_0x57fe4b){const _0x34d807=_0x5c3cdc,_0x1f4ec8={'DFkfE':function(_0x39b8aa,_0x397633){return _0x39b8aa(_0x397633);}};if(_0x58e250[_0x34d807(0xeb)]==='new')_0x1f4ec8[_0x34d807(0x23a)](showCustomDialog,{'title':_0x34d807(0x2f3),'content':'请输入新的类型名称：','showInput':!![],'inputLabel':'类型名称','confirmText':'确定','cancelText':'取消','onConfirm':_0x4d27de=>{const _0x5022f8=_0x34d807;if(_0x4d27de&&_0x4d27de['trim']()){const _0x47cbd7=document[_0x5022f8(0x312)]('option');_0x47cbd7[_0x5022f8(0xeb)]=_0x4d27de,_0x47cbd7[_0x5022f8(0x1aa)]=_0x4d27de,_0x58e250['insertBefore'](_0x47cbd7,_0x57fe4b),_0x58e250['value']=_0x4d27de,_0x512ea2&&(_0x512ea2[_0x5022f8(0x2f0)]=_0x4d27de,trackChanges());}else _0x58e250['value']=_0x512ea2?_0x512ea2[_0x5022f8(0x2f0)]:_0x58e250[_0x5022f8(0x27b)][0x0]['value'];},'onCancel':()=>{_0x58e250['value']=_0x512ea2?_0x512ea2['type']:_0x58e250['options'][0x0]['value'];}});else _0x512ea2&&(_0x512ea2['type']=_0x58e250['value'],trackChanges());}let hasChanges=![];function trackChanges(){hasChanges=!![];}function handleClose(_0xa0820d,_0x1db6eb){const _0x22745c=_0x5c3cdc,_0x12cf24={'KKXhp':'您有未保存的修改，确定要关闭吗？'};hasChanges?showCustomDialog({'title':'确认关闭','content':_0x12cf24[_0x22745c(0x116)],'confirmText':'确定','cancelText':'取消','onConfirm':()=>{const _0x24f9ab=_0x22745c;document[_0x24f9ab(0x143)]['removeChild'](_0xa0820d),document[_0x24f9ab(0x143)]['removeChild'](_0x1db6eb),hasChanges=![];}}):(document['body']['removeChild'](_0xa0820d),document['body']['removeChild'](_0x1db6eb));}async function handleSave(_0x2ffa94,_0x2c3785,_0x3f0b16){const _0x2209a1=_0x5c3cdc,_0x284054={'QKTNV':function(_0x5542c3,_0x440230){return _0x5542c3(_0x440230);},'NphGO':'/prompt_widget/save_presets','rAhNK':'application/json','tZXCu':function(_0x5810f1,_0x5ec4df){return _0x5810f1(_0x5ec4df);},'CGdON':'保存成功！预设已更新','inIPL':'保存失败'};try{const _0x1ea6f4=await _0x284054['QKTNV'](loadPresetData,_0x3f0b16),_0x1e4aea=await fetch(_0x284054[_0x2209a1(0x2b8)],{'method':_0x2209a1(0x311),'headers':{'Content-Type':_0x284054['rAhNK']},'body':JSON['stringify']({'presets':_0x1ea6f4})}),_0x5d00a9=await _0x1e4aea['json']();if(!_0x1e4aea['ok'])throw new Error(_0x5d00a9[_0x2209a1(0x31f)]||'保存失败:\x20'+_0x1e4aea[_0x2209a1(0x139)]+'\x20'+_0x1e4aea[_0x2209a1(0x29d)]);if(_0x5d00a9['status']==='success')await TranslateManager['reloadConfig'](),_0x284054['tZXCu'](showSuccessToast,_0x284054['CGdON']),hasChanges=![];else throw new Error(_0x5d00a9[_0x2209a1(0x31f)]||_0x284054[_0x2209a1(0x1f7)]);}catch(_0x3cd8c6){console['error']('保存预设失败:',_0x3cd8c6),_0x284054[_0x2209a1(0x2dd)](showCustomDialog,{'title':_0x2209a1(0xe7),'content':_0x3cd8c6['message'],'confirmText':'确定'});}}async function showAPIConfigDialog(){const _0x32d06e=_0x5c3cdc,_0x4b4f1a={'mZNpn':function(_0x23e0df,_0x1855e8){return _0x23e0df===_0x1855e8;},'edhXG':'button','XnDRz':'preset-close-button','shVEm':_0x32d06e(0x230),'XdDqf':_0x32d06e(0x106),'HzPSn':_0x32d06e(0x1a3),'GEyRt':'none','tpFRy':'api-config-section','HvuQp':function(_0x2dba7e,_0x3f90bd,_0x496f93,_0x34978c,_0x1bfee8,_0x275925,_0x3bf68c,_0x33983a,_0xbf9312){return _0x2dba7e(_0x3f90bd,_0x496f93,_0x34978c,_0x1bfee8,_0x275925,_0x3bf68c,_0x33983a,_0xbf9312);},'qrOQw':'LLM扩写配置','bewCp':'div','rSrFP':'llm_api_key','yhDxI':'输入LLM\x20API\x20Key','TaMdE':_0x32d06e(0x267),'YeQKD':'输入temperature值','tVVcN':'0.1','rRomf':'Max\x20Tokens','tDaRB':'number','IyiJF':_0x32d06e(0x1c1),'jOZGJ':function(_0x51a9f3,_0xaae5f2,_0x4649f5,_0x1c6a02,_0x4aed4e,_0x5a0436,_0x59dbd9,_0x198eb7,_0x1b70da){return _0x51a9f3(_0xaae5f2,_0x4649f5,_0x1c6a02,_0x4aed4e,_0x5a0436,_0x59dbd9,_0x198eb7,_0x1b70da);},'VDLAH':'llm_system_prompt','Yjlub':_0x32d06e(0x102),'Uglbd':'click','fYOTt':_0x32d06e(0x28e),'bTqzt':'配置数据加载失败:'};try{if(DEBUG)console[_0x32d06e(0xd6)](_0x32d06e(0x12c));hasChanges=![];const _0x30b4e7=document['createElement'](_0x32d06e(0x1b8));_0x30b4e7[_0x32d06e(0x2bf)]=_0x32d06e(0x2bd),document['body']['appendChild'](_0x30b4e7);const _0x311435=document[_0x32d06e(0x312)](_0x32d06e(0x1b8));_0x311435['className']=_0x32d06e(0x26c);const _0x28b31e=document['createElement']('div');_0x28b31e['className']='prompt-preset-manager-content';const _0x982b4b=document[_0x32d06e(0x312)](_0x4b4f1a[_0x32d06e(0xee)]);_0x982b4b[_0x32d06e(0x2bf)]=_0x4b4f1a['XnDRz'],_0x982b4b[_0x32d06e(0x1c8)]=_0x4b4f1a[_0x32d06e(0x23d)],_0x982b4b[_0x32d06e(0x16b)]=()=>handleClose(_0x311435,_0x30b4e7),_0x28b31e[_0x32d06e(0x101)](_0x982b4b);const _0x456edd=document['createElement']('h2');_0x456edd['className']='prompt-preset-title',_0x456edd['textContent']=_0x4b4f1a[_0x32d06e(0x19b)],_0x28b31e[_0x32d06e(0x101)](_0x456edd);const _0x27f4c4=document['createElement']('p');_0x27f4c4['textContent']=_0x4b4f1a['HzPSn'],_0x27f4c4['style']['marginBottom']=_0x32d06e(0x2c5),_0x28b31e['appendChild'](_0x27f4c4);const _0x275e0c=document['createElement'](_0x32d06e(0x1b8));_0x275e0c[_0x32d06e(0x2bf)]='preset-loading-indicator',_0x275e0c['textContent']='正在加载配置数据...',_0x28b31e['appendChild'](_0x275e0c);const _0xfd3929=document['createElement'](_0x32d06e(0x1b8));_0xfd3929[_0x32d06e(0x2bf)]='api-config-container',_0xfd3929[_0x32d06e(0x30a)]['display']=_0x4b4f1a[_0x32d06e(0x1dd)];const _0x438c6d=document['createElement']('div');_0x438c6d[_0x32d06e(0x2bf)]=_0x4b4f1a[_0x32d06e(0x1a2)];const _0x26d932=document[_0x32d06e(0x312)]('h3');_0x26d932[_0x32d06e(0x1aa)]='百度翻译配置',_0x438c6d['appendChild'](_0x26d932);const _0x33094d=document[_0x32d06e(0x312)]('div');_0x33094d[_0x32d06e(0x2bf)]='api-config-form';const _0x1a0a92=document[_0x32d06e(0x312)]('div');_0x1a0a92[_0x32d06e(0x2bf)]='api-config-row';const _0x44f1f5=_0x4b4f1a[_0x32d06e(0x21b)](createInputGroup,'百度翻译AppID',_0x32d06e(0x1eb),'text','输入百度翻译AppID',null,null,null,_0x32d06e(0x1a9));_0x1a0a92[_0x32d06e(0x101)](_0x44f1f5);const _0x2c7052=createInputGroup('百度翻译Key','key','text',_0x32d06e(0x107),null,null,null,_0x32d06e(0x1a9));_0x1a0a92['appendChild'](_0x2c7052),_0x33094d['appendChild'](_0x1a0a92),_0x438c6d['appendChild'](_0x33094d),_0xfd3929[_0x32d06e(0x101)](_0x438c6d);const _0x387ffd=document[_0x32d06e(0x312)]('div');_0x387ffd['className']='api-config-section';const _0x348642=document['createElement']('h3');_0x348642['textContent']=_0x4b4f1a[_0x32d06e(0x206)],_0x387ffd['appendChild'](_0x348642);const _0x5e22ed=document['createElement'](_0x4b4f1a['bewCp']);_0x5e22ed['className']=_0x32d06e(0x194);const _0xbaff06=document[_0x32d06e(0x312)]('div');_0xbaff06['className']='api-config-row';const _0x3ae72b=createInputGroup('API\x20Key',_0x4b4f1a['rSrFP'],'text',_0x4b4f1a['yhDxI'],null,null,null,_0x32d06e(0x1a9));_0xbaff06[_0x32d06e(0x101)](_0x3ae72b);const _0x4d04a8=createInputGroup('API\x20Base\x20URL',_0x32d06e(0x24a),'text','输入API\x20Base\x20URL',null,null,null,_0x32d06e(0x1a9));_0xbaff06[_0x32d06e(0x101)](_0x4d04a8),_0x5e22ed['appendChild'](_0xbaff06);const _0x4e09e8=document['createElement'](_0x4b4f1a[_0x32d06e(0x266)]);_0x4e09e8[_0x32d06e(0x2bf)]='api-config-row';const _0x5774c2=createInputGroup('模型','llm_model','text',_0x32d06e(0x17d),null,null,null,_0x32d06e(0x1c7));_0x4e09e8['appendChild'](_0x5774c2);const _0x1a5691=createInputGroup(_0x4b4f1a['TaMdE'],'llm_temperature','number',_0x4b4f1a['YeQKD'],'0','1',_0x4b4f1a['tVVcN'],_0x32d06e(0x1c1));_0x4e09e8['appendChild'](_0x1a5691);const _0x1447a8=_0x4b4f1a['HvuQp'](createInputGroup,_0x4b4f1a[_0x32d06e(0x283)],'llm_max_tokens',_0x4b4f1a['tDaRB'],'输入最大token数','1',_0x32d06e(0x220),'1',_0x4b4f1a[_0x32d06e(0x2b9)]);_0x4e09e8['appendChild'](_0x1447a8),_0x5e22ed[_0x32d06e(0x101)](_0x4e09e8);const _0x270b46=_0x4b4f1a['jOZGJ'](createInputGroup,'System\x20Prompt',_0x4b4f1a['VDLAH'],'textarea',_0x4b4f1a['Yjlub'],null,null,null,'full-width');_0x5e22ed['appendChild'](_0x270b46),_0x387ffd[_0x32d06e(0x101)](_0x5e22ed),_0xfd3929[_0x32d06e(0x101)](_0x387ffd),_0x28b31e['appendChild'](_0xfd3929);const _0x22fd70=document['createElement'](_0x4b4f1a[_0x32d06e(0x266)]);_0x22fd70['className']='api-config-footer';const _0x1377cb=document[_0x32d06e(0x312)](_0x32d06e(0x23b));_0x1377cb['className']='api-config-save',_0x1377cb['textContent']='保存',_0x1377cb['onclick']=()=>handleSaveConfig(_0x311435,_0x30b4e7,_0xfd3929),_0x22fd70['appendChild'](_0x1377cb),_0x28b31e['appendChild'](_0x22fd70),_0x311435['appendChild'](_0x28b31e),document['body']['appendChild'](_0x311435),_0x311435['addEventListener'](_0x4b4f1a['Uglbd'],_0x24e999=>{const _0x23c712=_0x32d06e;_0x4b4f1a[_0x23c712(0x1f9)](_0x24e999['target'],_0x311435)&&handleClose(_0x311435,_0x30b4e7);});try{const _0x3f9a72=await loadConfig();await new Promise(_0x261cfb=>setTimeout(_0x261cfb,0x64)),await displayConfig(_0xfd3929,_0x3f9a72);const _0x44418d=_0xfd3929['querySelectorAll']('input,\x20textarea');_0x44418d['forEach'](_0x1d1e43=>{const _0x380b62=_0x32d06e;_0x1d1e43[_0x380b62(0x2ae)]('change',trackChanges);}),_0x275e0c['style']['display']=_0x4b4f1a['GEyRt'],_0xfd3929[_0x32d06e(0x30a)]['display']=_0x32d06e(0x24b);if(DEBUG)console[_0x32d06e(0xd6)]('配置数据加载完成');}catch(_0x4f39df){_0x275e0c['textContent']='加载失败:\x20'+_0x4f39df[_0x32d06e(0x31f)],_0x275e0c[_0x32d06e(0x30a)][_0x32d06e(0x278)]=_0x4b4f1a['fYOTt'],console['error'](_0x4b4f1a['bTqzt'],_0x4f39df);}}catch(_0x2e40aa){console['error']('创建API配置对话框时出错:',_0x2e40aa),showCustomDialog({'title':'错误','content':'创建API配置对话框时出错:\x20'+_0x2e40aa[_0x32d06e(0x31f)],'confirmText':'确定','showCancel':![]});}}function createInputGroup(_0x10e3ef,_0xb7e77e,_0x3d152d,_0x248038,_0x28262f,_0x4a89c7,_0x5a6bac,_0x1080ed=''){const _0x8def5=_0x5c3cdc,_0x29cfb2={'RBZsf':function(_0x343b6e,_0x2a7ab0){return _0x343b6e===_0x2a7ab0;},'gMcID':'textarea','EXDkX':'number'},_0x5b5dd6=document['createElement']('div');_0x5b5dd6['className']=_0x8def5(0x295)+_0x1080ed;const _0x6f11d1=document[_0x8def5(0x312)](_0x8def5(0x152));_0x6f11d1['textContent']=_0x10e3ef,_0x6f11d1[_0x8def5(0x29a)]=_0xb7e77e,_0x5b5dd6['appendChild'](_0x6f11d1);let _0x160a6b;return _0x29cfb2['RBZsf'](_0x3d152d,_0x29cfb2['gMcID'])?(_0x160a6b=document['createElement']('textarea'),_0x160a6b['rows']=0x4):(_0x160a6b=document[_0x8def5(0x312)]('input'),_0x160a6b[_0x8def5(0x2f0)]=_0x3d152d,_0x3d152d===_0x29cfb2[_0x8def5(0x1d8)]&&(_0x160a6b['min']=_0x28262f,_0x160a6b[_0x8def5(0x179)]=_0x4a89c7,_0x160a6b['step']=_0x5a6bac)),_0x160a6b['id']=_0xb7e77e,_0x160a6b['name']=_0xb7e77e,_0x160a6b['className']=_0x3d152d==='textarea'?'api-config-textarea':_0x8def5(0x25a),_0x160a6b['placeholder']=_0x248038,_0x5b5dd6['appendChild'](_0x160a6b),_0x5b5dd6;}async function loadConfig(){const _0x3848b6=_0x5c3cdc,_0x422949={'CpPCF':function(_0x4c77b8,_0x2d9b21){return _0x4c77b8(_0x2d9b21);},'UAxAe':'加载配置失败:'};try{const _0x2cd895=await _0x422949['CpPCF'](fetch,'/prompt_widget/load_config');if(!_0x2cd895['ok'])throw new Error(_0x3848b6(0x1e1)+_0x2cd895[_0x3848b6(0x139)]+'\x20'+_0x2cd895['statusText']);const _0x2e5f7f=await _0x2cd895['json']();return _0x2e5f7f;}catch(_0x42ea59){console['error'](_0x422949['UAxAe'],_0x42ea59);throw _0x42ea59;}}async function displayConfig(_0x261338,_0x2e4ee0){const _0x16c087=_0x5c3cdc,_0x177da7={'fIPEd':'显示配置数据时出错:'};try{if(_0x2e4ee0['prompt_translate']){const _0x40a57f=_0x261338['querySelector'](_0x16c087(0x1bd)),_0x14ee9a=_0x261338[_0x16c087(0x1b2)](_0x16c087(0x2b2));if(_0x40a57f)_0x40a57f[_0x16c087(0xeb)]=_0x2e4ee0['prompt_translate']['appid']||'';if(_0x14ee9a)_0x14ee9a['value']=_0x2e4ee0[_0x16c087(0x1fb)]['key']||'';}if(_0x2e4ee0['llm_expand']){const _0x408ba6={'llm_api_key':_0x2e4ee0[_0x16c087(0x2ce)]['api_key']||'','llm_api_base':_0x2e4ee0['llm_expand']['api_base']||'https://api.openai.com/v1','llm_model':_0x2e4ee0[_0x16c087(0x2ce)][_0x16c087(0x2cf)]||_0x16c087(0x2b1),'llm_temperature':_0x2e4ee0['llm_expand']['temperature']||0.7,'llm_max_tokens':_0x2e4ee0['llm_expand']['max_tokens']||0x3e8,'llm_system_prompt':_0x2e4ee0['llm_expand']['system_prompt']||''};Object['entries'](_0x408ba6)['forEach'](([_0x59ca18,_0x1b8f49])=>{const _0x5e5d62=_0x16c087,_0x36af3c=_0x261338['querySelector']('#'+_0x59ca18);_0x36af3c?_0x36af3c['value']=_0x1b8f49:console['warn']('找不到ID为\x20'+_0x59ca18+_0x5e5d62(0x136));});}}catch(_0xd5a036){console[_0x16c087(0x20e)](_0x177da7['fIPEd'],_0xd5a036);throw _0xd5a036;}}async function handleSaveConfig(_0x4a4ce6,_0x40b340,_0x27d6e9){const _0x19b8c1=_0x5c3cdc,_0x2d6f74={'qMfPY':'#appid','iFlfI':'#key','ywjrp':'#llm_temperature','UWJbS':function(_0x8c22ac,_0x4ba65f){return _0x8c22ac(_0x4ba65f);},'cNOPE':'保存失败'};try{const _0x86ef04={'prompt_translate':{'appid':_0x27d6e9[_0x19b8c1(0x1b2)](_0x2d6f74[_0x19b8c1(0x288)])['value'],'key':_0x27d6e9[_0x19b8c1(0x1b2)](_0x2d6f74[_0x19b8c1(0x165)])[_0x19b8c1(0xeb)]},'llm_expand':{'api_key':_0x27d6e9['querySelector']('#llm_api_key')['value'],'api_base':_0x27d6e9['querySelector']('#llm_api_base')['value'],'model':_0x27d6e9[_0x19b8c1(0x1b2)]('#llm_model')['value'],'temperature':parseFloat(_0x27d6e9['querySelector'](_0x2d6f74[_0x19b8c1(0x14b)])[_0x19b8c1(0xeb)]),'max_tokens':_0x2d6f74['UWJbS'](parseInt,_0x27d6e9['querySelector']('#llm_max_tokens')['value']),'system_prompt':_0x27d6e9['querySelector']('#llm_system_prompt')[_0x19b8c1(0xeb)]}},_0x44758c=await fetch('/prompt_widget/save_config',{'method':'POST','headers':{'Content-Type':'application/json'},'body':JSON['stringify'](_0x86ef04)}),_0x4380ff=await _0x44758c['json']();if(!_0x44758c['ok'])throw new Error(_0x4380ff['message']||_0x19b8c1(0x155)+_0x44758c['status']+'\x20'+_0x44758c['statusText']);if(_0x4380ff[_0x19b8c1(0x139)]==='success')await TranslateManager['reloadConfig'](),showSuccessToast('保存成功！配置已更新'),hasChanges=![],document['body']['removeChild'](_0x4a4ce6),document['body']['removeChild'](_0x40b340);else throw new Error(_0x4380ff['message']||_0x19b8c1(0xe7));}catch(_0x3cb84e){console['error']('保存配置失败:',_0x3cb84e),showCustomDialog({'title':_0x2d6f74['cNOPE'],'content':_0x3cb84e['message'],'confirmText':'确定'});}}function movePresetToTop(_0x579fa3,_0x474c45,_0x4b1cfe){const _0x2c3529=_0x5c3cdc;try{if(_0x579fa3===0x0)return![];const _0x435920=Array[_0x2c3529(0x17c)](_0x474c45['getElementsByTagName']('tr'))[_0x2c3529(0x326)](0x0,-0x1),_0x52af07=_0x435920[_0x579fa3];if(!_0x52af07)return![];const _0x11d3a0=_0x4b1cfe[_0x2c3529(0x327)](_0x579fa3,0x1)[0x0];return _0x4b1cfe['unshift'](_0x11d3a0),_0x474c45['insertBefore'](_0x52af07,_0x474c45['firstChild']),updatePresetRows(_0x474c45,_0x4b1cfe),trackChanges(),!![];}catch(_0x112568){return console[_0x2c3529(0x20e)]('移动预设到顶部时出错:',_0x112568),![];}}const moveTopButtonStyle=document[_0x5c3cdc(0x312)]('style');moveTopButtonStyle['textContent']='\x0a\x20\x20\x20\x20.move-top-button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-image:\x20url(\x27'+import.meta['url'][_0x5c3cdc(0x25e)]('prompt_widget.js',_0x5c3cdc(0x270))+_0x5c3cdc(0x265),document['head']['appendChild'](moveTopButtonStyle);
+
+import { app } from "../../../scripts/app.js";
+import { $el } from "../../../scripts/ui.js";
+import { api } from "../../../scripts/api.js";
+
+const EXTENSION_NAME = "ComfyUI.PromptWidget";
+
+const EXTENSION_VERSION = "1.0.2";
+
+
+let DEBUG = false;
+const FEATURES = {
+    enabled: true,
+    history: true,
+    preset: true,
+    expand: true,
+    translate: true,
+
+    areAllFeaturesDisabled() {
+        return !this.history && !this.preset && !this.expand && !this.translate;
+    },
+
+
+    updateEnabledState() {
+        const allDisabled = this.areAllFeaturesDisabled();
+        if (allDisabled && this.enabled) {
+
+            this.enabled = false;
+
+            const enabledSetting = app.ui.settings.getSettingValue("PromptWidget.Features.Enabled");
+            if (enabledSetting) {
+                app.ui.settings.setSettingValue("PromptWidget.Features.Enabled", false);
+            }
+
+            TranslateManager.cleanup();
+            logger.log("所有功能已禁用，自动关闭小部件总开关");
+        }
+    }
+};
+
+
+
+const THROTTLE = {
+
+    minInterval: 1000,
+    lastRequestTime: {},
+    lastRequestText: {},
+
+
+    shouldThrottle(nodeId, text) {
+        const now = Date.now();
+        const lastTime = this.lastRequestTime[nodeId] || 0;
+        const lastText = this.lastRequestText[nodeId] || '';
+
+
+        if (text === lastText && now - lastTime < this.minInterval) {
+            logger.warn(`节点 ${nodeId} 请求过于频繁，已自动节流`);
+            return true;
+        }
+
+
+        this.lastRequestTime[nodeId] = now;
+        this.lastRequestText[nodeId] = text;
+        return false;
+    }
+};
+
+
+
+
+const logger = {
+    printedMessages: new Set(),
+
+
+    log: (...args) => {
+        if (!FEATURES.enabled) return;
+        const message = args.join(' ');
+        if (DEBUG && !logger.printedMessages.has(message)) {
+            console.log("[PromptWidget]", ...args);
+            logger.printedMessages.add(message);
+        }
+    },
+
+
+    warn: (...args) => {
+        if (!FEATURES.enabled) return;
+        console.warn("[PromptWidget]", ...args);
+    },
+
+
+    error: (...args) => {
+        if (!FEATURES.enabled) return;
+        console.error("[PromptWidget]", ...args);
+    },
+
+
+    info: (...args) => {
+        if (!FEATURES.enabled) return;
+        if (DEBUG) {
+            console.info("[PromptWidget]", ...args);
+        }
+    }
+};
+
+
+function debounce(func, wait = 100) {
+    let timeout;
+    return function(...args) {
+        const context = this;
+        clearTimeout(timeout);
+        timeout = setTimeout(() => func.apply(context, args), wait);
+    };
+}
+
+
+
+const DOMUtils = {
+
+    domCache: new Map(),
+
+
+    getCachedElement(selector, parent = document) {
+        const cacheKey = `${parent === document ? 'doc' : parent.id || 'custom'}_${selector}`;
+        if (!this.domCache.has(cacheKey)) {
+            this.domCache.set(cacheKey, parent.querySelector(selector));
+        }
+        return this.domCache.get(cacheKey);
+    },
+
+
+    getCachedElements(selector, parent = document) {
+        const cacheKey = `${parent === document ? 'doc' : parent.id || 'custom'}_all_${selector}`;
+        if (!this.domCache.has(cacheKey)) {
+            this.domCache.set(cacheKey, Array.from(parent.querySelectorAll(selector)));
+        }
+        return this.domCache.get(cacheKey);
+    },
+
+
+    clearCache() {
+        this.domCache.clear();
+    },
+
+
+    removeElement(element) {
+        try {
+            if (element && element.parentNode) {
+                element.parentNode.removeChild(element);
+                return true;
+            }
+            return false;
+        } catch (error) {
+            console.error("移除元素时出错:", error);
+        return false;
+        }
+    },
+
+
+    removeElementsBySelector(selector, filterFn = null) {
+        try {
+            const elements = document.querySelectorAll(selector);
+            if (elements.length === 0) return 0;
+
+            let removed = 0;
+            elements.forEach(element => {
+                if (!filterFn || filterFn(element)) {
+                    if (this.removeElement(element)) {
+                        removed++;
+                    }
+                }
+            });
+
+            return removed;
+        } catch (error) {
+            logger.error(`移除选择器 ${selector} 匹配的元素时出错:`, error);
+            return 0;
+        }
+    },
+
+
+    removeElementsBySelectors(selectors, filterFn = null) {
+        if (!selectors || !Array.isArray(selectors)) return 0;
+
+        let totalRemoved = 0;
+        selectors.forEach(selector => {
+            totalRemoved += this.removeElementsBySelector(selector, filterFn);
+        });
+
+        return totalRemoved;
+    },
+
+
+    batchCleanup(selectors = [], clearCacheAfter = true) {
+        let totalRemoved = 0;
+
+        selectors.forEach(selector => {
+            const removed = this.removeElementsBySelector(selector);
+            totalRemoved += removed;
+        });
+
+
+        if (clearCacheAfter) {
+            this.clearCache();
+        }
+
+        return totalRemoved;
+    }
+};
+
+
+function addStylesheet() {
+
+    if (document.getElementById("clip-translate-styles")) {
+        return;
+    }
+
+
+    const link = document.createElement("link");
+    link.id = "clip-translate-styles";
+    link.rel = "stylesheet";
+    link.type = "text/css";
+
+
+    const scriptPath = import.meta.url;
+    const cssPath = scriptPath.replace('prompt_widget.js', 'style.css');
+    link.href = cssPath;
+
+
+    document.head.appendChild(link);
+
+    return link;
+}
+
+
+const TranslateManager = {
+    instances: new Map(),
+    history: new Map(),
+    activeHistoryPopup: null,
+    activePresetPopup: null,
+    translationCache: new Map(),
+    presets: null,
+
+
+    socket: null,
+    socketInitialized: false,
+
+
+    statusTips: null,
+
+
+
+
+    setupWebSocket() {
+        if (this.socketInitialized) return;
+
+        try {
+
+            api.addEventListener("prompt_translate_update", (data) => {
+                this.handleTranslationUpdate(data);
+            });
+
+
+            api.addEventListener("prompt_widget_config_update", (data) => {
+                this.handleConfigUpdate(data);
+            });
+
+            this.socketInitialized = true;
+            logger.info("WebSocket监听已初始化");
+        } catch (error) {
+            logger.error("WebSocket初始化失败:", error);
+        }
+    },
+
+
+    handleTranslationUpdate(data) {
+        try {
+            logger.info("收到翻译更新:", data);
+
+            const { node_id, status, translated_text, original_text, message, progress, operation_type, operation_desc, translate_direction } = data;
+            if (!node_id) return;
+
+
+            const instance = this.getInstance(node_id);
+            if (!instance) {
+                logger.warn(`无法找到节点 ${node_id} 的实例`);
+                return;
+            }
+
+
+            const statusElement = instance.buttons?.translate || instance.text_element;
+
+
+            if (status === "translating" && progress) {
+                const { current, total } = progress;
+                if (instance.text_element) {
+
+                    this.showStatusTip(statusElement, 'loading', `翻译中 ${current}/${total}...`);
+                }
+                return;
+            }
+
+
+            if (status === "error" && message) {
+                logger.error(`翻译错误: ${message}`);
+                if (instance.text_element) {
+                    this.showStatusTip(statusElement, 'error', message);
+                }
+
+
+                if (instance.buttons?.translate) {
+                    instance.buttons.translate.classList.remove('widget_button_loading');
+                }
+                return;
+            }
+
+
+            if (status === "success" && translated_text && original_text) {
+
+            this.translationCache.set(original_text, translated_text);
+                this.translationCache.set(translated_text, original_text);
+
+                if (instance.text_element) {
+
+                this.updateTextValue(instance.text_element, translated_text);
+
+
+                this.recordHistory(node_id, translated_text);
+
+
+                this.showEffect(instance.text_element, 'prompt_text_updated');
+
+
+                    if (operation_type === "restore") {
+
+                        this.showStatusTip(statusElement, 'restore', operation_desc || "已恢复");
+
+
+                        if (operation_desc === "恢复原文") {
+                            instance.originalText = translated_text;
+                        }
+
+                    } else if (translate_direction) {
+
+                        instance.originalText = original_text;
+
+
+                        const cacheMsg = data.from_cache ? '(缓存)' : '';
+                        this.showStatusTip(statusElement, 'success', `${translate_direction}完成${cacheMsg}`);
+                    } else {
+
+                        instance.originalText = original_text;
+
+
+                        this.showStatusTip(statusElement, 'success', '翻译完成');
+                    }
+                }
+
+
+                if (instance.buttons?.translate) {
+                    instance.buttons.translate.classList.remove('widget_button_loading');
+                }
+            }
+        } catch (error) {
+            logger.error("处理翻译更新事件失败:", error);
+        }
+    },
+
+
+    handleConfigUpdate(data) {
+        try {
+            logger.info("收到配置更新:", data);
+
+            if (data.status === "success") {
+
+                if (data.config) {
+
+                    this.reloadConfig();
+
+
+                    showSuccessToast("配置已更新");
+                }
+            } else {
+
+            }
+        } catch (error) {
+            logger.error("处理配置更新事件失败:", error);
+        }
+    },
+
+
+
+
+    async callBaiduTranslateAPI(text, nodeId, from_lang = "auto", to_lang = "auto") {
+        try {
+            if (!text || !text.trim()) {
+                return { status: "error", message: "翻译文本为空" };
+            }
+
+
+            if (THROTTLE.shouldThrottle(nodeId, text)) {
+                return { status: "error", message: "请求过于频繁，请稍后再试" };
+            }
+
+
+            if (DEBUG) {
+                logger.info(`发送文本到API，长度: ${text.length}字符, 节点ID: ${nodeId}`);
+            }
+
+
+            const response = await api.fetchApi("/prompt_translate", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    text: text,
+                    node_id: nodeId,
+                    from_lang: from_lang,
+                    to_lang: to_lang
+                })
+            });
+
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+
+            const result = await response.json();
+            if (DEBUG) {
+
+                const resultPreview = JSON.stringify(result).substring(0, 100);
+                logger.info(`API响应: ${resultPreview}...`);
+            }
+            return result;
+        } catch (error) {
+            logger.error("调用百度翻译API失败:", error);
+            return { status: "error", message: `翻译请求失败: ${error.message}` };
+        }
+    },
+
+
+    isNodeExists(nodeId) {
+        if (!nodeId) return false;
+
+        try {
+
+            if (!app.graph) return false;
+
+
+            if (app.graph.getNodeById) {
+                return !!app.graph.getNodeById(nodeId);
+            }
+
+
+            if (app.graph._nodes_by_id && app.graph._nodes_by_id[nodeId] !== undefined) {
+                return true;
+            }
+
+            if (app.graph.nodes) {
+                return app.graph.nodes.some(node => node.id === nodeId);
+            }
+
+            return false;
+        } catch (error) {
+            logger.error(`检查节点 ${nodeId} 存在性时出错:`, error);
+            return false;
+        }
+    },
+
+
+
+
+    initOrClearHistory(nodeId, shouldClear = false) {
+        if (!nodeId) return false;
+
+        try {
+            const key = String(nodeId);
+
+            if (!this.history.has(key) || shouldClear) {
+                this.history.set(key, {
+                past: [],
+                future: [],
+                    current: shouldClear ? "" : this.history.get(key)?.current || ""
+            });
+        }
+
+        if (shouldClear) {
+
+                this.closeHistoryPopup();
+            this.updateButtonStates(nodeId);
+            logger.log(`已${shouldClear ? '清空' : '初始化'}节点 ${nodeId} 的历史记录`);
+        }
+
+        return true;
+        } catch (error) {
+            logger.error(`初始化或清空节点 ${nodeId} 的历史记录时出错:`, error);
+            return false;
+        }
+    },
+
+
+    recordHistory(nodeId, text) {
+        if (!nodeId) return;
+
+        try {
+        this.initOrClearHistory(nodeId);
+            const key = String(nodeId);
+            const history = this.history.get(key);
+
+            if (!history) return;
+
+
+        if (history.current === text) return;
+
+
+            if (history.past.includes(text)) {
+
+                return;
+            }
+
+
+        history.past.push(history.current);
+        history.current = text;
+        history.future = [];
+
+
+        if (history.past.length > 20) {
+            history.past.shift();
+        }
+
+
+        this.updateButtonStates(nodeId);
+        } catch (error) {
+            logger.error(`记录节点 ${nodeId} 的历史时出错:`, error);
+        }
+    },
+
+
+    clearHistory(nodeId) {
+        return this.initOrClearHistory(nodeId, true);
+    },
+
+
+    updateButtonStates(nodeId) {
+        if (!nodeId || !FEATURES.enabled || !FEATURES.history) return;
+
+        try {
+
+            const key = String(nodeId);
+
+
+            const instance = this.getInstance(key);
+        if (!instance?.buttons) return;
+
+
+            const history = this.history.get(key);
+        if (!history) return;
+
+
+            const hasPast = history.past && history.past.length > 0;
+            const hasFuture = history.future && history.future.length > 0;
+
+
+        const buttonStates = {
+                undo: hasPast,
+                redo: hasFuture,
+                history: true
+        };
+
+
+        Object.entries(buttonStates).forEach(([key, enabled]) => {
+            const button = instance.buttons[key];
+            if (button) {
+                    if (enabled) {
+                        button.classList.remove('widget_button_disabled');
+                        button.disabled = false;
+                    } else {
+                        button.classList.add('widget_button_disabled');
+                        button.disabled = true;
+                    }
+                }
+            });
+        } catch (error) {
+            logger.error(`更新节点 ${nodeId} 的按钮状态时出错:`, error);
+        }
+    },
+
+
+
+
+    addHoverEffect(element, config = {}) {
+        const defaultConfig = {
+            scale: 1.1,
+            opacity: 1,
+            color: null,
+            backgroundColor: null
+        };
+
+        const finalConfig = { ...defaultConfig, ...config };
+
+        element.addEventListener("mouseenter", () => {
+            element.style.opacity = String(finalConfig.opacity);
+            element.style.transform = `scale(${finalConfig.scale})`;
+            if (finalConfig.color) element.style.color = finalConfig.color;
+            if (finalConfig.backgroundColor) element.style.backgroundColor = finalConfig.backgroundColor;
+        });
+
+        element.addEventListener("mouseleave", () => {
+            element.style.opacity = "0.8";
+            element.style.transform = "scale(1)";
+            if (finalConfig.color) element.style.color = "rgba(255, 255, 255, 0.6)";
+            if (finalConfig.backgroundColor) element.style.backgroundColor = "transparent";
+        });
+    },
+
+
+    safeRemoveElement(element) {
+        return DOMUtils.removeElement(element);
+    },
+
+
+    cleanup(nodeId = null) {
+
+        if (nodeId !== null && !FEATURES.enabled) return;
+
+
+        this.closeHistoryPopup();
+        this.closePresetPopup();
+
+
+        if (nodeId) {
+            const instance = this.getInstance(nodeId);
+            if (instance) {
+
+                if (instance.text_element && instance.blurHandler) {
+                    instance.text_element.removeEventListener("blur", instance.blurHandler);
+                }
+
+
+                this.safeRemoveElement(instance.element);
+
+
+                this.instances.delete(nodeId);
+            }
+            return;
+        }
+
+
+        for (const [instanceNodeId, instance] of this.instances) {
+
+            if (instance.text_element && instance.blurHandler) {
+                instance.text_element.removeEventListener("blur", instance.blurHandler);
+            }
+
+
+            this.safeRemoveElement(instance.element);
+        }
+
+
+        this.instances.clear();
+    },
+
+
+    addInstance(nodeId, widget) {
+
+        if (!FEATURES.enabled) return;
+
+        if (!nodeId || !widget) return;
+
+        try {
+            const key = String(nodeId);
+
+
+            if (this.instances.has(key)) {
+            this.cleanup(nodeId);
+        }
+
+            this.instances.set(key, widget);
+
+
+        if (widget.text_element) {
+            this.initOrClearHistory(nodeId);
+            this.recordHistory(nodeId, widget.text_element.value || "");
+        }
+        } catch (error) {
+
+        }
+    },
+
+
+    hasInstance(nodeId) {
+        if (nodeId == null) return false;
+        try {
+            return this.instances.has(String(nodeId));
+        } catch (error) {
+            logger.error(`检查节点 ${nodeId} 的实例是否存在时出错:`, error);
+            return false;
+        }
+    },
+
+
+    isEmptyInstance(nodeId) {
+        if (nodeId == null) return true;
+
+        try {
+            const key = String(nodeId);
+
+            if (!this.instances.has(key)) return true;
+
+
+            const history = this.history.get(key);
+            if (!history) return true;
+
+
+            const isEmpty = (!history.current || history.current === '') &&
+                           (!history.past || history.past.length === 0) &&
+                           (!history.future || history.future.length === 0);
+
+            return isEmpty;
+        } catch (error) {
+            logger.error(`检查节点 ${nodeId} 的实例是否为空时出错:`, error);
+            return true;
+        }
+    },
+
+
+    cleanupEmptyInstances(trigger = 'timer') {
+
+        if (!FEATURES.enabled) return 0;
+
+        let cleanedCount = 0;
+        try {
+
+            const nodeIds = Array.from(this.instances.keys());
+
+
+            for (const nodeId of nodeIds) {
+
+                const nodeExists = this.isNodeExists(nodeId);
+
+
+                const history = this.history.get(nodeId);
+                const hasHistory = history && (
+                    (history.current && history.current.trim() !== '') ||
+                    (history.past && history.past.length > 0) ||
+                    (history.future && history.future.length > 0)
+                );
+
+
+                if (!nodeExists && !hasHistory) {
+                    this.cleanup(nodeId);
+                    cleanedCount++;
+                    continue;
+                }
+
+
+                if (nodeExists && this.isEmptyInstance(nodeId) && !hasHistory) {
+                    this.cleanup(nodeId);
+                    cleanedCount++;
+                }
+            }
+
+
+            const remainingCount = this.instances.size;
+
+
+            if (trigger === 'timer') {
+                logger.info(`[定时清理] 已清理 ${cleanedCount} 个空实例（不包含有历史记录的实例），当前剩余 ${remainingCount} 个实例`);
+            } else if (trigger === 'nodeDelete') {
+                logger.info(`[节点删除] 已清理 ${cleanedCount} 个空实例（不包含有历史记录的实例），当前剩余 ${remainingCount} 个实例`);
+            }
+
+            return cleanedCount;
+        } catch (error) {
+            logger.error(`清理空实例时出错: ${error.message}`);
+            return cleanedCount;
+        }
+    },
+
+
+    getInstance(nodeId) {
+        if (nodeId == null) return null;
+
+        try {
+
+            const key = String(nodeId);
+            return this.instances.get(key);
+        } catch (error) {
+            logger.error(`获取节点 ${nodeId} 的实例时出错:`, error);
+            return null;
+        }
+    },
+
+
+
+
+    executeAction(nodeId, actionType, ...args) {
+        if (!nodeId || !actionType) {
+            logger.warn(`执行操作失败：参数不完整`);
+            return false;
+        }
+
+        try {
+            const key = String(nodeId);
+            const instance = this.getInstance(key);
+
+        if (!instance) {
+            logger.warn(`找不到节点 ${nodeId} 的实例`);
+            return false;
+        }
+
+        logger.log(`执行节点 ${nodeId} 的 ${actionType} 操作`);
+
+
+            if (actionType !== 'history') {
+                this.closeHistoryPopup();
+            }
+
+
+        switch (actionType) {
+            case 'history':
+
+                    return this.showHistory(key, ...args);
+            case 'undo':
+
+                    return this.undoOperation(key, ...args);
+            case 'redo':
+
+                    return this.redoOperation(key, ...args);
+            case 'translate':
+
+                    return this.translateText(key, ...args);
+                case 'expand':
+
+                    return this.expandText(key, ...args);
+            default:
+                logger.warn(`未知操作类型: ${actionType}`);
+                    return false;
+            }
+        } catch (error) {
+            logger.error(`执行节点 ${nodeId} 的 ${actionType} 操作时出错:`, error);
+                return false;
+        }
+    },
+
+
+    showEffect(element, effectClass, duration = 300) {
+        if (!element) return;
+        element.classList.add(effectClass);
+        setTimeout(() => element.classList.remove(effectClass), duration);
+    },
+
+
+    updateTextValue(element, newText) {
+        if (!element) return;
+
+
+        element.value = newText;
+
+
+        const event = new Event('input', { bubbles: true });
+        element.dispatchEvent(event);
+
+
+        this.showEffect(element, 'prompt_text_updated');
+    },
+
+
+    createHistoryPopup(nodeId, history, anchorElement) {
+
+        this.closeHistoryPopup();
+
+        if (!history || !history.past || history.past.length === 0) {
+            logger.warn("没有历史记录可显示");
+            return null;
+        }
+
+        const historyArray = [...history.past].reverse();
+        if (history.current) {
+            historyArray.unshift(history.current);
+        }
+
+
+        const popup = document.createElement("div");
+        popup.className = "prompt_history_popup";
+        popup.setAttribute("data-node-id", nodeId);
+
+
+        const titleBar = document.createElement("div");
+        titleBar.className = "prompt_history_title_bar";
+
+
+        const title = document.createElement("div");
+        title.className = "prompt_history_title";
+        title.textContent = "历史记录";
+
+
+        const actions = document.createElement("div");
+        actions.className = "prompt_history_actions";
+
+
+        const clearCurrentBtn = document.createElement("button");
+        clearCurrentBtn.className = "prompt_history_clear";
+        clearCurrentBtn.textContent = "清除当前";
+
+
+        clearCurrentBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+
+            this.clearHistory(nodeId);
+
+
+
+            this.closeHistoryPopup();
+        });
+
+
+        const clearBtn = document.createElement("button");
+        clearBtn.className = "prompt_history_clear";
+        clearBtn.textContent = "清空全部";
+
+
+        clearBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+
+            Array.from(this.history.keys()).forEach(id => {
+                this.clearHistory(id);
+            });
+
+
+
+            this.closeHistoryPopup();
+        });
+
+
+        const closeBtn = document.createElement("button");
+        closeBtn.className = "prompt_history_close";
+        closeBtn.textContent = "×";
+
+        closeBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            this.closeHistoryPopup();
+        });
+
+
+        actions.appendChild(clearCurrentBtn);
+        actions.appendChild(clearBtn);
+        actions.appendChild(closeBtn);
+        titleBar.appendChild(title);
+        titleBar.appendChild(actions);
+        popup.appendChild(titleBar);
+
+
+        const listContainer = document.createElement("div");
+        listContainer.className = "prompt_history_list";
+
+
+        historyArray.forEach((text, index) => {
+            if (!text.trim()) return;
+
+            const isCurrent = (index === 0 && text === history.current);
+
+            const item = document.createElement("div");
+            item.className = `prompt_history_item${isCurrent ? " current" : ""}`;
+            item.setAttribute("data-index", index);
+
+
+            const itemContent = document.createElement("div");
+            itemContent.style.cssText = `
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            `;
+
+            const textSpan = document.createElement("span");
+            textSpan.textContent = text.length > 40 ? text.substring(0, 40) + "..." : text;
+            textSpan.title = text;
+
+            const expandBtn = document.createElement("button");
+            expandBtn.textContent = "⋯";
+            expandBtn.title = "查看完整内容";
+            expandBtn.style.cssText = `
+                background: none;
+                border: none;
+                color: rgba(255, 255, 255, 0.4);
+                font-size: 14px;
+                cursor: pointer;
+                padding: 0 4px;
+                margin-left: 4px;
+                display: ${text.length > 40 ? "block" : "none"};
+                transition: all 0.2s;
+            `;
+
+            expandBtn.addEventListener("click", (e) => {
+                e.stopPropagation();
+                this.showTextPreview(text);
+            });
+
+            itemContent.appendChild(textSpan);
+            itemContent.appendChild(expandBtn);
+            item.appendChild(itemContent);
+
+            item.addEventListener("click", (e) => {
+                e.stopPropagation();
+                this.applyHistoryItem(nodeId, text);
+                this.closeHistoryPopup();
+            });
+
+            listContainer.appendChild(item);
+        });
+
+        popup.appendChild(listContainer);
+
+
+        const rect = anchorElement.getBoundingClientRect();
+
+
+        let left = rect.left;
+        let top = rect.bottom + 5;
+
+
+        if (left + 300 > window.innerWidth) {
+            left = window.innerWidth - 310;
+        }
+
+
+        const popupHeight = 350;
+        if (top + popupHeight > window.innerHeight) {
+
+            top = rect.top - 5;
+            popup.style.transformOrigin = "bottom";
+            popup.style.top = "auto";
+            popup.style.bottom = `${window.innerHeight - top}px`;
+            popup.classList.add('popup_down');
+        } else {
+            popup.style.transformOrigin = "top";
+            popup.style.top = `${Math.max(10, top)}px`;
+            popup.style.bottom = "auto";
+            popup.classList.add('popup_up');
+        }
+
+        popup.style.left = `${Math.max(10, left)}px`;
+
+
+        document.body.appendChild(popup);
+        this.activeHistoryPopup = popup;
+
+
+        setTimeout(() => {
+            document.addEventListener("click", this.handleDocumentClick);
+        }, 10);
+
+        return popup;
+    },
+
+
+    createHistoryPopupWithAllRecords(nodeId, historyRecords, anchorElement) {
+
+        this.closeHistoryPopup();
+
+        if (!historyRecords || historyRecords.length === 0) {
+            logger.warn("没有历史记录可显示");
+            return null;
+        }
+
+
+        const popup = document.createElement("div");
+        popup.className = "prompt_history_popup";
+        popup.setAttribute("data-node-id", nodeId);
+
+
+        const titleBar = document.createElement("div");
+        titleBar.className = "prompt_history_title_bar";
+
+
+        const title = document.createElement("div");
+        title.className = "prompt_history_title";
+        title.textContent = "所有历史记录";
+
+
+        const actions = document.createElement("div");
+        actions.className = "prompt_history_actions";
+
+
+        const clearCurrentBtn = document.createElement("button");
+        clearCurrentBtn.className = "prompt_history_clear";
+        clearCurrentBtn.textContent = "清除当前";
+
+
+        clearCurrentBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+
+            this.clearHistory(nodeId);
+            this.closeHistoryPopup();
+        });
+
+
+        const clearBtn = document.createElement("button");
+        clearBtn.className = "prompt_history_clear";
+        clearBtn.textContent = "清空全部";
+
+
+        clearBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+
+            Array.from(this.history.keys()).forEach(id => {
+                this.clearHistory(id);
+            });
+
+
+            this.closeHistoryPopup();
+        });
+
+
+        const closeBtn = document.createElement("button");
+        closeBtn.className = "prompt_history_close";
+        closeBtn.textContent = "×";
+
+        closeBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            this.closeHistoryPopup();
+        });
+
+
+        actions.appendChild(clearCurrentBtn);
+        actions.appendChild(clearBtn);
+        actions.appendChild(closeBtn);
+        titleBar.appendChild(title);
+        titleBar.appendChild(actions);
+        popup.appendChild(titleBar);
+
+
+        const listContainer = document.createElement("div");
+        listContainer.className = "prompt_history_list";
+
+
+        historyRecords.forEach((record, index) => {
+            if (!record.text || !record.text.trim()) return;
+
+            const item = document.createElement("div");
+            item.className = `prompt_history_item${record.isCurrent ? " current" : ""}`;
+            item.setAttribute("data-index", index);
+            item.setAttribute("data-node-id", record.nodeId);
+
+
+            if (record.isCurrentNode) {
+                item.classList.add("current_node");
+            }
+
+
+            const itemContent = document.createElement("div");
+            itemContent.style.cssText = `
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            `;
+
+
+            const nodeIdSpan = document.createElement("span");
+
+            nodeIdSpan.className = "prompt_history_node_id";
+
+
+            if (record.isCurrentNode) {
+                nodeIdSpan.classList.add('node_color_current');
+            } else {
+
+                const shortIdNum = parseInt(record.shortId) || 0;
+                const colorIndex = shortIdNum % 10;
+                nodeIdSpan.classList.add(`node_color_${colorIndex}`);
+            }
+
+
+            let textBoxId = '';
+            if (record.nodeId.includes('_')) {
+                textBoxId = record.nodeId.split('_').slice(1).join('_');
+            }
+
+
+            nodeIdSpan.textContent = textBoxId
+                ? `#${record.shortId}: `
+                : `#${record.shortId}: `;
+
+
+            const textSpan = document.createElement("span");
+            textSpan.className = "prompt_history_text";
+            textSpan.textContent = record.text.length > 50 ? record.text.substring(0, 50) + "..." : record.text;
+            textSpan.title = record.text;
+            textSpan.style.cssText = `
+                flex: 1;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            `;
+
+
+            const textContainer = document.createElement("div");
+            textContainer.style.cssText = `
+                display: flex;
+                flex: 1;
+                overflow: hidden;
+                align-items: center;
+            `;
+            textContainer.appendChild(nodeIdSpan);
+            textContainer.appendChild(textSpan);
+
+            itemContent.appendChild(textContainer);
+            item.appendChild(itemContent);
+
+
+            item.addEventListener("click", (e) => {
+                e.stopPropagation();
+                this.applyHistoryItem(record.nodeId, record.text, nodeId);
+                this.closeHistoryPopup();
+            });
+
+            listContainer.appendChild(item);
+        });
+
+        popup.appendChild(listContainer);
+
+
+        const rect = anchorElement.getBoundingClientRect();
+
+
+        let left = rect.left;
+        let top = rect.bottom + 5;
+
+
+        if (left + 300 > window.innerWidth) {
+            left = window.innerWidth - 310;
+        }
+
+
+        const popupHeight = 350;
+        if (top + popupHeight > window.innerHeight) {
+
+            top = rect.top - 5;
+            popup.style.transformOrigin = "bottom";
+            popup.style.top = "auto";
+            popup.style.bottom = `${window.innerHeight - top}px`;
+            popup.classList.add('popup_down');
+        } else {
+            popup.style.transformOrigin = "top";
+            popup.style.top = `${Math.max(10, top)}px`;
+            popup.style.bottom = "auto";
+            popup.classList.add('popup_up');
+        }
+
+        popup.style.left = `${Math.max(10, left)}px`;
+        popup.style.width = "350px";
+
+
+        popup.addEventListener("click", (e) => {
+            e.stopPropagation();
+        });
+
+
+        const handleOutsideClick = (e) => {
+
+            if (popup && !popup.contains(e.target) && e.target !== anchorElement) {
+                this.closeHistoryPopup();
+
+                document.removeEventListener("click", handleOutsideClick);
+            }
+        };
+
+
+        setTimeout(() => {
+            document.addEventListener("click", handleOutsideClick);
+        }, 10);
+
+
+        document.body.appendChild(popup);
+        this.activeHistoryPopup = popup;
+
+        return popup;
+    },
+
+
+    handleDocumentClick: function(e) {
+        if (TranslateManager.activeHistoryPopup &&
+            !TranslateManager.activeHistoryPopup.contains(e.target) &&
+            !e.target.closest(".prompt_history_popup")) {
+            TranslateManager.closeHistoryPopup();
+        }
+    },
+
+
+    closeHistoryPopup() {
+        if (this.activeHistoryPopup) {
+            try {
+
+                const useUpAnimation = this.activeHistoryPopup.classList.contains('popup_down');
+                const closeAnimClass = useUpAnimation ? 'closing-up' : 'closing-down';
+
+
+                this.activeHistoryPopup.classList.add(closeAnimClass);
+
+
+                document.removeEventListener("click", this.handleDocumentClick);
+
+
+                setTimeout(() => {
+                    try {
+                        if (this.activeHistoryPopup && document.body.contains(this.activeHistoryPopup)) {
+                document.body.removeChild(this.activeHistoryPopup);
+                        }
+            } catch (error) {
+
+                    }
+                    this.activeHistoryPopup = null;
+                }, 200);
+            } catch (error) {
+
+                try {
+                    document.body.removeChild(this.activeHistoryPopup);
+                } catch (e) {
+
+            }
+            this.activeHistoryPopup = null;
+            document.removeEventListener("click", this.handleDocumentClick);
+            }
+        }
+    },
+
+
+    applyHistoryItem(nodeId, text, targetNodeId = null) {
+
+        const actualTargetNodeId = targetNodeId || nodeId;
+
+        const instance = this.getInstance(actualTargetNodeId);
+        if (!instance?.text_element) {
+            logger.warn(`无法应用历史记录：找不到节点 ${actualTargetNodeId} 的文本元素`);
+            return false;
+        }
+
+
+        this.updateTextValue(instance.text_element, text);
+        logger.log(`已应用历史记录(源自节点 ${nodeId})到节点 ${actualTargetNodeId}`);
+
+
+        this.recordHistory(actualTargetNodeId, text);
+
+        return true;
+    },
+
+
+    showHistory(nodeId) {
+        if (!nodeId || !FEATURES.enabled || !FEATURES.history) return false;
+
+        try {
+
+            const key = String(nodeId);
+
+
+            if (this.activePresetPopup) {
+                this.closePresetPopup();
+            }
+
+
+            if (this.activeHistoryPopup) {
+
+                this.closeHistoryPopup();
+                return true;
+            }
+
+            this.initOrClearHistory(key);
+
+
+            const instance = this.getInstance(key);
+
+        if (!instance?.element || !instance.buttons?.history) {
+            logger.warn(`无法显示历史记录：找不到节点 ${nodeId} 的元素或按钮`);
+            return false;
+        }
+
+
+        this.showEffect(instance.buttons.history, 'widget_button_active');
+
+
+            const allHistoryRecords = [];
+            for (const [instanceId, historyData] of this.history.entries()) {
+                if (historyData && ((historyData.past && historyData.past.length > 0) || historyData.current)) {
+
+                    const shortNodeId = instanceId.replace(/^node_/i, '');
+
+                    const baseNodeId = instanceId.split('_')[0];
+
+                    const currentNodeBase = key.split('_')[0];
+                    const isCurrentNode = baseNodeId === currentNodeBase;
+
+
+                    if (historyData.current) {
+                        allHistoryRecords.push({
+                            nodeId: instanceId,
+                            shortId: shortNodeId,
+                            text: historyData.current,
+                            isCurrent: true,
+                            isCurrentNode: isCurrentNode,
+                            index: historyData.past.length
+                        });
+                    }
+
+
+                    if (historyData.past && historyData.past.length > 0) {
+                        historyData.past.forEach((item, idx) => {
+                            allHistoryRecords.push({
+                                nodeId: instanceId,
+                                shortId: shortNodeId,
+                                text: item,
+                                isCurrent: false,
+                                isCurrentNode: isCurrentNode,
+                                index: idx
+                            });
+                        });
+                    }
+                }
+            }
+
+
+
+
+
+            allHistoryRecords.sort((a, b) => {
+
+                if (a.isCurrentNode !== b.isCurrentNode) {
+                    return a.isCurrentNode ? -1 : 1;
+                }
+
+
+                const aBaseNodeId = a.nodeId.split('_')[0];
+                const bBaseNodeId = b.nodeId.split('_')[0];
+
+
+                if (aBaseNodeId !== bBaseNodeId) {
+                    const aId = parseInt(aBaseNodeId.replace(/\D/g, '')) || 0;
+                    const bId = parseInt(bBaseNodeId.replace(/\D/g, '')) || 0;
+                    return aId - bId;
+                }
+
+
+                if (a.nodeId !== b.nodeId) {
+
+                    const aTextBoxId = a.nodeId.includes('_') ? a.nodeId.split('_').slice(1).join('_') : '';
+                    const bTextBoxId = b.nodeId.includes('_') ? b.nodeId.split('_').slice(1).join('_') : '';
+                    return aTextBoxId.localeCompare(bTextBoxId);
+                }
+
+
+
+                return b.index - a.index;
+            });
+
+
+            if (allHistoryRecords.length > 0) {
+                this.createHistoryPopupWithAllRecords(key, allHistoryRecords, instance.buttons.history);
+                return true;
+            } else {
+                logger.info(`没有找到任何历史记录`);
+
+
+                const historyButton = instance.buttons.history;
+                if (historyButton) {
+                    this.showStatusTip(historyButton, 'info', '当前无历史记录');
+                }
+
+                return false;
+            }
+        } catch (error) {
+            logger.error(`节点 ${nodeId} 显示历史记录失败:`, error);
+            return false;
+        }
+    },
+
+
+    showTextPreview(text) {
+
+        alert(text);
+    },
+
+
+    undoOperation(nodeId) {
+        if (!nodeId) return;
+
+        try {
+            const key = String(nodeId);
+            const history = this.history.get(key);
+
+            if (!history || !history.past.length) return;
+
+            const current = history.current;
+            history.future.push(current);
+            history.current = history.past.pop();
+
+
+        this.updateButtonStates(nodeId);
+
+
+            const instance = this.getInstance(key);
+            if (!instance?.text_element) return;
+
+
+            this.updateTextValue(instance.text_element, history.current);
+
+
+
+
+            logger.log(`已撤销节点 ${nodeId} 的操作`);
+        } catch (error) {
+            logger.error(`撤销节点 ${nodeId} 的操作时出错:`, error);
+        }
+    },
+
+
+    redoOperation(nodeId) {
+        if (!nodeId) return;
+
+        try {
+            const key = String(nodeId);
+            const history = this.history.get(key);
+
+            if (!history || !history.future.length) return;
+
+            const current = history.current;
+            history.past.push(current);
+            history.current = history.future.pop();
+
+
+        this.updateButtonStates(nodeId);
+
+
+            const instance = this.getInstance(key);
+            if (!instance?.text_element) return;
+
+
+            this.updateTextValue(instance.text_element, history.current);
+
+
+
+
+            logger.log(`已重做节点 ${nodeId} 的操作`);
+        } catch (error) {
+            logger.error(`重做节点 ${nodeId} 的操作时出错:`, error);
+        }
+    },
+
+
+    showStatusTip(textElement, status, message) {
+        try {
+
+            if (!this.statusTips) {
+                this.statusTips = new Map();
+            }
+
+
+            let tipId;
+
+
+            if (textElement.closest) {
+                const widgetBox = textElement.closest('.prompt_widget_box');
+                if (widgetBox) {
+                    tipId = widgetBox.getAttribute('data-widget-key');
+                }
+            }
+
+
+            if (!tipId) {
+                tipId = textElement.getAttribute('data-element-id');
+                if (!tipId) {
+                    tipId = 'tip_' + Date.now() + '_' + Math.floor(Math.random() * 1000);
+                    textElement.setAttribute('data-element-id', tipId);
+                }
+            }
+
+
+            const existingTip = this.statusTips.get(tipId);
+            if (existingTip) {
+
+                if (existingTip.timeoutId) clearTimeout(existingTip.timeoutId);
+                if (existingTip.removeTimeoutId) clearTimeout(existingTip.removeTimeoutId);
+                if (existingTip.shakeTimeoutId) clearTimeout(existingTip.shakeTimeoutId);
+
+
+                if (existingTip.element && existingTip.animEndListener) {
+                    existingTip.element.removeEventListener('animationend', existingTip.animEndListener);
+                    existingTip.element.removeEventListener('transitionend', existingTip.animEndListener);
+                }
+            }
+
+
+            let statusTip;
+            let isNewTip = false;
+            if (existingTip && existingTip.element && document.body.contains(existingTip.element)) {
+                statusTip = existingTip.element;
+
+                statusTip.classList.remove('success', 'error', 'loading', 'restore', 'float_out');
+
+
+                statusTip.style.animation = 'none';
+
+                void statusTip.offsetHeight;
+            } else {
+                statusTip = document.createElement("div");
+                statusTip.className = "prompt_widget_status";
+                document.body.appendChild(statusTip);
+                isNewTip = true;
+            }
+
+
+            let translateButton = null;
+            let historyButton = null;
+            let expandButton = null;
+            let presetButton = null;
+            let widgetBox = null;
+
+
+            if (textElement.tagName === 'BUTTON') {
+                if (textElement.title && textElement.title.includes('历史')) {
+                    historyButton = textElement;
+                } else if (textElement.title && textElement.title.includes('扩写')) {
+                    expandButton = textElement;
+                } else if (textElement.title && textElement.title.includes('预设')) {
+                    presetButton = textElement;
+                }
+            }
+
+
+            if (textElement.tagName === 'TEXTAREA' ||
+                textElement.tagName === 'INPUT' ||
+                textElement.classList.contains('comfy-multiline-input')) {
+
+                const nodeId = textElement.getAttribute('data-node-id') ||
+                               textElement.closest('[data-node-id]')?.getAttribute('data-node-id');
+
+                if (nodeId) {
+                    const instance = this.getInstance(nodeId);
+                    if (instance && instance.buttons) {
+                        translateButton = instance.buttons.translate;
+                        historyButton = instance.buttons.history;
+                        expandButton = instance.buttons.expand;
+                        presetButton = instance.buttons.preset;
+                        widgetBox = instance.element;
+                    }
+                }
+            }
+
+
+            let referenceElement = textElement;
+            if (status === 'success' && translateButton) {
+                referenceElement = translateButton;
+            } else if (status === 'loading' && translateButton) {
+                referenceElement = translateButton;
+            } else if (status === 'error' && translateButton) {
+                referenceElement = translateButton;
+            } else if (status === 'restore' && historyButton) {
+                referenceElement = historyButton;
+            } else if (historyButton && status.includes('history')) {
+                referenceElement = historyButton;
+            } else if (expandButton && status.includes('expand')) {
+                referenceElement = expandButton;
+            } else if (presetButton && status.includes('preset')) {
+                referenceElement = presetButton;
+            }
+
+
+            statusTip.textContent = message;
+            statusTip.setAttribute('data-tip-id', tipId);
+            if (widgetBox) {
+                statusTip.setAttribute('data-widget-key', widgetBox.getAttribute('data-widget-key'));
+                statusTip.setAttribute('data-node-id', widgetBox.getAttribute('data-node-id'));
+                statusTip.setAttribute('data-input-id', widgetBox.getAttribute('data-input-id'));
+            }
+
+
+            const rect = referenceElement.getBoundingClientRect();
+
+
+            const tipLeft = rect.left + (rect.width / 2);
+            const tipTop = rect.top;
+
+
+            statusTip.style.position = 'absolute';
+            statusTip.style.top = `${tipTop}px`;
+            statusTip.style.left = `${tipLeft}px`;
+            statusTip.style.transform = 'translate(-50%, -100%) translateY(-8px)';
+            statusTip.style.whiteSpace = 'nowrap';
+
+
+            statusTip.classList.add(status);
+            statusTip.classList.add('status-tip-animation');
+
+
+            statusTip.style.animation = 'tipScaleIn 0.2s  cubic-bezier(0.48,1.87,0.66,0.86) forwards';
+
+
+
+            const tipInfo = {
+                element: statusTip,
+
+
+                timeoutId: setTimeout(() => {
+                    if (statusTip && document.body.contains(statusTip)) {
+
+
+                        statusTip.style.animation = 'clipFloatUp 0.5s ease-out forwards';
+
+
+                        const animEndListener = () => {
+                            if (statusTip && document.body.contains(statusTip)) {
+                                document.body.removeChild(statusTip);
+                                this.statusTips.delete(tipId);
+                            }
+                        };
+
+
+                        statusTip.addEventListener('animationend', animEndListener, { once: true });
+
+
+                        if (this.statusTips.has(tipId)) {
+                            this.statusTips.get(tipId).animEndListener = animEndListener;
+                        }
+
+
+                        if (this.statusTips.has(tipId)) {
+                           this.statusTips.get(tipId).removeTimeoutId = setTimeout(() => {
+                                if (statusTip && document.body.contains(statusTip)) {
+                                    logger.warn("Status tip animationEnd fallback triggered for", tipId);
+                                    document.body.removeChild(statusTip);
+                                    this.statusTips.delete(tipId);
+                                }
+                            }, 1000);
+                        }
+                    }
+                }, 1000)
+            };
+
+            this.statusTips.set(tipId, tipInfo);
+            return statusTip;
+        } catch (error) {
+            console.error('显示状态提示时出错:', error);
+            return null;
+        }
+    },
+
+
+    removeStatusTip(textElement) {
+        try {
+            if (!this.statusTips) return;
+
+
+            if (textElement) {
+                const tipId = textElement.getAttribute('data-element-id');
+                if (tipId) {
+                    const tipInfo = this.statusTips.get(tipId);
+                    if (tipInfo && tipInfo.element && document.body.contains(tipInfo.element)) {
+
+                        if (tipInfo.timeoutId) clearTimeout(tipInfo.timeoutId);
+                        if (tipInfo.removeTimeoutId) clearTimeout(tipInfo.removeTimeoutId);
+
+
+                        tipInfo.element.style.animation = "clipFloatUp 0.5s ease-in-out forwards";
+
+
+                        setTimeout(() => {
+                            if (tipInfo.element && document.body.contains(tipInfo.element)) {
+                                document.body.removeChild(tipInfo.element);
+                                this.statusTips.delete(tipId);
+                            }
+                        }, 800);
+                    }
+                }
+            } else {
+
+                for (const [tipId, tipInfo] of this.statusTips.entries()) {
+                    if (tipInfo.element && document.body.contains(tipInfo.element)) {
+
+                        if (tipInfo.timeoutId) clearTimeout(tipInfo.timeoutId);
+                        if (tipInfo.removeTimeoutId) clearTimeout(tipInfo.removeTimeoutId);
+
+
+                        tipInfo.element.style.animation = "clipFloatUp 0.5s ease-in-out forwards";
+
+
+                        (function(id, info) {
+                            setTimeout(() => {
+                                if (info.element && document.body.contains(info.element)) {
+                                    document.body.removeChild(info.element);
+                                }
+                            }, 800);
+                        })(tipId, tipInfo);
+                    }
+                }
+
+
+                setTimeout(() => {
+                    this.statusTips.clear();
+                }, 800);
+            }
+        } catch (error) {
+            console.error('移除状态提示时出错:', error);
+        }
+    },
+
+
+    disableAllButtons(nodeId, activeButtonKey = null) {
+        const instance = this.getInstance(nodeId);
+        if (!instance?.buttons) return;
+
+        Object.keys(instance.buttons).forEach(key => {
+            const button = instance.buttons[key];
+            if (button) {
+
+                if (key === activeButtonKey) {
+                    button.classList.add('widget_button_active');
+
+                } else {
+                    button.classList.add('widget_button_disabled');
+                    button.disabled = true;
+                }
+            }
+        });
+    },
+
+
+    restoreButtonStates(nodeId, activeButtonKey = null) {
+        const instance = this.getInstance(nodeId);
+        if (!instance?.buttons) return;
+
+
+        Object.keys(instance.buttons).forEach(key => {
+            const button = instance.buttons[key];
+            if (button) {
+                button.classList.remove('widget_button_disabled');
+                button.classList.remove('widget_button_active');
+                button.disabled = false;
+            }
+        });
+
+
+        this.updateButtonStates(nodeId);
+    },
+
+
+    translateText(nodeId) {
+
+        if (!FEATURES.translate) {
+            logger.warn("翻译功能已禁用");
+            return false;
+        }
+
+        const instance = this.getInstance(nodeId);
+        if (!instance?.text_element) {
+            logger.error("未找到节点的文本元素:", nodeId);
+            return false;
+        }
+
+        const textElement = instance.text_element;
+
+        const translateButton = instance.buttons?.translate;
+
+
+        const statusElement = translateButton || textElement;
+
+
+        const currentText = textElement.value || "";
+        if (!currentText.trim()) {
+            logger.info("没有要翻译的文本");
+            this.showStatusTip(statusElement, 'error', '没有要翻译的文本');
+            return false;
+        }
+
+
+        if (instance.isTranslating || instance.isExpanding) {
+            const message = instance.isTranslating ? '翻译处理中，请稍候...' : '扩写处理中，请稍候...';
+            logger.warn(message);
+            this.showStatusTip(statusElement, 'loading', message);
+            return false;
+        }
+
+
+        if (instance.recordHistory) {
+            instance.recordHistory(currentText);
+        }
+
+
+        if (this.translationCache.has(currentText)) {
+            logger.info("在缓存中找到该文本，进行恢复操作");
+            const cachedText = this.translationCache.get(currentText);
+
+
+            this.updateTextValue(textElement, cachedText);
+
+
+            this.recordHistory(nodeId, cachedText);
+
+
+            let statusMessage = "已恢复";
+
+
+
+            if (instance.originalText && currentText === instance.originalText) {
+
+                statusMessage = "译文";
+            } else {
+
+                statusMessage = "原文";
+
+                instance.originalText = cachedText;
+            }
+
+
+            this.showStatusTip(statusElement, 'restore', statusMessage);
+
+            return true;
+        }
+
+
+        let from_lang = "auto";
+        let to_lang = "auto";
+
+
+        const chinese_chars = (currentText.match(/[\u4e00-\u9fff]/g) || []).length;
+        const is_chinese = chinese_chars > currentText.length * 0.2;
+        if (is_chinese) {
+            to_lang = "en";
+        } else {
+            to_lang = "zh";
+        }
+
+        if (DEBUG) {
+            logger.info(`检测到语言: ${is_chinese ? '中文' : '非中文'}, 目标语言: ${to_lang}`);
+        }
+
+
+        const originalBorder = textElement.style.border;
+        textElement.style.border = "1px solid rgba(100, 100, 255, 0.5)";
+
+
+        instance.isTranslating = true;
+
+
+        if (translateButton) {
+            translateButton.classList.add('widget_button_loading');
+        }
+
+
+        this.disableAllButtons(nodeId, 'translate');
+
+
+        this.showStatusTip(statusElement, 'loading', '正在翻译...');
+
+
+        if (DEBUG) {
+            logger.info("发送翻译请求到后端...");
+        }
+
+        this.callBaiduTranslateAPI(currentText, nodeId, from_lang, to_lang).then(result => {
+
+            instance.isTranslating = false;
+
+
+            textElement.style.border = originalBorder;
+
+
+            if (translateButton) {
+                translateButton.classList.remove('widget_button_loading');
+                translateButton.classList.remove('widget_button_active');
+            }
+
+
+            this.restoreButtonStates(nodeId);
+
+            if (DEBUG) {
+                logger.info("收到翻译响应:", result);
+            }
+
+            if (result.status === "success" && result.text) {
+                const translatedText = result.text;
+                if (DEBUG) {
+                    logger.info(`翻译成功: ${translatedText.substring(0, 30)}${translatedText.length > 30 ? '...' : ''}`);
+                }
+
+
+                this.updateTextValue(instance.text_element, translatedText);
+
+
+                this.translationCache.set(currentText, translatedText);
+                this.translationCache.set(translatedText, currentText);
+
+
+                this.recordHistory(nodeId, translatedText);
+
+
+                instance.originalText = currentText;
+
+
+                this.showStatusTip(statusElement, 'success', result.from_cache ? '使用缓存翻译' : '翻译完成');
+            } else {
+                this.showStatusTip(statusElement, 'error', result.message || "翻译失败");
+            }
+        }).catch(error => {
+
+            instance.isTranslating = false;
+
+
+            textElement.style.border = originalBorder;
+
+
+            if (translateButton) {
+                translateButton.classList.remove('widget_button_loading');
+                translateButton.classList.remove('widget_button_active');
+            }
+
+
+            this.restoreButtonStates(nodeId);
+
+            logger.error("翻译请求失败:", error);
+            this.showStatusTip(statusElement, 'error', `请求失败: ${error.message}`);
+        });
+
+        return true;
+    },
+
+
+    async expandText(nodeId) {
+        const instance = this.getInstance(nodeId);
+        if (!instance?.text_element) {
+            logger.error("未找到节点的文本元素:", nodeId);
+            return false;
+        }
+
+        const textElement = instance.text_element;
+
+        const expandButton = instance.buttons?.expand;
+
+
+        const statusElement = expandButton || textElement;
+
+
+        const currentText = textElement.value || "";
+        if (!currentText.trim()) {
+            logger.info("没有要扩写的文本");
+            this.showStatusTip(statusElement, 'error', '没有要扩写的文本');
+            return false;
+        }
+
+
+        if (instance.isExpanding || instance.isTranslating) {
+            const message = instance.isExpanding ? '扩写中，请稍候...' : '翻译中，请稍候...';
+            logger.warn(message);
+            this.showStatusTip(statusElement, 'loading', message);
+            return false;
+        }
+
+
+        if (instance.recordHistory) {
+            instance.recordHistory(currentText);
+        }
+
+
+        const originalBorder = textElement.style.border;
+        textElement.style.border = "1px solid rgba(100, 255, 100, 0.5)";
+
+
+        instance.isExpanding = true;
+
+
+        if (expandButton) {
+            expandButton.classList.add('widget_button_loading');
+        }
+
+
+        this.disableAllButtons(nodeId, 'expand');
+
+
+        this.showStatusTip(statusElement, 'loading', '正在扩写...');
+
+        try {
+
+            const response = await fetch('/expand_text', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    text: currentText,
+                    node_id: nodeId
+                })
+            });
+
+
+            instance.isExpanding = false;
+
+
+            textElement.style.border = originalBorder;
+
+
+            if (expandButton) {
+                expandButton.classList.remove('widget_button_loading');
+                expandButton.classList.remove('widget_button_active');
+            }
+
+
+            this.restoreButtonStates(nodeId);
+
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+
+            const result = await response.json();
+
+            if (result.success && result.expanded_text) {
+                const expandedText = result.expanded_text;
+
+
+                this.updateTextValue(instance.text_element, expandedText);
+
+
+                this.forceRecordHistory(nodeId, expandedText);
+
+
+                this.showStatusTip(statusElement, 'success', '扩写完成');
+
+                return true;
+            } else {
+
+                throw new Error(result.error || '扩写失败');
+            }
+        } catch (error) {
+
+            instance.isExpanding = false;
+
+
+            textElement.style.border = originalBorder;
+
+
+            if (expandButton) {
+                expandButton.classList.remove('widget_button_loading');
+                expandButton.classList.remove('widget_button_active');
+            }
+
+
+            this.restoreButtonStates(nodeId);
+
+
+            const errorMsg = error.message || '无法连接LLM服务';
+            this.showStatusTip(statusElement, 'error', `扩写失败: ${errorMsg}`);
+            logger.error(`扩写文本时出错:`, error);
+            return false;
+        }
+    },
+
+
+    forceRecordHistory(nodeId, text) {
+        if (!nodeId) return;
+
+        try {
+            this.initOrClearHistory(nodeId);
+            const key = String(nodeId);
+            const history = this.history.get(key);
+
+            if (!history) return;
+
+
+            history.past.push(history.current);
+            history.current = text;
+            history.future = [];
+
+
+            if (history.past.length > 20) {
+                history.past.shift();
+            }
+
+
+            this.updateButtonStates(nodeId);
+        } catch (error) {
+            logger.error(`强制记录节点 ${nodeId} 的历史时出错:`, error);
+        }
+    },
+
+
+    async loadPresets() {
+        try {
+            if (this.presets) return this.presets;
+
+
+            const presetUrl = '/prompt_widget/presets';
+
+            const response = await fetch(presetUrl);
+            if (!response.ok) {
+                throw new Error(`Failed to load presets: ${response.status} ${response.statusText}`);
+            }
+
+            const data = await response.json();
+            this.presets = data.presets || [];
+            logger.log(`成功加载 ${this.presets.length} 个预设`);
+            return this.presets;
+        } catch (error) {
+            logger.error("加载预设失败:", error);
+            this.presets = [];
+            return [];
+        }
+    },
+
+
+    async showPresets(nodeId) {
+        if (!nodeId || !FEATURES.enabled || !FEATURES.preset) return false;
+
+        try {
+
+            const key = String(nodeId);
+
+
+            if (this.activeHistoryPopup) {
+                this.closeHistoryPopup();
+            }
+
+
+            if (this.activePresetPopup) {
+
+                this.closePresetPopup();
+                return true;
+            }
+
+
+            const instance = this.getInstance(key);
+
+            if (!instance?.element || !instance.buttons?.preset) {
+                logger.warn(`无法显示预设：找不到节点 ${nodeId} 的元素或按钮`);
+                return false;
+            }
+
+
+            this.showEffect(instance.buttons.preset, 'widget_button_active');
+
+
+            await this.loadPresets();
+
+            if (!this.presets || this.presets.length === 0) {
+                logger.info(`没有找到任何预设`);
+                this.showStatusTip(instance.buttons.preset, 'info', "没有可用的预设");
+                return false;
+            }
+
+
+            this.createPresetPopup(key, this.presets, instance.buttons.preset);
+            return true;
+        } catch (error) {
+            logger.error(`节点 ${nodeId} 显示预设失败:`, error);
+            return false;
+        }
+    },
+
+
+    createPresetPopup(nodeId, presets, anchorElement) {
+
+        this.closePresetPopup();
+
+        if (!presets || presets.length === 0) {
+            logger.warn("没有预设可显示");
+            return null;
+        }
+
+
+        const popup = document.createElement("div");
+        popup.className = "prompt_history_popup";
+        popup.setAttribute("data-node-id", nodeId);
+
+
+        const titleBar = document.createElement("div");
+        titleBar.className = "prompt_history_title_bar";
+
+
+        const title = document.createElement("div");
+        title.className = "prompt_history_title";
+        title.textContent = "提示词预设";
+
+
+        const actions = document.createElement("div");
+        actions.className = "prompt_history_actions";
+
+
+        const closeBtn = document.createElement("button");
+        closeBtn.className = "prompt_history_close";
+        closeBtn.textContent = "×";
+
+        closeBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            this.closePresetPopup();
+        });
+
+
+        actions.appendChild(closeBtn);
+        titleBar.appendChild(title);
+        titleBar.appendChild(actions);
+        popup.appendChild(titleBar);
+
+
+        const listContainer = document.createElement("div");
+        listContainer.className = "prompt_history_list";
+
+
+        presets.forEach((preset, index) => {
+            if (!preset.content || !preset.content.trim()) return;
+
+            const item = document.createElement("div");
+            item.className = "prompt_history_item";
+            item.setAttribute("data-index", index);
+
+
+            const instance = TranslateManager.getInstance(nodeId);
+            const currentText = instance?.text_element?.value || "";
+            const isPresetApplied = currentText.includes(preset.content);
+
+
+            const typeSpan = document.createElement("span");
+            typeSpan.className = "prompt_preset_type";
+            typeSpan.textContent = preset.type || "未分类";
+
+
+            if (preset.color_type) {
+
+                typeSpan.classList.add(`preset_type_${preset.color_type}`);
+            } else {
+
+                switch (preset.type) {
+                    case "质量指示词":
+                        typeSpan.classList.add("preset_type_quality");
+                        break;
+                    case "风格提示词":
+                        typeSpan.classList.add("preset_type_style");
+                        break;
+                    case "负面提示词":
+                        typeSpan.classList.add("preset_type_negative");
+                        break;
+                    default:
+                        typeSpan.classList.add("preset_type_default");
+                }
+            }
+
+
+            const contentSpan = document.createElement("span");
+            contentSpan.className = "prompt_preset_content";
+            contentSpan.textContent = preset.content.length > 50 ? preset.content.substring(0, 50) + "..." : preset.content;
+            contentSpan.title = preset.content;
+
+
+            const noteSpan = document.createElement("span");
+            noteSpan.className = "prompt_preset_note";
+            noteSpan.textContent = preset.note || "";
+            noteSpan.title = preset.note;
+
+
+            const cleanButtonContainer = document.createElement("span");
+            cleanButtonContainer.className = "preset-clean-button-container";
+            cleanButtonContainer.style.display = isPresetApplied ? "inline-flex" : "none";
+
+
+            const cleanButton = document.createElement("button");
+            cleanButton.className = "preset-action-button erase-button";
+            cleanButton.title = "从输入框中清除此预设";
+
+
+            cleanButton.addEventListener("click", (e) => {
+                e.stopPropagation();
+                TranslateManager.cleanPresetFromInput(nodeId, preset.content);
+                cleanButtonContainer.style.display = "none";
+            });
+
+            cleanButtonContainer.appendChild(cleanButton);
+
+
+            const itemContent = document.createElement("div");
+            itemContent.style.cssText = `
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+            `;
+
+            const topRow = document.createElement("div");
+            topRow.style.cssText = `
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-bottom: 4px;
+            `;
+            topRow.appendChild(typeSpan);
+            topRow.appendChild(noteSpan);
+
+            const contentRow = document.createElement("div");
+            contentRow.style.cssText = `
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            `;
+            contentRow.appendChild(contentSpan);
+            contentRow.appendChild(cleanButtonContainer);
+
+            itemContent.appendChild(topRow);
+            itemContent.appendChild(contentRow);
+            item.appendChild(itemContent);
+
+
+            item.addEventListener("click", (e) => {
+                e.stopPropagation();
+                if (!isPresetApplied) {
+                    TranslateManager.applyPreset(nodeId, preset.content);
+                    cleanButtonContainer.style.display = "inline-flex";
+                }
+            });
+
+
+            if (isPresetApplied) {
+                item.classList.add("preset-applied");
+                item.style.backgroundColor = "rgba(100, 255, 100, 0.1)";
+            }
+
+            listContainer.appendChild(item);
+        });
+
+        popup.appendChild(listContainer);
+
+
+        const rect = anchorElement.getBoundingClientRect();
+
+
+        let left = rect.left;
+        let top = rect.bottom + 5;
+
+
+        if (left + 300 > window.innerWidth) {
+            left = window.innerWidth - 310;
+        }
+
+
+        const popupHeight = 350;
+        if (top + popupHeight > window.innerHeight) {
+
+            top = rect.top - 5;
+            popup.style.transformOrigin = "bottom";
+            popup.style.top = "auto";
+            popup.style.bottom = `${window.innerHeight - top}px`;
+            popup.classList.add('popup_down');
+        } else {
+            popup.style.transformOrigin = "top";
+            popup.style.top = `${Math.max(10, top)}px`;
+            popup.style.bottom = "auto";
+            popup.classList.add('popup_up');
+        }
+
+        popup.style.left = `${Math.max(10, left)}px`;
+
+
+        document.body.appendChild(popup);
+
+
+        this.activePresetPopup = popup;
+
+
+        this.handleDocumentClick = (e) => {
+
+            if (popup && !popup.contains(e.target) && e.target !== anchorElement) {
+                this.closePresetPopup();
+            }
+        };
+
+
+        setTimeout(() => {
+            document.addEventListener("click", this.handleDocumentClick);
+        }, 10);
+
+        return popup;
+    },
+
+
+    closePresetPopup() {
+        try {
+            if (this.activePresetPopup) {
+
+                const useUpAnimation = this.activePresetPopup.classList.contains('popup_down');
+                const closeAnimClass = useUpAnimation ? 'closing-up' : 'closing-down';
+
+
+                this.activePresetPopup.classList.add(closeAnimClass);
+
+
+            if (this.handleDocumentClick) {
+                document.removeEventListener("click", this.handleDocumentClick);
+                this.handleDocumentClick = null;
+            }
+
+
+                setTimeout(() => {
+                    try {
+                        if (this.activePresetPopup && document.body.contains(this.activePresetPopup)) {
+                    document.body.removeChild(this.activePresetPopup);
+                        }
+                    } catch (error) {
+
+                }
+                this.activePresetPopup = null;
+                }, 200);
+            }
+        } catch (error) {
+
+            try {
+                if (this.activePresetPopup && document.body.contains(this.activePresetPopup)) {
+                    document.body.removeChild(this.activePresetPopup);
+                }
+            } catch (e) {
+
+            }
+            this.activePresetPopup = null;
+            if (this.handleDocumentClick) {
+                document.removeEventListener("click", this.handleDocumentClick);
+                this.handleDocumentClick = null;
+            }
+        }
+    },
+
+
+    applyPreset(nodeId, presetContent) {
+        if (!nodeId || !FEATURES.enabled || !FEATURES.preset) return false;
+
+        const instance = this.getInstance(nodeId);
+        if (!instance?.text_element) {
+            logger.error("未找到节点的文本元素:", nodeId);
+            return false;
+        }
+
+        const textElement = instance.text_element;
+
+
+        const currentText = textElement.value || "";
+        const cursorPos = textElement.selectionStart;
+        const hasCursor = cursorPos !== undefined && cursorPos !== null;
+
+
+        if (currentText.includes(presetContent)) {
+            this.showStatusTip(instance.buttons.preset, 'info', '预设内容已存在');
+            return false;
+        }
+
+
+        const cleanPreset = presetContent.trim().replace(/^,+|,+$/g, '');
+
+        let newText;
+        if (!currentText) {
+
+            newText = cleanPreset;
+        } else if (hasCursor) {
+
+            const beforeCursor = currentText.substring(0, cursorPos).trim();
+            const afterCursor = currentText.substring(cursorPos).trim();
+
+
+            let prefix = beforeCursor;
+            if (prefix && !prefix.endsWith(',')) {
+                prefix += ', ';
+            } else if (prefix && prefix.endsWith(',')) {
+                prefix += ' ';
+            }
+
+
+            let suffix = afterCursor;
+            if (suffix && !suffix.startsWith(',')) {
+                suffix = ', ' + suffix;
+            } else if (suffix && suffix.startsWith(',')) {
+                suffix = ' ' + suffix;
+            }
+
+
+            newText = prefix + cleanPreset + (suffix ? suffix : '');
+
+
+            const newCursorPos = prefix.length + cleanPreset.length;
+
+
+            setTimeout(() => {
+                textElement.selectionStart = newCursorPos;
+                textElement.selectionEnd = newCursorPos;
+            }, 0);
+        } else {
+
+            const cleanCurrentText = currentText.trim().replace(/,+$/g, '');
+            newText = cleanCurrentText ? `${cleanCurrentText}, ${cleanPreset}` : cleanPreset;
+        }
+
+
+        newText = newText.trim()
+            .replace(/\s*,\s*/g, ', ')
+            .replace(/,+/g, ',')
+            .replace(/^,+|,+$/g, '')
+            .trim();
+
+
+        this.updateTextValue(textElement, newText);
+
+
+        this.recordHistory(nodeId, newText);
+
+
+        this.showStatusTip(instance.buttons.preset, 'success', '已应用预设');
+
+
+        this.updatePresetItemState(nodeId, presetContent, true);
+
+        return true;
+    },
+
+
+    updatePresetItemState(nodeId, presetContent, isApplied) {
+        try {
+
+            const presetItems = document.querySelectorAll('.prompt_history_item');
+            presetItems.forEach(item => {
+                const contentSpan = item.querySelector('.prompt_preset_content');
+                if (contentSpan && (contentSpan.textContent === presetContent ||
+                    contentSpan.title === presetContent)) {
+
+
+                    if (isApplied) {
+                        item.classList.add('preset-applied');
+                        item.style.backgroundColor = "rgba(100, 255, 100, 0.1)";
+                    } else {
+                        item.classList.remove('preset-applied');
+                        item.style.backgroundColor = "";
+                    }
+
+
+                    const cleanButton = item.querySelector('.preset-clean-button-container');
+                    if (cleanButton) {
+                        cleanButton.style.display = isApplied ? "inline-flex" : "none";
+                    }
+                }
+            });
+        } catch (error) {
+            logger.error("更新预设项状态时出错:", error);
+        }
+    },
+
+
+    executeAction(nodeId, actionType, ...args) {
+        if (!nodeId || !actionType) {
+            logger.error(`执行操作失败: ${nodeId}, ${actionType}`);
+            return false;
+        }
+
+        try {
+
+            const key = String(nodeId);
+
+
+            if (!this.hasInstance(key)) {
+                logger.error(`找不到节点实例: ${nodeId}`);
+                return false;
+            }
+
+
+            switch (actionType.toLowerCase()) {
+                case 'history':
+                    return this.showHistory(key);
+                case 'undo':
+                    return this.undoOperation(key);
+                case 'redo':
+                    return this.redoOperation(key);
+                case 'translate':
+                    return this.translateText(key);
+                case 'expand':
+                    return this.expandText(key);
+                case 'preset':
+                    return this.showPresets(key);
+                default:
+                    logger.error(`未知的操作类型: ${actionType}`);
+                    return false;
+            }
+        } catch (error) {
+            logger.error(`执行操作 ${actionType} 出错:`, error);
+            return false;
+        }
+    },
+
+
+    async reloadConfig() {
+        try {
+
+            const config = await loadConfig();
+
+            this.presets = null;
+            await this.loadPresets();
+
+            logger.info("配置已重新加载");
+            return true;
+        } catch (error) {
+            logger.error("重新加载配置失败:", error);
+            return false;
+        }
+    },
+
+
+    cleanPresetFromInput(nodeId, presetContent) {
+        if (!nodeId || !presetContent) return false;
+
+        const instance = this.getInstance(nodeId);
+        if (!instance?.text_element) {
+            logger.error("未找到节点的文本元素:", nodeId);
+            return false;
+        }
+
+        const textElement = instance.text_element;
+        const currentText = textElement.value || "";
+
+
+        if (!currentText.includes(presetContent)) {
+            this.showStatusTip(instance.buttons.preset, 'info', '未找到预设内容');
+            return false;
+        }
+
+
+        let newText = currentText;
+
+
+        newText = newText.replace(`, ${presetContent}`, '');
+
+
+        newText = newText.replace(`${presetContent}, `, '');
+
+
+        newText = newText.replace(presetContent, '');
+
+
+        newText = newText.replace(/,\s*,/g, ',')
+                        .replace(/^\s*,\s*/, '')
+                        .replace(/\s*,\s*$/, '')
+                        .trim();
+
+
+        this.updateTextValue(textElement, newText);
+
+
+        this.recordHistory(nodeId, newText);
+
+
+        this.showStatusTip(instance.buttons.preset, 'success', '已清除预设');
+
+
+        this.updatePresetItemState(nodeId, presetContent, false);
+
+        return true;
+    },
+};
+
+
+
+
+function getPosition(ctx, w_width, y, n_height, wInput, node) {
+    if (!ctx || !wInput?.inputEl) {
+        logger.warn("无法计算位置: 上下文或输入元素缺失");
+        return null;
+    }
+
+    try {
+
+        if (node && node.flags && node.flags.collapsed) {
+            return { display: "none" };
+        }
+
+        const rect = ctx.canvas.getBoundingClientRect();
+        const transform = new DOMMatrix()
+            .scaleSelf(rect.width / ctx.canvas.width, rect.height / ctx.canvas.height)
+            .multiplySelf(ctx.getTransform());
+        const scale = new DOMMatrix().scaleSelf(transform.a, transform.d);
+
+        const textInputRect = wInput.inputEl.getBoundingClientRect();
+
+        if (!textInputRect.width || !textInputRect.height) {
+            logger.warn("文本输入框尺寸无效", textInputRect);
+            return { display: "none" };
+        }
+
+        return {
+            transformOrigin: "0 0",
+            transform: scale,
+            left: `${textInputRect.right - (120 * scale.a) - 16}px`,
+            top: `${textInputRect.bottom + 4}px`,
+            zIndex: +(wInput.inputEl.style.zIndex || 20) + 1,
+            display: "flex"
+        };
+    } catch (error) {
+        logger.error("计算位置时出错:", error);
+        return { display: "none" };
+    }
+}
+
+
+function createIconButton(iconPath, title, onClick, widgetKey) {
+
+    const baseUrl = import.meta.url.replace('prompt_widget.js', 'assets/');
+    const fullIconPath = new URL(iconPath, baseUrl).href;
+
+
+    let nodeId, inputId;
+    if (widgetKey && widgetKey.includes('_')) {
+        [nodeId, inputId] = widgetKey.split('_', 2);
+    } else {
+        nodeId = widgetKey;
+        inputId = 'default';
+    }
+
+
+    const safeWidgetKey = widgetKey.replace(/\s+/g, '-');
+
+    const button = $el("button.widget_icon_button", {
+        onclick: (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+
+            button.classList.add("widget_button_active");
+            setTimeout(() => button.classList.remove("widget_button_active"), 200);
+
+            onClick?.(widgetKey);
+        },
+        style: {
+            backgroundImage: `url('${fullIconPath}')`
+        },
+        title,
+        dataset: {
+            nodeId: nodeId.replace(/\s+/g, '-'),
+            inputId: inputId.replace(/\s+/g, '-'),
+            widgetKey: safeWidgetKey
+        }
+    });
+
+
+    button.setAttribute('data-node-id', nodeId.replace(/\s+/g, '-'));
+    button.setAttribute('data-input-id', inputId.replace(/\s+/g, '-'));
+    button.setAttribute('data-widget-key', safeWidgetKey);
+    button.classList.add('translate-button-' + safeWidgetKey);
+
+
+    TranslateManager.addHoverEffect(button);
+
+    return button;
+}
+
+
+function createDivider() {
+    return $el("div.widget_divider");
+}
+
+
+function TranslateWidget(node, inputName, inputData, widgetsText) {
+
+    if (!FEATURES.enabled) {
+        return null;
+    }
+
+    const nodeId = node.id;
+    const inputId = inputName || "default";
+    const widgetKey = `${nodeId}_${inputId}`;
+
+    logger.log(`尝试创建翻译小部件: ${widgetKey}`);
+
+
+    if (TranslateManager.hasInstance(widgetKey)) {
+        logger.log(`输入控件已有翻译小部件实例，先清理`);
+        TranslateManager.cleanup(widgetKey);
+    }
+
+    const widget = {
+        type: "translate_widget",
+        name: inputId,
+        nodeId: nodeId,
+        inputId: inputId,
+        widgetKey: widgetKey,
+        buttons: {},
+        text_element: widgetsText?.inputEl,
+        node: node,
+        isTranslating: false
+    };
+
+
+    if (widget.text_element) {
+        let previousValue = widget.text_element.value || "";
+
+
+        const shouldRecordHistory = (currentValue) => {
+
+            if (!FEATURES.history) {
+                return false;
+            }
+
+
+            if (!currentValue.trim()) return false;
+
+
+            const history = TranslateManager.history.get(widgetKey);
+            if (history && (
+                history.current === currentValue ||
+                history.past.includes(currentValue)
+            )) {
+                return false;
+            }
+
+            return true;
+        };
+
+
+        const recordHistory = (currentValue) => {
+            if (shouldRecordHistory(currentValue)) {
+                TranslateManager.recordHistory(widgetKey, currentValue);
+                previousValue = currentValue;
+
+                TranslateManager.updateButtonStates(widgetKey);
+            }
+        };
+
+
+        const blurHandler = () => {
+            if (widget.text_element) {
+                const currentValue = widget.text_element.value;
+                recordHistory(currentValue);
+            }
+        };
+
+
+        widget.text_element.addEventListener("blur", blurHandler);
+
+        widget.recordHistory = recordHistory;
+
+        widget.blurHandler = blurHandler;
+    }
+
+    const buttonActions = {
+        history: (widgetKey) => TranslateManager.executeAction(widgetKey, 'history'),
+        undo: (widgetKey) => TranslateManager.executeAction(widgetKey, 'undo'),
+        redo: (widgetKey) => TranslateManager.executeAction(widgetKey, 'redo'),
+        expand: (widgetKey) => TranslateManager.executeAction(widgetKey, 'expand'),
+        translate: (widgetKey) => TranslateManager.executeAction(widgetKey, 'translate'),
+        preset: (widgetKey) => TranslateManager.executeAction(widgetKey, 'preset')
+    };
+
+
+    const buttons = {
+        history: ['icon-history.svg', '历史记录'],
+        undo: ['icon-undo.svg', '撤销'],
+        redo: ['icon-redo.svg', '重做'],
+        preset: ['icon-preset.svg', '提示词预设'],
+        expand: ['icon-expand.svg', '扩写文本'],
+        translate: ['icon-translate.svg', '翻译文本']
+    };
+
+
+    const buttonElements = [];
+
+
+    if (FEATURES.history) {
+        ['history', 'undo', 'redo'].forEach(key => {
+            try {
+                const [icon, title] = buttons[key];
+            widget.buttons[key] = createIconButton(
+                    icon,
+                title,
+                buttonActions[key],
+                widgetKey
+            );
+                buttonElements.push(widget.buttons[key]);
+        } catch (error) {
+            logger.error(`创建按钮 ${key} 失败:`, error);
+            }
+        });
+
+        buttonElements.push(createDivider());
+    }
+
+
+    if (FEATURES.preset) {
+        try {
+            const [icon, title] = buttons.preset;
+            widget.buttons.preset = createIconButton(
+                icon,
+                title,
+                buttonActions.preset,
+                widgetKey
+            );
+            buttonElements.push(widget.buttons.preset);
+        } catch (error) {
+            logger.error("创建预设按钮失败:", error);
+        }
+    }
+
+
+    if (FEATURES.expand) {
+        try {
+            const [icon, title] = buttons.expand;
+            widget.buttons.expand = createIconButton(
+                icon,
+                title,
+                buttonActions.expand,
+                widgetKey
+            );
+            buttonElements.push(widget.buttons.expand);
+        } catch (error) {
+            logger.error("创建扩写按钮失败:", error);
+        }
+    }
+
+
+    if (FEATURES.translate) {
+        try {
+            const [icon, title] = buttons.translate;
+            widget.buttons.translate = createIconButton(
+                icon,
+                title,
+                buttonActions.translate,
+                widgetKey
+            );
+            buttonElements.push(widget.buttons.translate);
+        } catch (error) {
+            logger.error("创建翻译按钮失败:", error);
+        }
+    }
+
+
+    if (buttonElements.length === 0) {
+        return null;
+    }
+
+
+    widget.element = $el("div.prompt_widget_box",
+        [
+            ...buttonElements,
+            $el("div.prompt_translate_info", [
+                $el("span", {
+                    textContent: "",
+                    style: { fontSize: "0.8em" }
+                })
+            ])
+        ]
+    );
+
+
+    widget.element.setAttribute('data-node-id', nodeId);
+    widget.element.setAttribute('data-input-id', inputId);
+    widget.element.setAttribute('data-widget-key', widgetKey);
+
+
+    widget.element.addEventListener('click', (e) => {
+        e.stopPropagation();
+    });
+
+
+    widget.updatePosition = function() {
+
+    };
+
+
+    if (widget.text_element) {
+        TranslateManager.initOrClearHistory(widgetKey);
+        TranslateManager.recordHistory(widgetKey, widget.text_element.value || "");
+    }
+
+
+    TranslateManager.addInstance(widgetKey, widget);
+
+
+    TranslateManager.updateButtonStates(widgetKey);
+
+    logger.log(`成功创建节点 ${nodeId} 输入 ${inputId} 的翻译小部件实例`);
+    return widget;
+}
+
+
+const PromptWidget = {
+    name: EXTENSION_NAME,
+    nodes: {},
+    styleElement: null,
+    userActive: false,
+    activityTimeout: null,
+    _resetUserActivityHandler: null,
+
+
+    initialize() {
+        logger.info("初始化PromptWidget扩展");
+
+
+        this.styleElement = addStylesheet();
+
+
+        TranslateManager.setupWebSocket();
+
+
+        let cleanupInterval = 60;
+        try {
+            const savedInterval = app.ui.settings.getSettingValue("PromptWidget.Cleanup.Interval");
+            if (typeof savedInterval === 'number' && savedInterval >= 10 && savedInterval <= 120) {
+                cleanupInterval = savedInterval;
+            }
+        } catch (error) {
+            logger.warn("读取清理间隔设置失败，使用默认值60秒");
+        }
+
+
+        this.startPeriodicCleanup(cleanupInterval * 1000);
+
+
+        this.initUserActivityTracking();
+    },
+
+
+    initUserActivityTracking() {
+
+        this.userActive = false;
+
+
+        const resetUserActivity = () => {
+            this.userActive = true;
+            clearTimeout(this.activityTimeout);
+            this.activityTimeout = setTimeout(() => {
+                this.userActive = false;
+            }, 5000);
+        };
+
+
+        this._resetUserActivityHandler = resetUserActivity;
+
+
+        document.addEventListener('mousemove', this._resetUserActivityHandler, { passive: true });
+        document.addEventListener('keydown', this._resetUserActivityHandler, { passive: true });
+        document.addEventListener('click', this._resetUserActivityHandler, { passive: true });
+
+
+        resetUserActivity();
+
+        logger.log("用户活跃度检测已初始化");
+    },
+
+
+    startPeriodicCleanup(interval = 60000) {
+
+        if (!FEATURES.enabled) return;
+
+
+        const validInterval = Math.max(10000, Math.min(120000, interval));
+
+
+        if (this.cleanupInterval) {
+            clearInterval(this.cleanupInterval);
+        }
+
+
+        this.cleanupInterval = setInterval(() => {
+
+            if (!FEATURES.enabled) {
+                this.stopPeriodicCleanup();
+                return;
+            }
+
+
+            if (!this.userActive && TranslateManager.instances.size > 0) {
+            TranslateManager.cleanupEmptyInstances('timer');
+            }
+        }, validInterval);
+
+        logger.log(`已启动智能定期清理，间隔 ${validInterval/1000} 秒，仅在用户不活跃时执行`);
+    },
+
+
+    stopPeriodicCleanup() {
+        if (this.cleanupInterval) {
+            clearInterval(this.cleanupInterval);
+            this.cleanupInterval = null;
+
+
+            if (this.activityTimeout) {
+                clearTimeout(this.activityTimeout);
+                this.activityTimeout = null;
+            }
+
+
+            if (this._resetUserActivityHandler) {
+                document.removeEventListener('mousemove', this._resetUserActivityHandler);
+                document.removeEventListener('keydown', this._resetUserActivityHandler);
+                document.removeEventListener('click', this._resetUserActivityHandler);
+                this._resetUserActivityHandler = null;
+            }
+
+            logger.log("已停止定期空实例清理");
+        }
+    },
+
+
+    checkAndSetupNode(node) {
+
+        if (!node || !FEATURES.enabled) {
+            return;
+        }
+
+
+        if (!FEATURES.enabled && node.id) {
+            this.hideNodeWidgets(node);
+            TranslateManager.cleanup(node.id);
+            return;
+        }
+
+        const nodeId = node.id;
+
+
+        if (node.flags && node.flags.collapsed) {
+            this.hideNodeWidgets(node);
+            return;
+        }
+
+        logger.log(`检查节点: ${nodeId}, 类型: ${node.type}`);
+
+
+        const multilineInputs = [];
+
+        if (node.widgets) {
+            node.widgets.forEach(widget => {
+
+                if (
+                    (widget.name === "text" || widget.type === "text") ||
+                    (widget.type === "string" && widget.options && widget.options.multiline) ||
+                    (widget.multiline === true) ||
+                    (widget.inputEl && widget.inputEl.tagName === "TEXTAREA")
+                ) {
+
+                    if (widget.inputEl && typeof widget.inputEl.value === "string") {
+                        multilineInputs.push(widget);
+                    }
+                }
+            });
+        }
+
+        if (multilineInputs.length > 0) {
+            logger.log(`节点 ${nodeId} 包含 ${multilineInputs.length} 个多行输入控件`);
+
+
+            multilineInputs.forEach(inputWidget => {
+                this.setupNodeWidget(node, inputWidget);
+            });
+        }
+    },
+
+
+    setupNodeWidget(node, inputWidget) {
+        if (!node || !inputWidget || !inputWidget.inputEl) return;
+
+        const nodeId = node.id;
+        const inputId = inputWidget.name || inputWidget.id || Math.random().toString(36).substring(2, 10);
+        const widgetKey = `${nodeId}_${inputId}`;
+
+        logger.log(`为节点 ${nodeId} 的输入控件 ${inputId} 设置翻译小部件`);
+
+
+        if (inputWidget.inputEl.readOnly || inputWidget.inputEl.disabled) {
+            logger.log(`跳过只读或禁用的输入控件`);
+            return;
+        }
+
+
+        const existingWidget = TranslateManager.getInstance(widgetKey);
+        if (existingWidget && existingWidget.text_element === inputWidget.inputEl) {
+
+            if (existingWidget.isHiding) {
+                existingWidget.isHiding = false;
+                if (existingWidget.hideTimeout) {
+                    clearTimeout(existingWidget.hideTimeout);
+                    existingWidget.hideTimeout = null;
+                }
+            }
+
+
+            if (existingWidget.element) {
+
+                if (window.getComputedStyle(existingWidget.element).display !== 'none' &&
+                    existingWidget.element.classList.contains('widget_show')) {
+                    return;
+                }
+
+
+                existingWidget.element.classList.remove('widget_hide');
+
+
+                existingWidget.element.style.opacity = '0';
+                existingWidget.element.style.display = 'flex';
+
+
+                void existingWidget.element.offsetWidth;
+
+
+                existingWidget.element.classList.add('widget_show');
+            }
+            return;
+        }
+
+        try {
+
+            const widget = TranslateWidget(node, inputId, null, inputWidget);
+
+            widget.nodeId = nodeId;
+            widget.inputId = inputId;
+            widget.widgetKey = widgetKey;
+
+
+            const isCompatibilityMode = app.ui.settings.getSettingValue("PromptWidget.Compatibility.Mode");
+
+
+            const container = inputWidget.inputEl.parentElement;
+
+
+            if (isCompatibilityMode || !container || !container.classList.contains('dom-widget')) {
+
+                if (DEBUG) console.log("[PromptWidget]🔧兼容模式");
+
+
+                const containerDiv = document.createElement('div');
+                containerDiv.className = 'prompt-widget-container';
+                containerDiv.style.position = 'fixed';
+                containerDiv.style.zIndex = '999';
+                containerDiv.style.display = 'flex';
+                containerDiv.style.justifyContent = 'flex-end';
+                containerDiv.style.pointerEvents = 'none';
+
+
+                if (widget.element) {
+                    containerDiv.appendChild(widget.element);
+                    document.body.appendChild(containerDiv);
+
+
+                    widget.element.style.pointerEvents = 'auto';
+                    widget.element.style.zIndex = '999';
+
+                    const updateWidgetPosition = () => {
+                        if (!widget.element || !inputWidget.inputEl || !containerDiv) return;
+
+                        try {
+
+                            const inputRect = inputWidget.inputEl.getBoundingClientRect();
+
+
+                            Object.assign(containerDiv.style, {
+                                left: `${inputRect.left - 12}px`,
+                                top: `${inputRect.bottom - 34}px`,
+                                width: `${inputRect.width}px`,
+                                height: '24px',
+                                pointerEvents: 'none',
+                                zIndex: '999'
+                            });
+
+
+                            Object.assign(widget.element.style, {
+                                transformOrigin: 'right center',
+                                margin: '0',
+                                pointerEvents: 'auto',
+                                zIndex: '9999999'
+                            });
+                        } catch (error) {
+                            console.error("更新小部件位置时出错:", error);
+                        }
+                    };
+
+
+                    updateWidgetPosition();
+
+
+                    const debouncedUpdatePosition = debounce(updateWidgetPosition, 100);
+
+
+                    window.addEventListener('resize', debouncedUpdatePosition);
+
+
+                    const observer = new MutationObserver(debouncedUpdatePosition);
+
+
+                    observer.observe(app.canvas.canvas.parentElement, {
+                        attributes: true,
+                        attributeFilter: ['style', 'transform']
+                    });
+
+
+                    const originalDrawBackground = app.canvas.onDrawBackground;
+                    app.canvas.onDrawBackground = function() {
+                        const ret = originalDrawBackground?.apply(this, arguments);
+                        debouncedUpdatePosition();
+                        return ret;
+                    };
+
+
+                    const originalOnNodeMoved = node.onNodeMoved;
+                    node.onNodeMoved = function() {
+                        const ret = originalOnNodeMoved?.apply(this, arguments);
+                        debouncedUpdatePosition();
+                        return ret;
+                    };
+
+
+                    widget.updatePosition = debouncedUpdatePosition;
+
+
+                    widget.cleanup = () => {
+                        window.removeEventListener('resize', debouncedUpdatePosition);
+                        observer.disconnect();
+                        if (originalDrawBackground) {
+                            app.canvas.onDrawBackground = originalDrawBackground;
+                        }
+                        if (originalOnNodeMoved) {
+                            node.onNodeMoved = originalOnNodeMoved;
+                        }
+                        if (containerDiv && document.body.contains(containerDiv)) {
+                            document.body.removeChild(containerDiv);
+                        }
+
+                        if (widget.pendingUpdate) {
+                            cancelAnimationFrame(widget.pendingUpdate);
+                            widget.pendingUpdate = null;
+                        }
+                    };
+                }
+            } else {
+
+                if (DEBUG) console.log("[PromptWidget]🎉标准模式");
+
+                if (widget.element && inputWidget.inputEl.parentElement) {
+
+                    let container = inputWidget.inputEl.parentElement;
+
+
+                    if (window.getComputedStyle(container).position === 'static') {
+                        container.style.position = 'relative';
+                    }
+
+
+                    container.classList.add('multiline-input');
+
+
+                    Object.assign(widget.element.style, {
+                        right: "12px",
+                        bottom: "8px",
+                        height: "24px",
+                        width: "auto",
+                        opacity: "0"
+                    });
+
+
+                    container.appendChild(widget.element);
+
+
+                    void widget.element.offsetWidth;
+
+
+                    widget.element.classList.add('widget_show');
+                }
+            }
+
+
+            if (widget.element) {
+                widget.element.setAttribute('data-node-id', nodeId);
+                widget.element.setAttribute('data-input-id', inputId);
+                widget.element.setAttribute('data-widget-key', widgetKey);
+            }
+
+
+            TranslateManager.instances.set(widgetKey, widget);
+
+            logger.log(`成功为节点 ${nodeId} 创建翻译小部件`);
+        } catch (error) {
+            logger.error(`为节点 ${nodeId} 创建翻译小部件失败:`, error);
+        }
+    },
+
+
+    hideNodeWidgets(node) {
+        if (!node) return;
+
+        try {
+            const nodeId = String(node.id);
+
+
+            const nodeWidgets = [];
+
+
+            TranslateManager.instances.forEach((instance, key) => {
+                try {
+                    const keyStr = String(key);
+
+
+                    if (instance.nodeId === nodeId) {
+                        nodeWidgets.push(instance);
+                        return;
+                    }
+
+
+                    if (keyStr.startsWith(nodeId + '_')) {
+                        nodeWidgets.push(instance);
+                        return;
+                    }
+
+
+                    if (keyStr === nodeId) {
+                        nodeWidgets.push(instance);
+                        return;
+                    }
+
+
+                    if (instance.element && instance.element.getAttribute('data-node-id') === nodeId) {
+                        nodeWidgets.push(instance);
+                    }
+                } catch (e) {
+
+                }
+            });
+
+            logger.log(`找到节点 ${nodeId} 的 ${nodeWidgets.length} 个小部件需要隐藏`);
+
+
+            nodeWidgets.forEach(instance => {
+                if (!instance || !instance.element) return;
+
+                try {
+
+                    const isVisible = window.getComputedStyle(instance.element).display !== 'none';
+
+                    if (isVisible) {
+
+                        if (instance.isHiding) return;
+                        instance.isHiding = true;
+
+
+                        instance.element.classList.remove('widget_show');
+
+
+                        instance.element.style.display = 'flex';
+                        instance.element.style.opacity = '1';
+
+
+                        void instance.element.offsetWidth;
+
+
+                        instance.element.classList.add('widget_hide');
+
+
+                        if (instance.hideTimeout) {
+                            clearTimeout(instance.hideTimeout);
+                        }
+
+
+                        instance.hideTimeout = setTimeout(() => {
+                            if (instance.element) {
+                                instance.element.style.display = 'none';
+
+                                instance.element.classList.remove('widget_hide');
+                                instance.isHiding = false;
+                                instance.hideTimeout = null;
+                            }
+                        }, 350);
+                    } else {
+
+                        instance.element.style.display = 'none';
+                        instance.element.classList.remove('widget_show', 'widget_hide');
+                        instance.isHiding = false;
+
+
+                        if (instance.hideTimeout) {
+                            clearTimeout(instance.hideTimeout);
+                            instance.hideTimeout = null;
+                        }
+                    }
+                } catch (error) {
+                    logger.error(`隐藏节点 ${nodeId} 的小部件时出错:`, error);
+                }
+            });
+        } catch (error) {
+            logger.error(`隐藏节点小部件过程出错:`, error);
+        }
+    },
+
+
+    cleanup() {
+        logger.info("卸载PromptWidget扩展");
+
+
+        this.stopPeriodicCleanup();
+
+
+        TranslateManager.cleanup();
+
+
+        if (this.styleElement && document.head.contains(this.styleElement)) {
+            document.head.removeChild(this.styleElement);
+        }
+
+        logger.info("PromptWidget扩展已完全卸载");
+    },
+};
+
+
+window.__CLIP_TRANSLATE__ = {
+    manager: TranslateManager,
+    extension: PromptWidget,
+    throttle: THROTTLE
+};
+
+
+app.registerExtension({
+    name: "Comfy.PromptWidget",
+    async beforeRegisterNodeDef(nodeType, nodeData, app) {
+        if (nodeData.name === "PromptWidget") {
+            const onNodeCreated = nodeType.prototype.onNodeCreated;
+            nodeType.prototype.onNodeCreated = function () {
+                const result = onNodeCreated?.apply(this, arguments);
+
+
+                const statusEl = document.createElement('div');
+                statusEl.className = 'clip-translate-status';
+                this.statusEl = statusEl;
+                this.wrapper.appendChild(statusEl);
+
+                return result;
+            };
+
+            const onExecuted = nodeType.prototype.onExecuted;
+            nodeType.prototype.onExecuted = function (message) {
+                const result = onExecuted?.apply(this, arguments);
+                return result;
+            };
+        }
+    },
+    async nodeCreated(node) {
+        if (node.type !== "PromptWidget") {
+            return;
+        }
+
+
+        api.addEventListener("prompt_translate_update", ({ detail }) => {
+            if (detail.node_id !== node.id) return;
+
+
+            const instance = TranslateManager.getInstance(node.id);
+            if (!instance || !instance.text_element) {
+                logger.warn(`无法找到节点 ${node.id} 的实例或文本元素`);
+                return;
+            }
+
+
+            if (detail.status === "translating") {
+                const progress = detail.progress;
+                if (progress) {
+
+                    TranslateManager.showStatusTip(
+                        instance.text_element,
+                        'loading',
+                        `翻译中... ${progress.current}/${progress.total}`
+                    );
+
+
+                    if (THROTTLE) {
+                        THROTTLE.lastRequestTime[node.id] = Date.now();
+                    }
+                }
+            } else if (detail.status === "success") {
+                const operationType = detail.operation_type || "translate";
+                const fromCache = detail.from_cache || false;
+
+                if (operationType === "restore") {
+
+                    TranslateManager.showStatusTip(
+                        instance.text_element,
+                        'restore',
+                        detail.operation_desc || "已恢复"
+                    );
+                } else {
+
+                    const cacheInfo = fromCache ? "(缓存)" : "";
+                    const statusText = detail.translate_direction ?
+                        `${detail.translate_direction}完成${cacheInfo}` :
+                        (fromCache ? "使用缓存翻译" : "翻译完成");
+
+                    TranslateManager.showStatusTip(
+                        instance.text_element,
+                        'success',
+                        statusText
+                    );
+                }
+            } else if (detail.status === "error") {
+                TranslateManager.showStatusTip(
+                    instance.text_element,
+                    'error',
+                    `错误: ${detail.message}`
+                );
+            }
+        });
+    }
+});
+
+
+if (!app.extensions.find(ext => ext.name === EXTENSION_NAME)) {
+    app.registerExtension({
+        name: EXTENSION_NAME,
+        nodes: PromptWidget.nodes,
+
+
+        async setup() {
+
+            PromptWidget.initialize();
+
+
+            const originalOnNodeSelectionChange = app.canvas.onNodeSelectionChange;
+
+
+            app.canvas.onNodeSelectionChange = function(node, fSelected) {
+
+                if (!FEATURES.enabled) {
+                    if (originalOnNodeSelectionChange) {
+                        originalOnNodeSelectionChange.call(app.canvas, node, fSelected);
+                    }
+                    return;
+                }
+
+
+                if (originalOnNodeSelectionChange) {
+                    originalOnNodeSelectionChange.call(app.canvas, node, fSelected);
+                }
+
+
+                if (fSelected) {
+                    PromptWidget.checkAndSetupNode(node);
+                } else {
+
+                    PromptWidget.hideNodeWidgets(node);
+
+
+                    if (node && node.id) {
+
+                        setTimeout(() => {
+
+                            if (FEATURES.enabled && TranslateManager.isEmptyInstance(node.id) &&
+                                (!app.canvas.selected_nodes || !app.canvas.selected_nodes.includes(node))) {
+                                logger.log(`节点 ${node.id} 取消选中且实例为空，执行清理`);
+                                TranslateManager.cleanup(node.id);
+                                logger.info(`[PromptWidget]节点 ${node.id} 已清理，当前剩余 ${TranslateManager.instances.size} 个实例`);
+                            }
+                        }, 500);
+                    }
+                }
+            };
+
+
+            const handleGlobalClick = (e) => {
+
+                if (!FEATURES.enabled) return;
+
+                if (e.target && e.target.tagName &&
+                    !e.target.closest(".prompt_widget_box")) {
+
+                    if (app.graph) {
+                        app.graph.setDirtyCanvas(true, true);
+                    }
+                }
+            };
+
+
+            document.addEventListener("click", handleGlobalClick);
+
+
+            this._handleGlobalClick = handleGlobalClick;
+
+
+            const originalGraphToPrompt = app.graphToPrompt;
+            app.graphToPrompt = function() {
+                const result = originalGraphToPrompt.apply(this, arguments);
+
+
+                if (result && result.extra && result.extra.ds) {
+                    if (!result.extra.ds.offset || !Array.isArray(result.extra.ds.offset)) {
+                        result.extra.ds.offset = [0, 0];
+                    } else {
+
+                        result.extra.ds.offset = result.extra.ds.offset.map(v =>
+                            typeof v === 'number' && !isNaN(v) ? v : 0
+                        );
+
+                        while (result.extra.ds.offset.length < 2) {
+                            result.extra.ds.offset.push(0);
+                        }
+                        if (result.extra.ds.offset.length > 2) {
+                            result.extra.ds.offset = result.extra.ds.offset.slice(0, 2);
+                        }
+                    }
+                }
+
+                return result;
+            };
+        },
+
+
+        async beforeRegisterNodeDef(nodeType, nodeData) {
+
+            const onNodeCreated = nodeType.prototype.onNodeCreated;
+            const onRemoved = nodeType.prototype.onRemoved;
+            const onConfigure = nodeType.prototype.onConfigure;
+            const onDrawForeground = nodeType.prototype.onDrawForeground;
+
+
+            const self = this;
+
+
+            nodeType.prototype.onNodeCreated = function() {
+                const nodeId = this.id;
+
+
+                const ret = onNodeCreated?.apply(this, arguments);
+
+
+                self.nodes[nodeId] = this;
+
+                return ret;
+            };
+
+
+            nodeType.prototype.onRemoved = function() {
+                let nodeId = null;
+
+                try {
+
+                    nodeId = this?.id || this?.properties?.id || null;
+
+                    if (nodeId) {
+                        logger.log(`节点删除: ${nodeId}`);
+                    }
+                } catch (error) {
+                    logger.error("获取节点ID时出错:", error);
+                }
+
+
+                let result;
+                try {
+                    result = onRemoved?.apply(this, arguments);
+                } catch (error) {
+                    logger.error("执行原始onRemoved方法时出错:", error);
+                }
+
+
+                try {
+
+                    TranslateManager.cleanupEmptyInstances('nodeDelete');
+                } catch (error) {
+                    logger.error("节点删除清理过程出错:", error);
+                }
+
+                return result;
+            };
+
+
+            nodeType.prototype.onConfigure = function() {
+                const nodeId = this.id;
+                const ret = onConfigure?.apply(this, arguments);
+
+
+                self.nodes[nodeId] = this;
+
+                return ret;
+            };
+
+
+            nodeType.prototype.onDrawForeground = function(ctx) {
+                try {
+
+                    onDrawForeground?.apply(this, arguments);
+
+
+                    const isSelected = app.canvas.selected_nodes && app.canvas.selected_nodes[this.id];
+
+
+                    if (isSelected) {
+
+                        PromptWidget.checkAndSetupNode(this);
+                    } else {
+
+                        PromptWidget.hideNodeWidgets(this);
+                    }
+                } catch (error) {
+                    logger.error(`节点 ${this.id} 绘制前景时出错:`, error);
+                }
+            };
+        },
+
+
+        async beforeExtensionUnload() {
+            try {
+
+                if (app.canvas && app.canvas.onNodeSelectionChange) {
+
+                    app.canvas.onNodeSelectionChange = app.canvas._onNodeSelectionChange || null;
+                }
+
+
+                if (this._handleGlobalClick) {
+                    document.removeEventListener("click", this._handleGlobalClick);
+                    this._handleGlobalClick = null;
+                }
+
+
+                if (orphanWidgetChecker) {
+                    orphanWidgetChecker.stop();
+                }
+
+
+                PromptWidget.stopPeriodicCleanup();
+
+
+                const selectors = [
+                    '.prompt_widget_box',
+                    '.prompt_widget_status',
+                    '.widget_icon_button',
+                    '.prompt_history_popup',
+                    '.prompt_preset_popup'
+                ];
+
+
+                const removedCount = DOMUtils.batchCleanup(selectors, true);
+                logger.log(`扩展卸载时移除了 ${removedCount} 个DOM元素`);
+
+
+                TranslateManager.cleanup();
+
+
+                if (PromptWidget.styleElement && document.head.contains(PromptWidget.styleElement)) {
+                    document.head.removeChild(PromptWidget.styleElement);
+                }
+
+                logger.info("扩展卸载前清理完成");
+            } catch (error) {
+                logger.error("扩展卸载前清理时出错:", error);
+            }
+        },
+
+        settings: [
+            {
+                id: "PromptWidget.Features.Enabled",
+                name: " 小部件总开关",
+                category: ["✨提示词小部件", " 功能开关", "总开关"],
+                type: "boolean",
+                defaultValue: true,
+                tooltip: "关闭后将完全禁用小部件功能",
+                onChange: (value) => {
+                    FEATURES.enabled = value;
+                    if (!value) {
+
+
+
+                        PromptWidget.stopPeriodicCleanup();
+
+
+                        TranslateManager.cleanup();
+
+
+                        if (app.canvas) {
+
+                            app.canvas._originalNodeSelectionChange = app.canvas._onNodeSelectionChange;
+
+                            app.canvas._onNodeSelectionChange = function() {};
+                        }
+
+                        logger.log("小部件功能已完全禁用，停止所有相关服务");
+                    } else {
+
+                        if (FEATURES.areAllFeaturesDisabled()) {
+                            app.ui.settings.setSettingValue("PromptWidget.Features.Enabled", false);
+                            logger.log("无法启用小部件：所有功能都处于禁用状态");
+                            return;
+                        }
+
+
+
+
+                        if (app.canvas) {
+
+                            if (app.canvas._originalNodeSelectionChange) {
+                                app.canvas._onNodeSelectionChange = app.canvas._originalNodeSelectionChange;
+                                delete app.canvas._originalNodeSelectionChange;
+                            }
+                        }
+
+
+                        PromptWidget.startPeriodicCleanup();
+
+
+                        if (app.graph && app.graph.nodes) {
+                            app.graph.nodes.forEach(node => {
+                                PromptWidget.checkAndSetupNode(node);
+                            });
+                        }
+
+                        logger.log("小部件功能已启用，恢复所有相关服务");
+                    }
+                }
+            },
+            {
+                id: "PromptWidget.Features.History",
+                name: "启用历史功能",
+                category: ["✨提示词小部件", " 功能开关", "历史功能"],
+                type: "boolean",
+                defaultValue: true,
+                tooltip: "控制历史、撤销、重做功能",
+                onChange: (value) => {
+                    FEATURES.history = value;
+
+                    TranslateManager.instances.forEach((instance) => {
+                        if (instance.buttons) {
+
+                            ['history', 'undo', 'redo'].forEach(key => {
+                                const button = instance.buttons[key];
+                                if (button) {
+                                    button.style.display = value ? 'block' : 'none';
+                                }
+                            });
+
+                            const firstDivider = instance.element?.querySelector('.widget_divider');
+                            if (firstDivider) {
+                                firstDivider.style.display = value ? 'block' : 'none';
+                            }
+                        }
+                    });
+
+                    FEATURES.updateEnabledState();
+                    logger.log(`历史功能已${value ? "启用" : "禁用"}`);
+                }
+            },
+            {
+                id: "PromptWidget.Features.Preset",
+                name: "启用预设功能",
+                category: ["✨提示词小部件", " 功能开关", "预设功能"],
+                type: "boolean",
+                defaultValue: true,
+                tooltip: "控制提示词预设功能",
+                onChange: (value) => {
+                    FEATURES.preset = value;
+
+                    TranslateManager.instances.forEach((instance) => {
+                        if (instance.buttons?.preset) {
+                            instance.buttons.preset.style.display = value ? 'block' : 'none';
+                        }
+                    });
+
+                    FEATURES.updateEnabledState();
+                    logger.log(`预设功能已${value ? "启用" : "禁用"}`);
+                }
+            },
+            {
+                id: "PromptWidget.Features.Expand",
+                name: "启用扩写功能",
+                category: ["✨提示词小部件", " 功能开关", "扩写功能"],
+                type: "boolean",
+                defaultValue: true,
+                tooltip: "控制文本扩写功能",
+                onChange: (value) => {
+                    FEATURES.expand = value;
+
+                    TranslateManager.instances.forEach((instance) => {
+                        if (instance.buttons?.expand) {
+                            instance.buttons.expand.style.display = value ? 'block' : 'none';
+                        }
+                    });
+
+                    FEATURES.updateEnabledState();
+                    logger.log(`扩写功能已${value ? "启用" : "禁用"}`);
+                }
+            },
+            {
+                id: "PromptWidget.Features.Translate",
+                name: "启用翻译功能",
+                category: ["✨提示词小部件", " 功能开关", "翻译功能"],
+                type: "boolean",
+                defaultValue: true,
+                tooltip: "控制文本翻译功能",
+                onChange: (value) => {
+                    FEATURES.translate = value;
+
+                    TranslateManager.instances.forEach((instance) => {
+                        if (instance.buttons?.translate) {
+                            instance.buttons.translate.style.display = value ? 'block' : 'none';
+                        }
+                    });
+
+                    FEATURES.updateEnabledState();
+                    logger.log(`翻译功能已${value ? "启用" : "禁用"}`);
+                }
+            },
+            {
+                id: "PromptWidget.PresetManagement",
+                name: "提示词预设词库管理",
+                category: ["✨提示词小部件", "  预设管理"],
+                type: () => {
+                    const row = document.createElement("tr");
+                    row.className = "promptwidget-settings-row";
+
+                    const labelCell = document.createElement("td");
+                    labelCell.className = "comfy-menu-label";
+                    row.appendChild(labelCell);
+
+                    const buttonCell = document.createElement("td");
+                    const button = document.createElement("button");
+                    button.className = "preset-manager-button";
+                    button.textContent = "打开管理界面";
+                    button.onclick = () => {
+                        try {
+                            if (DEBUG) console.log("点击了管理提示词预设按钮");
+                            showPresetManagerDialog();
+                        } catch (error) {
+                            console.error("点击管理提示词预设按钮出错:", error);
+                            alert(`打开预设管理器出错: ${error.message}`);
+                        }
+                    };
+                    buttonCell.appendChild(button);
+                    row.appendChild(buttonCell);
+                    return row;
+                }
+            },
+            {
+                id: "PromptWidget.APIConfig",
+                name: "配置百度翻译和LLM key",
+                category: ["✨提示词小部件", " 翻译和扩写"],
+                type: () => {
+                    const row = document.createElement("tr");
+                    row.className = "promptwidget-settings-row";
+
+                    const labelCell = document.createElement("td");
+                    labelCell.className = "comfy-menu-label";
+                    row.appendChild(labelCell);
+
+                    const buttonCell = document.createElement("td");
+                    const button = document.createElement("button");
+                    button.className = "preset-manager-button";
+                    button.textContent = "打开配置界面";
+                    button.onclick = () => {
+                        try {
+                            if (DEBUG) console.log("点击了配置API按钮");
+                            showAPIConfigDialog();
+                        } catch (error) {
+                            console.error("点击配置API按钮出错:", error);
+                            alert(`打开API配置器出错: ${error.message}`);
+                        }
+                    };
+                    buttonCell.appendChild(button);
+                    row.appendChild(buttonCell);
+                    return row;
+                }
+            },
+            {
+                id: "PromptWidget.Debug.Frontend",
+                name: "前端调试日志",
+                category: ["✨提示词小部件", "调试选项", "前端"],
+                type: "hidden",
+                defaultValue: false,
+                tooltip: "无需开启，遇到bug排查用的",
+                onChange: (value) => {
+                    DEBUG = value;
+                    logger.log("前端调试模式已" + (value ? "启用" : "禁用"));
+                }
+            },
+            {
+                id: "PromptWidget.Debug.Backend",
+                name: "后端调试日志",
+                category: ["✨提示词小部件", "调试选项", "后端"],
+                type: "boolean",
+                defaultValue: false,
+                tooltip: "无需开启，遇到bug排查用的",
+                onChange: async (value) => {
+                    try {
+                        const response = await fetch('/prompt_widget/set_debug', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify({ debug: value })
+                        });
+
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! status: ${response.status}`);
+                        }
+
+                        const result = await response.json();
+                        if (result.status === "success") {
+                            logger.log("后端调试模式已" + (value ? "启用" : "禁用"));
+                        } else {
+                            throw new Error(result.message || "更新失败");
+                        }
+                    } catch (error) {
+                        console.error("设置后端调试模式失败:", error);
+
+                        app.ui.settings.setSettingValue("PromptWidget.Debug.Backend", !value);
+                    }
+                }
+            },
+            {
+                id: "PromptWidget.Cleanup.Interval",
+                name: "小部件清理间隔",
+                category: ["✨提示词小部件", "调试选项", "性能"],
+                type: "number",
+                defaultValue: 60,
+                min: 30,
+                max: 120,
+                step: 1,
+                tooltip: "设置自动清理小部件的时间间隔（秒），默认60秒。范围30-120秒",
+                attrs: {
+                    showButtons: true,
+                    maxFractionDigits: 0
+                },
+                onChange: (value) => {
+
+                    const interval = Math.max(10, Math.min(120, value));
+
+
+                    if (PromptWidget.cleanupInterval) {
+                        clearInterval(PromptWidget.cleanupInterval);
+                    }
+
+
+                    PromptWidget.startPeriodicCleanup(interval * 1000);
+                    logger.log(`小部件清理间隔已更新为 ${interval} 秒`);
+                }
+            },
+            {
+                id: "PromptWidget.About",
+                name: "✨提示词小部件 PromptWidget",
+                category: ["✨提示词小部件", " "],
+                type: () => {
+                    const row = document.createElement("tr");
+                    row.className = "promptwidget-settings-row";
+
+                    const labelCell = document.createElement("td");
+                    labelCell.className = "comfy-menu-label";
+                    row.appendChild(labelCell);
+
+                    const contentCell = document.createElement("td");
+                    contentCell.className = "comfy-menu-content";
+
+
+                    const tagContainer = document.createElement("div");
+                    tagContainer.className = "p-tag-container";
+                    tagContainer.style.display = "flex";
+                    tagContainer.style.alignItems = "center";
+                    tagContainer.style.gap = "2px";
+                    tagContainer.style.flexWrap = "wrap";
+
+
+                    const group1 = document.createElement("div");
+                    group1.style.display = "flex";
+                    group1.style.alignItems = "center";
+                    group1.style.gap = "6px";
+                    group1.style.flexWrap = "wrap";
+                    group1.style.minWidth = "fit-content";
+
+
+                    const versionBadge = document.createElement("img");
+                    versionBadge.alt = "Version";
+                    versionBadge.src = `https://img.shields.io/badge/Version-${EXTENSION_VERSION}-green?style=flat`;
+                    versionBadge.style.display = "block";
+                    versionBadge.style.height = "20px";
+
+
+                    const authorTag = document.createElement("a");
+                    authorTag.href = "https://github.com/yawiii/comfyui_prompt_widget";
+                    authorTag.target = "_blank";
+                    authorTag.style.textDecoration = "none";
+                    authorTag.style.display = "flex";
+                    authorTag.style.alignItems = "center";
+
+                    const authorBadge = document.createElement("img");
+                    authorBadge.alt = "Static Badge";
+                    authorBadge.src = "https://img.shields.io/badge/Github-Yawiii-blue?style=flat&logo=github&logoColor=black&labelColor=%23E1E1E2&color=%2307A3D7";
+                    authorBadge.style.display = "block";
+                    authorBadge.style.height = "20px";
+
+                    authorTag.appendChild(authorBadge);
+
+
+                    group1.appendChild(versionBadge);
+                    group1.appendChild(authorTag);
+
+
+                    const divider = document.createElement("div");
+                    divider.style.width = "2px";
+                    divider.style.height = "20px";
+                    divider.style.backgroundColor = "rgba(255, 255, 255, 0.03)";
+                    divider.style.margin = "0 10px";
+                    divider.style.flexShrink = "0";
+
+
+                    const group2 = document.createElement("div");
+                    group2.style.display = "flex";
+                    group2.style.alignItems = "center";
+                    group2.style.gap = "5px";
+                    group2.style.flexWrap = "wrap";
+                    group2.style.minWidth = "fit-content";
+
+
+                    const tutorialText = document.createElement("span");
+                    tutorialText.textContent = "使用教程：";
+                    tutorialText.style.color = "#ddd";
+                    tutorialText.style.fontSize = "12px";
+                    tutorialText.style.whiteSpace = "nowrap";
+
+
+                    const biliTag = document.createElement("a");
+                    biliTag.href = "https://space.bilibili.com/520680644";
+                    biliTag.target = "_blank";
+                    biliTag.style.textDecoration = "none";
+                    biliTag.style.display = "flex";
+                    biliTag.style.alignItems = "center";
+
+                    const biliBadge = document.createElement("img");
+                    biliBadge.alt = "Bilibili";
+                    biliBadge.src = "https://img.shields.io/badge/b%E7%AB%99-%23E1E1E2?style=flat&logo=bilibili&logoColor=%2307A3D7";
+                    biliBadge.style.display = "block";
+                    biliBadge.style.height = "20px";
+
+                    biliTag.appendChild(biliBadge);
+
+
+                    const douyinTag = document.createElement("a");
+                    douyinTag.href = "https://v.douyin.com/gJnTFSw_tZI/";
+                    douyinTag.target = "_blank";
+                    douyinTag.style.textDecoration = "none";
+                    douyinTag.style.display = "flex";
+                    douyinTag.style.alignItems = "center";
+
+                    const douyinBadge = document.createElement("img");
+                    douyinBadge.alt = "Douyin";
+                    douyinBadge.src = "https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-%23E1E1E2?style=flat&logo=TikTok&logoColor=%23161823";
+                    douyinBadge.style.display = "block";
+                    douyinBadge.style.height = "20px";
+
+                    douyinTag.appendChild(douyinBadge);
+
+
+                    group2.appendChild(tutorialText);
+                    group2.appendChild(biliTag);
+                    group2.appendChild(douyinTag);
+
+
+                    tagContainer.appendChild(group1);
+                    tagContainer.appendChild(divider);
+                    tagContainer.appendChild(group2);
+
+                    contentCell.appendChild(tagContainer);
+                    row.appendChild(contentCell);
+
+                    return row;
+                }
+            },
+            {
+                id: "PromptWidget.Compatibility.Mode",
+                name: "开启兼容模式",
+                category: ["✨提示词小部件", "调试选项", "兼容性"],
+                type: "boolean",
+                defaultValue: false,
+                tooltip: "若小部件显示位置异常时，尝试打开此选项（需要重启comfyUI）",
+                onChange: (value) => {
+                    logger.log(`兼容模式已${value ? "启用" : "禁用"}`);
+                }
+            },
+        ],
+    });
+}
+
+
+async function showPresetManagerDialog() {
+    try {
+        if (DEBUG) console.log("正在打开提示词预设管理对话框...");
+
+
+        hasChanges = false;
+
+
+        const overlay = document.createElement("div");
+        overlay.className = "preset-overlay";
+        document.body.appendChild(overlay);
+
+
+        const dialog = document.createElement("div");
+        dialog.className = "prompt-preset-manager-dialog";
+
+
+        const content = document.createElement("div");
+        content.className = "prompt-preset-manager-content";
+
+
+        const closeButton = document.createElement("button");
+        closeButton.className = "preset-close-button";
+        closeButton.innerHTML = "&#215;";
+        closeButton.onclick = () => handleClose(dialog, overlay);
+        content.appendChild(closeButton);
+
+
+        const title = document.createElement("h2");
+        title.className = "prompt-preset-title";
+        title.textContent = "提示词预设管理";
+        content.appendChild(title);
+
+
+        const description = document.createElement("p");
+        description.textContent = "您可以在这里管理提示词预设，修改后请点击保存按钮。注意：结尾不要加逗号！！";
+        description.style.marginBottom = "20px";
+        description.style.color = "#aaa";
+        content.appendChild(description);
+
+
+        const loadingIndicator = document.createElement("div");
+        loadingIndicator.className = "preset-loading-indicator";
+        loadingIndicator.textContent = "正在加载预设数据...";
+        content.appendChild(loadingIndicator);
+
+
+        const tableContainer = document.createElement("div");
+        tableContainer.className = "preset-table-container";
+        tableContainer.style.display = "none";
+
+
+        const table = document.createElement("table");
+        table.className = "preset-table";
+
+
+        const thead = document.createElement("thead");
+        const headerRow = document.createElement("tr");
+
+        ["颜色", "类型", "内容", "说明", "操作"].forEach(headerText => {
+            const th = document.createElement("th");
+            th.textContent = headerText;
+            headerRow.appendChild(th);
+        });
+
+        thead.appendChild(headerRow);
+        table.appendChild(thead);
+
+
+        const tbody = document.createElement("tbody");
+        table.appendChild(tbody);
+
+        tableContainer.appendChild(table);
+        content.appendChild(tableContainer);
+
+
+        const footer = document.createElement("div");
+        footer.className = "preset-manager-footer";
+
+
+        const saveButton = document.createElement("button");
+        saveButton.className = "preset-save-button";
+        saveButton.textContent = "保存";
+        saveButton.onclick = () => handleSave(dialog, overlay, tbody);
+
+        footer.appendChild(saveButton);
+        content.appendChild(footer);
+
+
+        dialog.appendChild(content);
+        document.body.appendChild(dialog);
+
+
+        dialog.addEventListener("click", (e) => {
+            if (e.target === dialog) {
+                handleClose(dialog, overlay);
+            }
+        });
+
+
+        try {
+            const presets = await loadPresetData();
+            await displayPresetData(tbody, presets);
+
+
+            const inputs = tbody.querySelectorAll('input, select');
+            inputs.forEach(input => {
+                input.addEventListener('change', trackChanges);
+            });
+
+
+            loadingIndicator.style.display = "none";
+            tableContainer.style.display = "block";
+            if (DEBUG) console.log("预设数据加载完成");
+        } catch (error) {
+
+            loadingIndicator.textContent = `加载失败: ${error.message}`;
+            loadingIndicator.style.color = "red";
+            if (DEBUG) console.error("预设数据加载失败:", error);
+        }
+    } catch (error) {
+        console.error("创建预设管理对话框时出错:", error);
+        showCustomDialog({
+            title: "错误",
+            content: `创建预设管理对话框时出错: ${error.message}`,
+            confirmText: "确定",
+            showCancel: false
+        });
+    }
+}
+
+
+const PRESET_COLORS = {
+    blue: { name: "蓝色", color: "rgb(135, 165, 255)" },
+    green: { name: "绿色", color: "rgb(120, 255, 120)" },
+    red: { name: "红色", color: "rgb(255, 120, 120)" },
+    orange: { name: "橙色", color: "rgb(255, 200, 100)" },
+    cyan: { name: "青色", color: "rgb(100, 220, 220)" },
+    purple: { name: "紫色", color: "rgb(210, 150, 240)" },
+    yellow: { name: "黄色", color: "rgb(255, 230, 150)" },
+    lightblue: { name: "淡蓝", color: "rgb(160, 200, 255)" },
+    pink: { name: "粉色", color: "rgb(240, 180, 240)" },
+    lime: { name: "青柠", color: "rgb(140, 220, 140)" },
+    coral: { name: "珊瑚", color: "rgb(240, 140, 140)" },
+    indigo: { name: "靛蓝", color: "rgb(140, 190, 230)" }
+};
+
+
+async function loadPresetData(tbody) {
+    try {
+
+        if (tbody) {
+            const presets = [];
+
+            const rows = Array.from(tbody.getElementsByTagName('tr')).slice(0, -1);
+
+            for (const row of rows) {
+
+                const colorSelect = row.querySelector('.preset-color-select');
+                const typeSelect = row.querySelector('.preset-type-select');
+                const contentInput = row.querySelector('.preset-content-input');
+                const noteInput = row.querySelector('.preset-note-input');
+
+
+                if (contentInput && contentInput.value.trim()) {
+                    presets.push({
+                        color_type: colorSelect ? colorSelect.value : 'default',
+                        type: typeSelect ? typeSelect.value : '未分类',
+                        content: contentInput.value.trim(),
+                        note: noteInput ? noteInput.value.trim() : ''
+                    });
+                }
+            }
+
+            return presets;
+        }
+
+
+        const response = await fetch('/prompt_widget/presets');
+        if (!response.ok) {
+            throw new Error(`Failed to load presets: ${response.status} ${response.statusText}`);
+        }
+
+        const data = await response.json();
+        return data.presets || [];
+    } catch (error) {
+        console.error("加载预设数据失败:", error);
+        throw error;
+    }
+}
+
+
+function movePreset(index, direction, tbody, presets) {
+    try {
+
+        const newIndex = index + direction;
+
+
+        if (newIndex < 0 || newIndex >= presets.length) {
+            return false;
+        }
+
+
+        [presets[index], presets[newIndex]] = [presets[newIndex], presets[index]];
+
+
+        const rows = Array.from(tbody.getElementsByTagName('tr')).slice(0, -1);
+
+
+        const row1 = rows[index];
+        const row2 = rows[newIndex];
+
+        if (!row1 || !row2) {
+            console.error("找不到要交换的行:", index, newIndex);
+            return false;
+        }
+
+
+        if (direction < 0) {
+            tbody.insertBefore(row1, row2);
+        }
+
+        else {
+            tbody.insertBefore(row2, row1);
+        }
+
+
+        row1.dataset.index = newIndex;
+        row2.dataset.index = index;
+
+
+        updatePresetRows(tbody, presets);
+
+        return true;
+    } catch (error) {
+        console.error("移动预设时出错:", error);
+        return false;
+    }
+}
+
+
+function updatePresetRows(tbody, presets) {
+    try {
+
+        const rows = Array.from(tbody.getElementsByTagName('tr')).slice(0, -1);
+
+        rows.forEach((row, index) => {
+
+            const moveTopButton = row.querySelector('.move-top-button');
+            if (moveTopButton) {
+                moveTopButton.disabled = index === 0;
+                if (moveTopButton.disabled) {
+                    moveTopButton.classList.add('widget_button_disabled');
+                } else {
+                    moveTopButton.classList.remove('widget_button_disabled');
+                }
+            }
+
+
+            const upButton = row.querySelector('.up-button');
+            if (upButton) {
+                upButton.disabled = index === 0;
+                if (upButton.disabled) {
+                    upButton.classList.add('widget_button_disabled');
+                } else {
+                    upButton.classList.remove('widget_button_disabled');
+                }
+            }
+
+
+            const downButton = row.querySelector('.down-button');
+            if (downButton) {
+                downButton.disabled = index === presets.length - 1;
+                if (downButton.disabled) {
+                    downButton.classList.add('widget_button_disabled');
+                } else {
+                    downButton.classList.remove('widget_button_disabled');
+                }
+            }
+
+
+            row.dataset.index = index;
+
+
+            if (moveTopButton) {
+                moveTopButton.onclick = () => movePresetToTop(index, tbody, presets);
+            }
+            if (upButton) {
+                upButton.onclick = () => movePreset(index, -1, tbody, presets);
+            }
+            if (downButton) {
+                downButton.onclick = () => movePreset(index, 1, tbody, presets);
+            }
+        });
+    } catch (error) {
+        console.error("更新预设行状态时出错:", error);
+    }
+}
+
+function movePresetToTop(index, tbody, presets) {
+    try {
+
+        if (index === 0) return false;
+
+
+        const rows = Array.from(tbody.getElementsByTagName('tr')).slice(0, -1);
+
+
+        const row = rows[index];
+        if (!row) return false;
+
+
+        const preset = presets.splice(index, 1)[0];
+        presets.unshift(preset);
+
+
+        tbody.insertBefore(row, tbody.firstChild);
+
+
+        updatePresetRows(tbody, presets);
+
+
+        trackChanges();
+
+        return true;
+    } catch (error) {
+        console.error("移动预设到顶部时出错:", error);
+        return false;
+    }
+}
+
+async function displayPresetData(tbody, presets) {
+    try {
+
+        tbody.innerHTML = "";
+
+        if (!presets || presets.length === 0) {
+            const emptyRow = document.createElement("tr");
+            const emptyCell = document.createElement("td");
+            emptyCell.colSpan = 5;
+            emptyCell.textContent = "没有找到任何预设";
+            emptyCell.style.textAlign = "center";
+            emptyRow.appendChild(emptyCell);
+            tbody.appendChild(emptyRow);
+            return;
+        }
+
+
+        const presetTypes = new Set();
+        presets.forEach(preset => {
+            if (preset.type) presetTypes.add(preset.type);
+        });
+        const availableTypes = Array.from(presetTypes);
+
+
+        presets.forEach((preset, index) => {
+            const row = document.createElement("tr");
+            row.dataset.index = index;
+
+
+            const colorCell = document.createElement("td");
+            colorCell.style.width = "30px";
+            const colorSelect = document.createElement("select");
+            colorSelect.className = "preset-color-select";
+            colorSelect.style.width = "30px";
+            colorSelect.style.height = "24px";
+            colorSelect.title = "选择类型颜色";
+
+
+            Object.entries(PRESET_COLORS).forEach(([key, value]) => {
+                const option = document.createElement("option");
+                option.value = key;
+                option.textContent = "●";
+                option.style.color = value.color;
+                option.title = value.name;
+                if (preset.color_type === key) {
+                    option.selected = true;
+                    colorSelect.style.color = value.color;
+                }
+                colorSelect.appendChild(option);
+            });
+
+
+            if (!preset.color_type) {
+                const firstColor = Object.entries(PRESET_COLORS)[0];
+                if (firstColor) {
+                    preset.color_type = firstColor[0];
+                    colorSelect.style.color = firstColor[1].color;
+                    colorSelect.value = firstColor[0];
+                }
+            }
+
+            colorSelect.onchange = (e) => {
+                preset.color_type = e.target.value;
+                const selectedColor = PRESET_COLORS[e.target.value]?.color;
+                if (selectedColor) {
+                    e.target.style.color = selectedColor;
+                }
+                const typeSelect = row.querySelector('.preset-type-select');
+                if (typeSelect) {
+                    typeSelect.className = `preset-type-select preset_type_${e.target.value}`;
+                }
+            };
+
+            colorCell.appendChild(colorSelect);
+            row.appendChild(colorCell);
+
+
+            const typeCell = document.createElement("td");
+            const typeSelect = document.createElement("select");
+            typeSelect.className = `preset-type-select${preset.color_type ? ` preset_type_${preset.color_type}` : ''}`;
+
+
+            availableTypes.forEach(type => {
+                const option = document.createElement("option");
+                option.value = type;
+                option.textContent = type;
+                if (type === preset.type) {
+                    option.selected = true;
+                }
+                typeSelect.appendChild(option);
+            });
+
+
+            const newTypeOption = document.createElement("option");
+            newTypeOption.value = "new";
+            newTypeOption.textContent = "添加新类型...";
+            typeSelect.appendChild(newTypeOption);
+
+            typeSelect.onchange = (e) => handleTypeChange(e.target, preset, newTypeOption);
+
+            typeCell.appendChild(typeSelect);
+            row.appendChild(typeCell);
+
+
+            const contentCell = document.createElement("td");
+            const contentInput = document.createElement("input");
+            contentInput.type = "text";
+            contentInput.className = "preset-content-input";
+            contentInput.value = preset.content;
+            contentInput.onchange = (e) => {
+                preset.content = e.target.value;
+            };
+            contentCell.appendChild(contentInput);
+            row.appendChild(contentCell);
+
+
+            const noteCell = document.createElement("td");
+            const noteInput = document.createElement("input");
+            noteInput.type = "text";
+            noteInput.className = "preset-note-input";
+            noteInput.value = preset.note || "";
+            noteInput.onchange = (e) => {
+                preset.note = e.target.value;
+            };
+            noteCell.appendChild(noteInput);
+            row.appendChild(noteCell);
+
+
+            const actionCell = document.createElement("td");
+            actionCell.className = "preset-action-buttons";
+
+
+            const moveTopButton = document.createElement("button");
+            moveTopButton.className = "preset-action-button move-top-button";
+            moveTopButton.innerHTML = "";
+            moveTopButton.title = "移至顶部";
+            moveTopButton.onclick = () => movePresetToTop(index, tbody, presets);
+            moveTopButton.disabled = index === 0;
+            if (moveTopButton.disabled) {
+                moveTopButton.classList.add('widget_button_disabled');
+            }
+
+
+
+            const upButton = document.createElement("button");
+            upButton.className = "preset-action-button up-button";
+            upButton.innerHTML = "";
+            upButton.title = "上移";
+            upButton.onclick = () => movePreset(index, -1, tbody, presets);
+            upButton.disabled = index === 0;
+            if (upButton.disabled) {
+                upButton.classList.add('widget_button_disabled');
+            }
+
+
+            const downButton = document.createElement("button");
+            downButton.className = "preset-action-button down-button";
+            downButton.innerHTML = "";
+            downButton.title = "下移";
+            downButton.onclick = () => movePreset(index, 1, tbody, presets);
+            downButton.disabled = index === presets.length - 1;
+            if (downButton.disabled) {
+                downButton.classList.add('widget_button_disabled');
+            }
+
+
+            const deleteButton = document.createElement("button");
+            deleteButton.className = "preset-action-button delete-button";
+            deleteButton.innerHTML = "";
+            deleteButton.title = "删除";
+            deleteButton.onclick = () => {
+                showCustomDialog({
+                    title: "确认删除",
+                    content: "确定要删除这个预设吗？",
+                    confirmText: "确定",
+                    cancelText: "取消",
+                    onConfirm: () => {
+                        presets.splice(index, 1);
+                        tbody.removeChild(row);
+                        updatePresetRows(tbody, presets);
+                        trackChanges();
+                    }
+                });
+            };
+
+
+            const actionDivider = document.createElement("div");
+            actionDivider.className = "preset-action-divider";
+
+
+            actionCell.appendChild(moveTopButton);
+            actionCell.appendChild(upButton);
+            actionCell.appendChild(downButton);
+            actionCell.appendChild(actionDivider);
+            actionCell.appendChild(deleteButton);
+            row.appendChild(actionCell);
+
+            tbody.appendChild(row);
+        });
+
+
+        const addRow = document.createElement("tr");
+        addRow.className = "preset-add-row";
+
+
+        const addColorCell = document.createElement("td");
+        const addColorSelect = document.createElement("select");
+        addColorSelect.className = "preset-color-select";
+        addColorSelect.style.width = "30px";
+        addColorSelect.style.height = "24px";
+
+
+        const firstColorEntry = Object.entries(PRESET_COLORS)[0];
+        Object.entries(PRESET_COLORS).forEach(([key, value]) => {
+            const option = document.createElement("option");
+            option.value = key;
+            option.textContent = "●";
+            option.style.color = value.color;
+            option.title = value.name;
+            addColorSelect.appendChild(option);
+        });
+
+
+        if (firstColorEntry) {
+            addColorSelect.value = firstColorEntry[0];
+            addColorSelect.style.color = firstColorEntry[1].color;
+        }
+
+
+        addColorSelect.onchange = (e) => {
+            const selectedColor = PRESET_COLORS[e.target.value]?.color;
+            if (selectedColor) {
+                e.target.style.color = selectedColor;
+            }
+        };
+
+        addColorCell.appendChild(addColorSelect);
+        addRow.appendChild(addColorCell);
+
+
+        const addTypeCell = document.createElement("td");
+        const addTypeSelect = document.createElement("select");
+        addTypeSelect.className = "preset-type-select";
+
+
+        availableTypes.forEach(type => {
+            const option = document.createElement("option");
+            option.value = type;
+            option.textContent = type;
+            addTypeSelect.appendChild(option);
+        });
+
+
+        const newTypeOption = document.createElement("option");
+        newTypeOption.value = "new";
+        newTypeOption.textContent = "添加新类型...";
+        addTypeSelect.appendChild(newTypeOption);
+
+
+        addTypeSelect.onchange = (e) => {
+            if (e.target.value === "new") {
+                showCustomDialog({
+                    title: "添加新类型",
+                    content: "请输入新的类型名称：",
+                    showInput: true,
+                    inputLabel: "类型名称",
+                    confirmText: "确定",
+                    cancelText: "取消",
+                    onConfirm: (newType) => {
+                        if (newType && newType.trim()) {
+                            const option = document.createElement("option");
+                            option.value = newType;
+                            option.textContent = newType;
+                            e.target.insertBefore(option, newTypeOption);
+                            e.target.value = newType;
+                        } else {
+
+                            e.target.value = e.target.options[0].value;
+                        }
+                    },
+                    onCancel: () => {
+
+                        e.target.value = e.target.options[0].value;
+                    }
+                });
+            }
+        };
+
+        addTypeCell.appendChild(addTypeSelect);
+        addRow.appendChild(addTypeCell);
+
+
+        const addContentCell = document.createElement("td");
+        const addContentInput = document.createElement("input");
+        addContentInput.type = "text";
+        addContentInput.className = "preset-content-input";
+        addContentInput.placeholder = "输入预设内容";
+        addContentCell.appendChild(addContentInput);
+        addRow.appendChild(addContentCell);
+
+
+        const addNoteCell = document.createElement("td");
+        const addNoteInput = document.createElement("input");
+        addNoteInput.type = "text";
+        addNoteInput.className = "preset-note-input";
+        addNoteInput.placeholder = "输入说明";
+        addNoteCell.appendChild(addNoteInput);
+        addRow.appendChild(addNoteCell);
+
+
+        const addActionCell = document.createElement("td");
+        const addButton = document.createElement("button");
+        addButton.className = "preset-add-button";
+        addButton.textContent = "添加";
+        addButton.onclick = () => {
+            const type = addTypeSelect.value;
+            const content = addContentInput.value.trim();
+            const note = addNoteInput.value.trim();
+
+            if (!content) {
+                showCustomDialog({
+                    title: "提示",
+                    content: "请输入预设内容",
+                    confirmText: "确定"
+                });
+                return;
+            }
+
+            if (type === "new") {
+                showCustomDialog({
+                    title: "添加新类型",
+                    content: "请输入新的类型名称：",
+                    showInput: true,
+                    onConfirm: (newType) => {
+                        if (newType) {
+                            const newPreset = {
+                                type: newType,
+                                content: content,
+                                note: note,
+                                color_type: addColorSelect.value
+                            };
+                            presets.push(newPreset);
+                            displayPresetData(tbody, presets);
+                            trackChanges();
+                        }
+                    }
+                });
+            } else {
+                const newPreset = {
+                    type: type,
+                    content: content,
+                    note: note,
+                    color_type: addColorSelect.value
+                };
+                presets.push(newPreset);
+                displayPresetData(tbody, presets);
+                trackChanges();
+            }
+        };
+        addActionCell.appendChild(addButton);
+        addRow.appendChild(addActionCell);
+
+        tbody.appendChild(addRow);
+    } catch (error) {
+        console.error("显示预设数据时出错:", error);
+        throw error;
+    }
+}
+
+
+function showCustomDialog({ title, content, inputLabel, defaultValue = '', confirmText = '确定', cancelText = null, onConfirm, onCancel, showInput = false }) {
+    const overlay = document.createElement('div');
+    overlay.className = 'custom-dialog-overlay';
+
+    const dialog = document.createElement('div');
+    dialog.className = 'custom-dialog';
+
+    let input = null;
+
+    dialog.innerHTML = `
+        <div class="custom-dialog-title">${title}</div>
+        <div class="custom-dialog-content">${content}</div>
+        ${showInput ? `
+            <div class="custom-dialog-input-group">
+                ${inputLabel ? `<label>${inputLabel}</label>` : ''}
+                <input type="text" class="custom-dialog-input" value="${defaultValue}">
+            </div>
+        ` : ''}
+        <div class="custom-dialog-buttons">
+            ${cancelText ? `<button class="custom-dialog-button secondary">${cancelText}</button>` : ''}
+            <button class="custom-dialog-button primary">${confirmText}</button>
+        </div>
+    `;
+
+    if (showInput) {
+        input = dialog.querySelector('.custom-dialog-input');
+        input.focus();
+    }
+
+    const buttons = dialog.querySelectorAll('button');
+    if (cancelText) {
+        buttons[0].onclick = () => {
+            document.body.removeChild(overlay);
+            onCancel?.();
+        };
+    }
+
+    buttons[cancelText ? 1 : 0].onclick = () => {
+        document.body.removeChild(overlay);
+        onConfirm?.(input?.value);
+    };
+
+    overlay.appendChild(dialog);
+    document.body.appendChild(overlay);
+
+    return overlay;
+}
+
+
+function showSuccessToast(message, duration = 2000) {
+    const toast = document.createElement('div');
+    toast.className = 'success-toast';
+    toast.textContent = message;
+    document.body.appendChild(toast);
+
+    setTimeout(() => {
+        toast.style.animation = 'toastSlideOut 0.3s ease-in-out forwards';
+        setTimeout(() => {
+            if (document.body.contains(toast)) {
+                document.body.removeChild(toast);
+            }
+        }, 300);
+    }, duration);
+}
+
+
+function handleTypeChange(typeSelect, preset, newTypeOption) {
+    if (typeSelect.value === "new") {
+        showCustomDialog({
+            title: "添加新类型",
+            content: "请输入新的类型名称：",
+            showInput: true,
+            inputLabel: "类型名称",
+            confirmText: "确定",
+            cancelText: "取消",
+            onConfirm: (newType) => {
+                if (newType && newType.trim()) {
+                    const option = document.createElement("option");
+                    option.value = newType;
+                    option.textContent = newType;
+                    typeSelect.insertBefore(option, newTypeOption);
+                    typeSelect.value = newType;
+                    if (preset) {
+                        preset.type = newType;
+                        trackChanges();
+                    }
+                } else {
+                    typeSelect.value = preset ? preset.type : typeSelect.options[0].value;
+                }
+            },
+            onCancel: () => {
+                typeSelect.value = preset ? preset.type : typeSelect.options[0].value;
+            }
+        });
+    } else if (preset) {
+        preset.type = typeSelect.value;
+        trackChanges();
+    }
+}
+
+
+let hasChanges = false;
+
+function trackChanges() {
+    hasChanges = true;
+}
+
+
+function handleClose(dialog, overlay) {
+
+    if (hasChanges) {
+        showCustomDialog({
+            title: "确认关闭",
+            content: "您有未保存的修改，确定要关闭吗？",
+            confirmText: "取消",
+            cancelText: "确定",
+            onConfirm: () => {
+
+            },
+            onCancel: () => {
+                document.body.removeChild(dialog);
+                document.body.removeChild(overlay);
+                hasChanges = false;
+            }
+        });
+    } else {
+        document.body.removeChild(dialog);
+        document.body.removeChild(overlay);
+    }
+}
+
+
+async function handleSave(dialog, overlay, tbody) {
+    try {
+        const presets = await loadPresetData(tbody);
+
+        const response = await fetch('/prompt_widget/save_presets', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ presets })
+        });
+
+        const result = await response.json();
+
+        if (!response.ok) {
+            throw new Error(result.message || `保存失败: ${response.status} ${response.statusText}`);
+        }
+
+        if (result.status === "success") {
+
+            await TranslateManager.reloadConfig();
+
+            showSuccessToast("保存成功！预设已更新");
+            hasChanges = false;
+        } else {
+            throw new Error(result.message || "保存失败");
+        }
+    } catch (error) {
+        console.error("保存预设失败:", error);
+        showCustomDialog({
+            title: "保存失败",
+            content: error.message,
+            confirmText: "确定"
+        });
+    }
+}
+
+
+async function showAPIConfigDialog() {
+    try {
+        if (DEBUG) console.log("正在打开API配置对话框...");
+
+
+        hasChanges = false;
+
+
+        const overlay = document.createElement("div");
+        overlay.className = "preset-overlay";
+        document.body.appendChild(overlay);
+
+
+        const dialog = document.createElement("div");
+        dialog.className = "prompt-preset-manager-dialog";
+
+
+        const content = document.createElement("div");
+        content.className = "prompt-preset-manager-content";
+
+
+        const closeButton = document.createElement("button");
+        closeButton.className = "preset-close-button";
+        closeButton.innerHTML = "&#215;";
+        closeButton.onclick = () => handleClose(dialog, overlay);
+        content.appendChild(closeButton);
+
+
+        const title = document.createElement("h2");
+        title.className = "prompt-preset-title";
+        title.textContent = "API配置";
+        content.appendChild(title);
+
+
+        const description = document.createElement("p");
+        description.textContent = "配置百度翻译和LLM扩写功能的API参数。";
+        description.style.marginBottom = "0px";
+        content.appendChild(description);
+
+
+        const loadingIndicator = document.createElement("div");
+        loadingIndicator.className = "preset-loading-indicator";
+        loadingIndicator.textContent = "正在加载配置数据...";
+        content.appendChild(loadingIndicator);
+
+
+        const formContainer = document.createElement("div");
+        formContainer.className = "api-config-container";
+        formContainer.style.display = "none";
+
+
+        const translateSection = document.createElement("div");
+        translateSection.className = "api-config-section";
+
+        const translateTitle = document.createElement("h3");
+        translateTitle.textContent = "百度翻译配置";
+        translateSection.appendChild(translateTitle);
+
+
+        const translateForm = document.createElement("div");
+        translateForm.className = "api-config-form";
+
+
+        const translateRow = document.createElement("div");
+        translateRow.className = "api-config-row";
+
+
+        const appidGroup = createInputGroup("百度翻译AppID", "appid", "text", "输入百度翻译AppID", null, null, null, "half-width");
+        translateRow.appendChild(appidGroup);
+
+
+        const keyGroup = createInputGroup("百度翻译Key", "key", "text", "输入百度翻译Key", null, null, null, "half-width");
+        translateRow.appendChild(keyGroup);
+
+        translateForm.appendChild(translateRow);
+        translateSection.appendChild(translateForm);
+        formContainer.appendChild(translateSection);
+
+
+        const llmSection = document.createElement("div");
+        llmSection.className = "api-config-section";
+
+        const llmTitle = document.createElement("h3");
+        llmTitle.textContent = "LLM扩写配置";
+        llmSection.appendChild(llmTitle);
+
+
+        const llmForm = document.createElement("div");
+        llmForm.className = "api-config-form";
+
+
+        const llmRow1 = document.createElement("div");
+        llmRow1.className = "api-config-row";
+
+
+        const llmKeyGroup = createInputGroup("API Key", "llm_api_key", "text", "输入LLM API Key", null, null, null, "half-width");
+        llmRow1.appendChild(llmKeyGroup);
+
+
+        const apiBaseGroup = createInputGroup("API Base URL", "llm_api_base", "text", "输入API Base URL", null, null, null, "half-width");
+        llmRow1.appendChild(apiBaseGroup);
+
+        llmForm.appendChild(llmRow1);
+
+
+        const llmRow2 = document.createElement("div");
+        llmRow2.className = "api-config-row";
+
+
+        const modelGroup = createInputGroup("模型", "llm_model", "text", "输入模型名称", null, null, null, "model-width");
+        llmRow2.appendChild(modelGroup);
+
+
+        const tempGroup = createInputGroup("Temperature", "llm_temperature", "number", "输入temperature值", "0", "1", "0.1", "quarter-width");
+        llmRow2.appendChild(tempGroup);
+
+
+        const tokensGroup = createInputGroup("Max Tokens", "llm_max_tokens", "number", "输入最大token数", "1", "2000", "1", "quarter-width");
+        llmRow2.appendChild(tokensGroup);
+
+        llmForm.appendChild(llmRow2);
+
+
+        const promptGroup = createInputGroup("System Prompt", "llm_system_prompt", "textarea", "输入系统提示词", null, null, null, "full-width");
+        llmForm.appendChild(promptGroup);
+
+        llmSection.appendChild(llmForm);
+        formContainer.appendChild(llmSection);
+
+        content.appendChild(formContainer);
+
+
+        const footer = document.createElement("div");
+        footer.className = "api-config-footer";
+
+
+        const saveButton = document.createElement("button");
+        saveButton.className = "api-config-save";
+        saveButton.textContent = "保存";
+        saveButton.onclick = () => handleSaveConfig(dialog, overlay, formContainer);
+
+        footer.appendChild(saveButton);
+        content.appendChild(footer);
+
+
+        dialog.appendChild(content);
+        document.body.appendChild(dialog);
+
+
+        dialog.addEventListener("click", (e) => {
+            if (e.target === dialog) {
+                handleClose(dialog, overlay);
+            }
+        });
+
+
+        try {
+            const config = await loadConfig();
+
+
+            await new Promise(resolve => setTimeout(resolve, 100));
+
+
+            await displayConfig(formContainer, config);
+
+
+            const inputs = formContainer.querySelectorAll('input, textarea');
+            inputs.forEach(input => {
+                input.addEventListener('change', trackChanges);
+            });
+
+
+            loadingIndicator.style.display = "none";
+            formContainer.style.display = "block";
+            if (DEBUG) console.log("配置数据加载完成");
+        } catch (error) {
+            loadingIndicator.textContent = `加载失败: ${error.message}`;
+            loadingIndicator.style.color = "red";
+            console.error("配置数据加载失败:", error);
+        }
+    } catch (error) {
+        console.error("创建API配置对话框时出错:", error);
+        showCustomDialog({
+            title: "错误",
+            content: `创建API配置对话框时出错: ${error.message}`,
+            confirmText: "确定",
+            showCancel: false
+        });
+    }
+}
+
+
+function createInputGroup(label, id, type, placeholder, min, max, step, widthClass = "") {
+    const group = document.createElement("div");
+    group.className = `api-config-group ${widthClass}`;
+
+    const labelEl = document.createElement("label");
+    labelEl.textContent = label;
+    labelEl.htmlFor = id;
+    group.appendChild(labelEl);
+
+    let input;
+    if (type === "textarea") {
+        input = document.createElement("textarea");
+        input.rows = 4;
+    } else {
+        input = document.createElement("input");
+        input.type = type;
+        if (type === "number") {
+            input.min = min;
+            input.max = max;
+            input.step = step;
+        }
+    }
+
+    input.id = id;
+    input.name = id;
+    input.className = type === "textarea" ? "api-config-textarea" : "api-config-input";
+    input.placeholder = placeholder;
+    group.appendChild(input);
+
+    return group;
+}
+
+
+async function loadConfig() {
+    try {
+        const response = await fetch('/prompt_widget/load_config');
+        if (!response.ok) {
+            throw new Error(`Failed to load config: ${response.status} ${response.statusText}`);
+        }
+
+        const config = await response.json();
+        return config;
+    } catch (error) {
+        console.error("加载配置失败:", error);
+        throw error;
+    }
+}
+
+
+async function displayConfig(container, config) {
+    try {
+
+        if (config.prompt_translate) {
+            const appidInput = container.querySelector('#appid');
+            const keyInput = container.querySelector('#key');
+
+            if (appidInput) appidInput.value = config.prompt_translate.appid || '';
+            if (keyInput) keyInput.value = config.prompt_translate.key || '';
+        }
+
+
+        if (config.llm_expand) {
+            const inputs = {
+                'llm_api_key': config.llm_expand.api_key || '',
+                'llm_api_base': config.llm_expand.api_base || 'https://api.openai.com/v1',
+                'llm_model': config.llm_expand.model || 'gpt-3.5-turbo',
+                'llm_temperature': config.llm_expand.temperature || 0.7,
+                'llm_max_tokens': config.llm_expand.max_tokens || 1000,
+                'llm_system_prompt': config.llm_expand.system_prompt || ''
+            };
+
+
+            Object.entries(inputs).forEach(([id, value]) => {
+                const input = container.querySelector(`#${id}`);
+                if (input) {
+                    input.value = value;
+                } else {
+                    console.warn(`找不到ID为 ${id} 的输入框`);
+                }
+            });
+        }
+    } catch (error) {
+        console.error("显示配置数据时出错:", error);
+        throw error;
+    }
+}
+
+
+async function handleSaveConfig(dialog, overlay, container) {
+    try {
+        const config = {
+            prompt_translate: {
+                appid: container.querySelector('#appid').value,
+                key: container.querySelector('#key').value
+            },
+            llm_expand: {
+                api_key: container.querySelector('#llm_api_key').value,
+                api_base: container.querySelector('#llm_api_base').value,
+                model: container.querySelector('#llm_model').value,
+                temperature: parseFloat(container.querySelector('#llm_temperature').value),
+                max_tokens: parseInt(container.querySelector('#llm_max_tokens').value),
+                system_prompt: container.querySelector('#llm_system_prompt').value
+            }
+        };
+
+        const response = await fetch('/prompt_widget/save_config', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(config)
+        });
+
+        const result = await response.json();
+
+        if (!response.ok) {
+            throw new Error(result.message || `保存失败: ${response.status} ${response.statusText}`);
+        }
+
+        if (result.status === "success") {
+
+            await TranslateManager.reloadConfig();
+
+            showSuccessToast("保存成功！配置已更新");
+            hasChanges = false;
+
+
+            document.body.removeChild(dialog);
+            document.body.removeChild(overlay);
+        } else {
+            throw new Error(result.message || "保存失败");
+        }
+    } catch (error) {
+        console.error("保存配置失败:", error);
+        showCustomDialog({
+            title: "保存失败",
+            content: error.message,
+            confirmText: "确定"
+        });
+    }
+}
+
+

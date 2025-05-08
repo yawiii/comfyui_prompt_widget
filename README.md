@@ -1,9 +1,16 @@
+
+
+
 # ComfyUI Prompt Widget✨提示词小部件
-
-
 一个可以在任意多行输入框实现翻译、扩写、预设、历史等功能的提示词小部件。    
-如还有疑问，可以查看视频教程：![Static Badge](https://img.shields.io/badge/B%E7%AB%99-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-blue?style=flat&logo=bilibili&logoColor=%2300A5DC&labelColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2Fyawiii%2Fcomfyui_prompt_widget)
-![Static Badge](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-blue?style=flat&logo=TikTok&logoColor=%2324292E&labelColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2Fyawiii%2Fcomfyui_prompt_widget)   
+
+<a href="https://space.bilibili.com/520680644"><img src="https://img.shields.io/badge/B%E7%AB%99-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-blue?logo=bilibili&logoColor=2300A5DC&labelColor=%23FFFFFF"></a> &ensp;
+<a href="https://v.douyin.com/gJnTFSw_tZI/"><img src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-blue?style=flat&logo=TikTok&logoColor=%2324292E&labelColor=%23FFFFFF"></a> &ensp;
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=rLqiPclphF6D3aGc5Qu0bh6oPa8y0sjt&jump_from=webapi&authKey=JtSkQvgI9EZQPcZzmkqBSFkgregRcv56sz/Di637SxzpDHYtCbE8hQGAvk+EoxW"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-15327075-blue?logo=QQ&logoColor=2300A5DC&labelColor=%23FFFFFF&link=https%3A%2F%2Fspace.bilibili.com%2F520680644"></a> &ensp;
+
+
+
+
 
 ## ✨ 功能介绍
 
@@ -88,10 +95,12 @@ glm-4-flash-250414
 
 如果是硅基流动API Base URL填：
 ```
-https://api.siliconflow.cn/v1/
+https://api.siliconflow.cn/v1/chat/completions
 ```
 模型根据自己选择模型填写即可，例如：
 ```
+Qwen/Qwen2-7B-Instruct
+THUDM/GLM-4-9B-0414
 deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
 ```
 

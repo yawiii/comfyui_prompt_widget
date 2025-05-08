@@ -5,7 +5,7 @@ import { api } from "../../../scripts/api.js";
 
 const EXTENSION_NAME = "ComfyUI.PromptWidget";
 
-const EXTENSION_VERSION = "1.0.2";
+const EXTENSION_VERSION = "1.0.1";
 
 
 let DEBUG = false;

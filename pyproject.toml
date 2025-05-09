@@ -1,7 +1,7 @@
 [project]
 name = "comfyui_prompt_widget"
 description = "ComfyUI Prompt Widget一个可以在任意多行输入框实现翻译、扩写、预设、历史等功能的提示词小部件。ComfyUI Prompt Widget is a prompt widget that can implement functions such as translation, expansion, preset, and history in any multi-line input box."
-version = "1.0.2"
+version = "1.0.4"
 license = { file = "LICENSE" }
 dependencies  = [] # Filled in from requirements.txt
 

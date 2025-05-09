@@ -1,11 +1,10 @@
-
 import { app } from "../../../scripts/app.js";
 import { $el } from "../../../scripts/ui.js";
 import { api } from "../../../scripts/api.js";
 
 const EXTENSION_NAME = "ComfyUI.PromptWidget";
 
-const EXTENSION_VERSION = "1.0.1";
+const EXTENSION_VERSION = "1.0.2";
 
 
 let DEBUG = false;
@@ -4459,13 +4458,26 @@ async function showPresetManagerDialog() {
         dialog.appendChild(content);
         document.body.appendChild(dialog);
 
+        // 添加鼠标事件跟踪
+        let mouseDownOnDialog = false;
 
-        dialog.addEventListener("click", (e) => {
+        dialog.addEventListener("mousedown", (e) => {
             if (e.target === dialog) {
-                handleClose(dialog, overlay);
+                mouseDownOnDialog = true;
             }
         });
 
+        dialog.addEventListener("mouseup", (e) => {
+            if (e.target === dialog && mouseDownOnDialog) {
+                handleClose(dialog, overlay);
+            }
+            mouseDownOnDialog = false;
+        });
+
+        // 鼠标移出对话框区域时重置标记
+        dialog.addEventListener("mouseleave", () => {
+            mouseDownOnDialog = false;
+        });
 
         try {
             const presets = await loadPresetData();
@@ -5386,13 +5398,33 @@ async function showAPIConfigDialog() {
         dialog.appendChild(content);
         document.body.appendChild(dialog);
 
+        // 添加鼠标事件跟踪
+        let mouseDownOnDialog = false;
 
-        dialog.addEventListener("click", (e) => {
+        dialog.addEventListener("mousedown", (e) => {
+            if (e.target === dialog) {
+                mouseDownOnDialog = true;
+            }
+        });
+
+        dialog.addEventListener("mouseup", (e) => {
+            if (e.target === dialog && mouseDownOnDialog) {
+                handleClose(dialog, overlay);
+            }
+            mouseDownOnDialog = false;
+        });
+
+        // 鼠标移出对话框区域时重置标记
+        dialog.addEventListener("mouseleave", () => {
+            mouseDownOnDialog = false;
+        });
+
+        // 移除之前的点击事件监听器
+        dialog.removeEventListener("click", (e) => {
             if (e.target === dialog) {
                 handleClose(dialog, overlay);
             }
         });
-
 
         try {
             const config = await loadConfig();

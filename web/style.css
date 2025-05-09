@@ -81,7 +81,7 @@
 
 /* ======== 组件样式 ======== */
 
-/* 游戏风格数值飘动效果 */
+/* 状态提示样式 */
 .prompt_widget_status {
     text-shadow: 0 2px 4px rgba(0,0,0,0.8);
     animation: clipFadeIn 0.2s ease-in-out;
@@ -111,53 +111,47 @@
 /* 不同状态的颜色效果 */
 .prompt_widget_status.success {
     color: rgba(120, 255, 120, 1) !important;
-    /* text-shadow: 0 0 5px rgba(0, 255, 0, 0.5); */
     background-color: rgba(20, 50, 20, 0.7);
 }
 
 .prompt_widget_status.error {
     color: rgba(255, 120, 120, 1) !important;
-    /* text-shadow: 0 0 5px rgba(255, 0, 0, 0.5); */
     background-color: rgba(50, 20, 20, 0.7);
 }
 
 .prompt_widget_status.restore {
     color: rgba(120, 180, 255, 1) !important;
-    /* text-shadow: 0 0 5px rgba(0, 100, 255, 0.5); */
     background-color: rgba(20, 20, 50, 0.7);
 }
 
 .prompt_widget_status.loading {
     color: rgba(255, 255, 180, 1) !important;
-    /* text-shadow: 0 0 5px rgba(255, 255, 0, 0.5); */
     background-color: rgba(20, 20, 20, 0.7);
 }
 
 .prompt_widget_status.info {
     color: rgba(180, 180, 255, 1) !important;
-    /* text-shadow: 0 0 5px rgba(100, 100, 255, 0.5); */
     background-color: rgba(30, 30, 60, 0.7);
 }
 
 /* 按钮状态 */
-.widget_button_active { 
-    opacity: 1 !important; 
-    transform: scale(1.1) !important; 
+.widget_button_active {
+    opacity: 1 !important;
+    transform: scale(1.1) !important;
 }
 
-.widget_button_disabled { 
-    opacity: 0.3 !important; 
-    cursor: default !important; 
-    pointer-events: none; 
+.widget_button_disabled {
+    opacity: 0.3 !important;
+    cursor: default !important;
+    pointer-events: none;
 }
 
-.widget_button_loading { 
-    animation: clipButtonLoading 1.5s infinite ease-in-out; 
+.widget_button_loading {
+    animation: clipButtonLoading 1.5s infinite ease-in-out;
 }
 
 /* 图标按钮样式 */
 .widget_icon_button {
-    /* display: inline-block; */
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -167,7 +161,6 @@
     background-size: contain;
     background-repeat: no-repeat;
     opacity: 0.8;
-    /* margin-left: 4px; */
     border: none;
     padding: 0;
     background-color: transparent;
@@ -196,9 +189,9 @@
 }
 
 .widget_hide {
-    display: flex !important; /* 确保元素在动画过程中保持可见 */
+    display: flex !important;
     animation: clipFadeOutUp 0.3s ease-in-out forwards !important;
-    pointer-events: none; /* 在隐藏动画过程中防止点击 */
+    pointer-events: none;
 }
 
 /* 小部件容器 */
@@ -220,6 +213,7 @@
     -webkit-backdrop-filter: blur(4px);
     transform-origin: bottom right;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    user-select: none;
 
 }
 
@@ -230,8 +224,8 @@
     bottom: 8px;
 }
 
-.prompt_widget_box:hover { 
-    opacity: 1 !important; 
+.prompt_widget_box:hover {
+    opacity: 1 !important;
     transform: scale(1.05);
 }
 
@@ -247,8 +241,8 @@
 }
 
 /* 文本更新动画 */
-.prompt_text_updated { 
-    animation: clipTextPulse 0.3s ease-in-out; 
+.prompt_text_updated {
+    animation: clipTextPulse 0.3s ease-in-out;
 }
 
 /* 通用弹窗样式 */
@@ -264,7 +258,7 @@
 }
 
 /* 历史记录弹窗 */
-.prompt_history_popup { 
+.prompt_history_popup {
     position: absolute;
     z-index: 10000;
     background-color: rgba(30, 30, 30, 0.95);
@@ -279,12 +273,12 @@
 }
 
 /* 向上弹出的历史记录弹窗 */
-.prompt_history_popup.popup_up { 
+.prompt_history_popup.popup_up {
     animation: clipFadeInUp 0.2s ease-in-out;
 }
 
 /* 向下弹出的历史记录弹窗 */
-.prompt_history_popup.popup_down { 
+.prompt_history_popup.popup_down {
     animation: clipFadeInDown 0.2s ease-in-out;
 }
 
@@ -370,8 +364,8 @@
     text-overflow: ellipsis;
     transition: background-color 0.2s;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-    background-color: rgba(30, 30, 30, 0.95); /* 统一背景色 */
-    position: relative; /* 添加相对定位，方便左侧标识定位 */
+    background-color: rgba(30, 30, 30, 0.95);
+    position: relative;
 }
 
 .prompt_history_item:hover {
@@ -379,13 +373,13 @@
 }
 
 .prompt_history_item.current {
-    font-weight: bold; 
-    color: rgba(255, 255, 255, 0.9); 
-    background-color: rgba(100, 100, 255, 0.025); /* 菜单首项颜色 */
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(100, 100, 255, 0.025);
 }
 
-.prompt_history_item:active { 
-    background-color: rgba(255, 255, 255, 0.2) !important; 
+.prompt_history_item:active {
+    background-color: rgba(255, 255, 255, 0.2) !important;
 }
 
 /* 当前节点（置顶项）的左侧标识 */
@@ -396,7 +390,7 @@
     top: 0;
     bottom: 0;
     width: 3px;
-    background-color: rgba(60, 255, 161, 0.9); /* 置顶标识颜色 */
+    background-color: rgba(60, 255, 161, 0.9);
 }
 
 /* 节点ID颜色类 */
@@ -593,6 +587,7 @@
     border-bottom: 1px solid #444;
     font-size: 1.5em;
     position: relative;  /* 添加相对定位 */
+    user-select: none;
 }
 
 .preset-table-container {
@@ -601,8 +596,8 @@
     margin: 10px 0;
     border: 0px solid #333;
     border-radius: 4px;
-    background-color: rgba(40, 40, 40, 0.2)
-    
+    background-color: rgba(40, 40, 40, 0.2);
+    user-select: none;
 
 }
 
@@ -700,7 +695,7 @@
     max-width: 36px;
     padding: 4px;
     text-align: center;
-    
+
 }
 
 /* 修改类型列的宽度 */
@@ -891,6 +886,7 @@
 .preset-save-button {
     background-color: var(--primary-bg);
     color: var(--primary-fg);
+    user-select: none;
 }
 
 .preset-save-button:hover {
@@ -901,11 +897,13 @@
 .preset-cancel-button {
     background-color: #444;
     color: #ccc;
+    user-select: none;
 }
 
 .preset-cancel-button:hover {
     background-color: #555;
     color: #fff;
+    user-select: none;
 }
 
 /* 添加操作按钮分割线 */
@@ -1104,6 +1102,7 @@
     border: 0px solid #444;
     border-radius: 6px;
     padding: 15px;
+    user-select: none;
 }
 
 .api-config-section h3 {
@@ -1262,15 +1261,18 @@
     border-radius: 4px;
     cursor: pointer;
     transition: all 0.2s;
+    user-select: none;
 }
 
 .api-config-save:hover {
     background-color: #3580c0;
     transform: translateY(-1px);
+    user-select: none;
 }
 
 .api-config-save:active {
     transform: translateY(0);
+    user-select: none;
 }
 
 /* 移除preset-manager-footer的边框，因为我们使用了新的api-config-footer */
